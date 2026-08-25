@@ -1,0 +1,2401 @@
+family_id,region,survey_type,satisfied_with_services,satisfied_case_management,involved_in_service_planning,gets_needed_information,services_meet_needs,respite_access_adequate,community_connections_support,would_recommend_services
+FAM-00001,Western New York,Adult Family Survey,1,1,0,1,1,0,0,0
+FAM-00002,Long Island,Adult Family Survey,1,0,1,1,1,0,1,1
+FAM-00003,Southern Tier,Adult Family Survey,1,1,1,1,1,0,0,1
+FAM-00004,Long Island,Family/Guardian Survey,1,1,1,1,1,0,1,0
+FAM-00005,Western New York,Family/Guardian Survey,0,0,0,0,1,1,1,1
+FAM-00006,Finger Lakes,Child Family Survey,1,1,1,1,1,0,1,1
+FAM-00007,Western New York,Adult Family Survey,1,1,0,0,1,0,0,0
+FAM-00008,North Country,Adult Family Survey,1,1,0,1,1,0,1,1
+FAM-00009,Long Island,Child Family Survey,1,1,1,1,1,0,1,0
+FAM-00010,Mohawk Valley,Adult Family Survey,0,1,1,1,1,1,0,1
+FAM-00011,Western New York,Family/Guardian Survey,1,1,1,1,1,0,1,1
+FAM-00012,New York City,Child Family Survey,0,1,1,1,1,1,0,0
+FAM-00013,Southern Tier,Child Family Survey,0,1,1,1,1,1,1,1
+FAM-00014,Long Island,Adult Family Survey,1,1,1,0,1,1,1,1
+FAM-00015,Capital Region,Family/Guardian Survey,0,1,1,0,1,1,0,1
+FAM-00016,Southern Tier,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-00017,New York City,Child Family Survey,1,1,1,1,0,0,1,0
+FAM-00018,Long Island,Child Family Survey,1,1,1,1,0,0,0,1
+FAM-00019,New York City,Adult Family Survey,0,1,1,1,1,1,1,1
+FAM-00020,Long Island,Adult Family Survey,1,1,1,1,0,1,1,0
+FAM-00021,New York City,Adult Family Survey,1,1,0,1,1,1,1,1
+FAM-00022,Hudson Valley,Child Family Survey,1,1,1,0,0,0,1,1
+FAM-00023,New York City,Child Family Survey,1,1,1,1,1,1,0,1
+FAM-00024,Long Island,Child Family Survey,1,1,0,0,1,1,1,1
+FAM-00025,Hudson Valley,Adult Family Survey,0,1,1,0,1,1,0,1
+FAM-00026,Long Island,Child Family Survey,1,1,1,0,1,1,1,1
+FAM-00027,Western New York,Adult Family Survey,0,1,0,0,0,0,0,0
+FAM-00028,Southern Tier,Adult Family Survey,1,1,1,0,1,1,0,1
+FAM-00029,Capital Region,Adult Family Survey,0,1,0,1,0,0,1,0
+FAM-00030,Capital Region,Child Family Survey,1,1,1,0,1,0,1,1
+FAM-00031,Finger Lakes,Family/Guardian Survey,1,1,1,1,1,0,1,1
+FAM-00032,Hudson Valley,Family/Guardian Survey,0,0,1,1,1,0,0,1
+FAM-00033,Southern Tier,Child Family Survey,1,0,1,1,1,1,1,1
+FAM-00034,Central New York,Family/Guardian Survey,1,1,1,0,0,0,0,1
+FAM-00035,New York City,Adult Family Survey,1,0,1,1,1,0,1,1
+FAM-00036,Hudson Valley,Family/Guardian Survey,1,0,1,0,1,0,0,1
+FAM-00037,Hudson Valley,Adult Family Survey,0,0,1,1,1,0,0,1
+FAM-00038,Long Island,Family/Guardian Survey,1,1,0,1,1,1,0,1
+FAM-00039,New York City,Family/Guardian Survey,1,1,0,1,0,1,1,1
+FAM-00040,Central New York,Family/Guardian Survey,1,1,1,0,1,1,0,1
+FAM-00041,Hudson Valley,Family/Guardian Survey,1,1,1,0,0,0,1,1
+FAM-00042,New York City,Child Family Survey,1,1,1,1,1,1,0,1
+FAM-00043,Capital Region,Adult Family Survey,1,0,1,0,1,0,1,0
+FAM-00044,Hudson Valley,Adult Family Survey,1,1,1,1,0,1,0,1
+FAM-00045,New York City,Family/Guardian Survey,0,1,1,0,0,1,0,1
+FAM-00046,Long Island,Adult Family Survey,0,1,1,0,1,1,0,1
+FAM-00047,Hudson Valley,Family/Guardian Survey,0,1,1,1,0,0,0,1
+FAM-00048,Western New York,Adult Family Survey,1,0,1,1,0,0,1,0
+FAM-00049,Long Island,Child Family Survey,1,1,1,1,1,0,1,1
+FAM-00050,Long Island,Child Family Survey,0,1,1,1,1,0,1,1
+FAM-00051,Hudson Valley,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-00052,Finger Lakes,Adult Family Survey,1,1,1,0,1,0,1,1
+FAM-00053,Hudson Valley,Family/Guardian Survey,1,1,1,1,0,1,0,1
+FAM-00054,Finger Lakes,Family/Guardian Survey,1,1,1,1,1,0,0,1
+FAM-00055,Finger Lakes,Adult Family Survey,1,1,1,1,1,1,0,1
+FAM-00056,New York City,Family/Guardian Survey,1,0,1,1,1,1,1,1
+FAM-00057,Long Island,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-00058,Long Island,Child Family Survey,1,1,1,0,1,0,1,1
+FAM-00059,Long Island,Family/Guardian Survey,0,1,1,1,1,1,1,1
+FAM-00060,Finger Lakes,Adult Family Survey,1,1,1,0,1,1,0,1
+FAM-00061,Central New York,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-00062,Mohawk Valley,Child Family Survey,0,1,0,1,1,0,1,1
+FAM-00063,New York City,Family/Guardian Survey,1,1,1,1,1,0,1,0
+FAM-00064,Western New York,Family/Guardian Survey,1,1,1,1,0,0,0,1
+FAM-00065,New York City,Family/Guardian Survey,1,1,0,0,0,0,1,1
+FAM-00066,New York City,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-00067,New York City,Family/Guardian Survey,1,1,0,1,1,1,1,1
+FAM-00068,New York City,Child Family Survey,1,0,1,0,1,1,0,1
+FAM-00069,Capital Region,Child Family Survey,1,1,1,1,0,1,1,1
+FAM-00070,New York City,Child Family Survey,1,1,1,0,0,1,0,1
+FAM-00071,Western New York,Adult Family Survey,1,1,0,0,0,1,1,1
+FAM-00072,Long Island,Family/Guardian Survey,1,0,1,1,1,1,0,1
+FAM-00073,Capital Region,Family/Guardian Survey,1,0,1,0,1,1,0,1
+FAM-00074,Capital Region,Adult Family Survey,1,0,0,1,0,0,1,1
+FAM-00075,New York City,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-00076,Southern Tier,Family/Guardian Survey,0,1,1,1,1,0,1,1
+FAM-00077,Mohawk Valley,Adult Family Survey,1,1,1,1,1,0,1,1
+FAM-00078,North Country,Adult Family Survey,1,1,1,1,1,0,1,1
+FAM-00079,New York City,Adult Family Survey,1,1,1,1,1,0,1,1
+FAM-00080,Hudson Valley,Child Family Survey,0,1,0,0,1,0,0,0
+FAM-00081,New York City,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-00082,New York City,Family/Guardian Survey,1,1,1,1,1,0,0,1
+FAM-00083,Long Island,Family/Guardian Survey,1,1,1,1,1,1,1,0
+FAM-00084,New York City,Child Family Survey,1,1,0,1,1,0,1,1
+FAM-00085,Hudson Valley,Child Family Survey,1,1,0,0,1,1,1,1
+FAM-00086,Hudson Valley,Adult Family Survey,0,1,0,0,1,0,1,1
+FAM-00087,Finger Lakes,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-00088,New York City,Child Family Survey,1,0,0,0,1,0,0,1
+FAM-00089,Long Island,Adult Family Survey,1,1,1,1,0,1,1,0
+FAM-00090,Southern Tier,Adult Family Survey,1,0,1,0,0,1,0,0
+FAM-00091,North Country,Child Family Survey,1,1,1,1,0,0,1,1
+FAM-00092,Western New York,Adult Family Survey,0,1,1,1,1,0,0,1
+FAM-00093,Finger Lakes,Adult Family Survey,1,1,1,0,1,1,1,1
+FAM-00094,New York City,Child Family Survey,1,1,0,0,1,1,1,1
+FAM-00095,Long Island,Adult Family Survey,0,1,1,1,0,0,0,0
+FAM-00096,Western New York,Adult Family Survey,0,0,1,1,1,1,0,1
+FAM-00097,Capital Region,Family/Guardian Survey,1,1,1,1,0,1,1,1
+FAM-00098,North Country,Child Family Survey,1,1,1,1,0,1,0,0
+FAM-00099,Long Island,Adult Family Survey,1,0,1,0,0,1,1,1
+FAM-00100,Hudson Valley,Adult Family Survey,1,1,1,1,0,1,0,1
+FAM-00101,Southern Tier,Adult Family Survey,1,1,1,1,1,1,0,1
+FAM-00102,Southern Tier,Adult Family Survey,1,1,1,0,1,1,1,1
+FAM-00103,Western New York,Adult Family Survey,0,0,1,1,1,1,1,1
+FAM-00104,Long Island,Family/Guardian Survey,1,1,0,1,1,0,0,1
+FAM-00105,Western New York,Family/Guardian Survey,1,1,1,1,0,1,0,0
+FAM-00106,Hudson Valley,Adult Family Survey,1,0,1,0,1,1,0,0
+FAM-00107,Hudson Valley,Child Family Survey,1,1,0,1,1,1,1,1
+FAM-00108,Western New York,Child Family Survey,0,1,1,1,1,0,1,1
+FAM-00109,Long Island,Family/Guardian Survey,1,1,0,1,1,1,1,1
+FAM-00110,New York City,Family/Guardian Survey,1,0,1,1,1,1,1,1
+FAM-00111,Long Island,Adult Family Survey,1,1,0,0,1,1,0,1
+FAM-00112,Central New York,Adult Family Survey,1,1,1,0,1,1,1,1
+FAM-00113,New York City,Family/Guardian Survey,1,1,0,0,1,1,0,1
+FAM-00114,New York City,Family/Guardian Survey,1,1,1,1,1,1,0,1
+FAM-00115,New York City,Family/Guardian Survey,1,1,1,1,1,1,0,1
+FAM-00116,Long Island,Family/Guardian Survey,1,1,1,1,0,0,1,0
+FAM-00117,Western New York,Family/Guardian Survey,0,0,1,1,0,1,1,0
+FAM-00118,Capital Region,Adult Family Survey,1,1,1,0,0,0,0,1
+FAM-00119,Hudson Valley,Child Family Survey,1,1,1,0,1,0,0,1
+FAM-00120,Southern Tier,Child Family Survey,1,1,1,1,0,1,0,1
+FAM-00121,Hudson Valley,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-00122,Hudson Valley,Child Family Survey,1,1,1,0,0,0,1,1
+FAM-00123,Finger Lakes,Adult Family Survey,0,1,1,1,1,0,1,1
+FAM-00124,Hudson Valley,Adult Family Survey,0,0,1,1,0,1,1,1
+FAM-00125,New York City,Family/Guardian Survey,1,1,1,0,1,0,0,1
+FAM-00126,Long Island,Child Family Survey,1,1,1,0,0,1,0,0
+FAM-00127,Western New York,Adult Family Survey,1,0,1,1,1,0,0,1
+FAM-00128,Long Island,Adult Family Survey,1,1,0,1,1,1,1,1
+FAM-00129,Central New York,Family/Guardian Survey,0,0,1,0,1,1,1,1
+FAM-00130,Finger Lakes,Adult Family Survey,1,1,1,0,1,1,1,1
+FAM-00131,Long Island,Child Family Survey,1,1,1,1,1,0,1,1
+FAM-00132,Central New York,Adult Family Survey,1,0,0,1,1,1,0,0
+FAM-00133,New York City,Family/Guardian Survey,1,0,1,1,0,1,0,1
+FAM-00134,Western New York,Child Family Survey,1,1,1,1,1,0,0,1
+FAM-00135,Western New York,Child Family Survey,1,1,0,1,1,1,1,1
+FAM-00136,New York City,Adult Family Survey,1,1,1,1,0,1,0,1
+FAM-00137,Hudson Valley,Child Family Survey,0,1,1,1,0,0,1,1
+FAM-00138,Mohawk Valley,Adult Family Survey,1,1,1,1,1,1,0,1
+FAM-00139,Long Island,Adult Family Survey,1,0,1,1,1,0,1,1
+FAM-00140,Hudson Valley,Child Family Survey,1,1,1,1,1,0,0,0
+FAM-00141,Hudson Valley,Child Family Survey,1,0,0,1,1,0,1,1
+FAM-00142,New York City,Family/Guardian Survey,1,1,1,1,1,1,1,0
+FAM-00143,New York City,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-00144,Capital Region,Adult Family Survey,1,0,0,1,1,0,0,1
+FAM-00145,New York City,Family/Guardian Survey,1,1,1,0,1,1,1,1
+FAM-00146,Western New York,Child Family Survey,1,0,1,1,1,0,0,1
+FAM-00147,Hudson Valley,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-00148,Finger Lakes,Family/Guardian Survey,1,0,1,1,1,0,1,1
+FAM-00149,New York City,Family/Guardian Survey,1,1,1,0,1,1,0,1
+FAM-00150,Southern Tier,Adult Family Survey,1,1,1,1,0,0,0,1
+FAM-00151,Long Island,Family/Guardian Survey,1,1,1,1,0,1,0,0
+FAM-00152,Mohawk Valley,Child Family Survey,1,1,1,1,1,0,1,1
+FAM-00153,Long Island,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-00154,New York City,Child Family Survey,1,1,1,1,1,1,0,1
+FAM-00155,Hudson Valley,Adult Family Survey,1,1,0,0,0,1,0,1
+FAM-00156,North Country,Child Family Survey,1,1,1,1,0,1,1,0
+FAM-00157,Finger Lakes,Family/Guardian Survey,1,0,0,0,1,0,1,1
+FAM-00158,New York City,Adult Family Survey,1,1,1,1,1,0,1,1
+FAM-00159,Finger Lakes,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-00160,New York City,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-00161,Capital Region,Child Family Survey,1,0,1,0,0,1,0,1
+FAM-00162,Finger Lakes,Family/Guardian Survey,1,0,1,1,1,1,0,1
+FAM-00163,New York City,Child Family Survey,1,0,1,1,0,0,1,1
+FAM-00164,New York City,Child Family Survey,1,1,1,0,1,1,0,1
+FAM-00165,New York City,Adult Family Survey,1,1,1,1,1,0,1,1
+FAM-00166,Long Island,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-00167,Hudson Valley,Child Family Survey,0,1,1,1,0,1,0,1
+FAM-00168,Hudson Valley,Child Family Survey,1,1,1,1,1,1,0,1
+FAM-00169,Long Island,Adult Family Survey,1,0,0,1,1,1,1,1
+FAM-00170,Long Island,Child Family Survey,1,1,1,1,0,1,1,1
+FAM-00171,Mohawk Valley,Child Family Survey,1,1,1,0,1,0,1,1
+FAM-00172,Long Island,Adult Family Survey,1,1,1,1,0,1,0,1
+FAM-00173,Hudson Valley,Adult Family Survey,0,1,1,1,1,1,1,0
+FAM-00174,Western New York,Child Family Survey,1,1,1,1,0,0,1,1
+FAM-00175,Hudson Valley,Family/Guardian Survey,1,1,0,0,1,0,0,1
+FAM-00176,New York City,Child Family Survey,1,1,1,1,1,0,0,1
+FAM-00177,Hudson Valley,Family/Guardian Survey,1,1,1,0,1,0,0,1
+FAM-00178,Hudson Valley,Adult Family Survey,1,1,1,1,1,0,0,1
+FAM-00179,Finger Lakes,Family/Guardian Survey,1,1,1,0,1,0,0,1
+FAM-00180,New York City,Adult Family Survey,1,1,1,1,1,0,1,0
+FAM-00181,Mohawk Valley,Family/Guardian Survey,1,0,1,1,0,0,0,1
+FAM-00182,Capital Region,Adult Family Survey,0,1,0,0,1,1,0,1
+FAM-00183,Central New York,Family/Guardian Survey,0,1,1,1,1,1,1,1
+FAM-00184,Western New York,Adult Family Survey,1,1,1,0,0,1,0,1
+FAM-00185,New York City,Adult Family Survey,0,1,1,1,1,1,0,1
+FAM-00186,Western New York,Child Family Survey,1,0,1,1,0,1,0,0
+FAM-00187,Hudson Valley,Child Family Survey,1,1,1,1,1,0,0,1
+FAM-00188,New York City,Adult Family Survey,1,1,1,1,1,1,0,1
+FAM-00189,Capital Region,Family/Guardian Survey,1,1,0,0,1,0,1,1
+FAM-00190,Hudson Valley,Child Family Survey,1,1,1,1,0,0,1,1
+FAM-00191,Western New York,Child Family Survey,0,1,1,0,0,0,1,1
+FAM-00192,New York City,Adult Family Survey,1,1,1,1,1,0,1,1
+FAM-00193,Hudson Valley,Child Family Survey,0,1,1,1,1,0,1,1
+FAM-00194,Central New York,Child Family Survey,0,1,0,1,0,1,1,1
+FAM-00195,New York City,Adult Family Survey,1,0,1,1,1,0,0,1
+FAM-00196,New York City,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-00197,Long Island,Family/Guardian Survey,1,1,1,0,1,1,0,1
+FAM-00198,Hudson Valley,Family/Guardian Survey,1,0,1,1,1,1,0,0
+FAM-00199,Hudson Valley,Family/Guardian Survey,0,1,1,0,1,1,1,1
+FAM-00200,Mohawk Valley,Child Family Survey,1,1,1,1,0,0,0,1
+FAM-00201,Capital Region,Family/Guardian Survey,1,1,1,0,1,1,0,0
+FAM-00202,Finger Lakes,Child Family Survey,1,0,1,1,1,0,1,1
+FAM-00203,Long Island,Family/Guardian Survey,1,1,1,0,0,0,1,1
+FAM-00204,North Country,Adult Family Survey,1,1,1,0,1,1,0,1
+FAM-00205,North Country,Family/Guardian Survey,0,1,1,0,0,0,1,1
+FAM-00206,Capital Region,Family/Guardian Survey,0,0,0,1,0,0,1,1
+FAM-00207,New York City,Adult Family Survey,1,1,0,0,1,0,1,1
+FAM-00208,Finger Lakes,Child Family Survey,1,1,1,1,1,0,1,1
+FAM-00209,New York City,Child Family Survey,1,1,1,1,1,0,1,1
+FAM-00210,New York City,Child Family Survey,1,0,1,0,1,0,0,0
+FAM-00211,North Country,Family/Guardian Survey,1,1,1,1,1,0,1,1
+FAM-00212,Mohawk Valley,Adult Family Survey,1,1,1,1,1,0,1,1
+FAM-00213,New York City,Child Family Survey,1,1,1,1,1,0,1,1
+FAM-00214,North Country,Child Family Survey,1,1,1,1,1,0,1,1
+FAM-00215,North Country,Child Family Survey,0,1,1,1,1,1,1,1
+FAM-00216,New York City,Family/Guardian Survey,1,0,1,0,1,1,0,0
+FAM-00217,Hudson Valley,Adult Family Survey,1,1,1,1,1,0,1,1
+FAM-00218,New York City,Child Family Survey,1,1,1,1,0,0,1,1
+FAM-00219,New York City,Child Family Survey,1,1,0,1,1,0,1,1
+FAM-00220,Central New York,Family/Guardian Survey,1,1,1,1,1,0,1,1
+FAM-00221,Central New York,Child Family Survey,1,1,1,1,0,0,0,1
+FAM-00222,New York City,Family/Guardian Survey,1,1,1,0,1,1,1,1
+FAM-00223,Southern Tier,Adult Family Survey,1,1,1,1,1,0,0,0
+FAM-00224,Capital Region,Adult Family Survey,1,0,1,1,1,0,1,1
+FAM-00225,Long Island,Family/Guardian Survey,0,1,1,0,1,0,1,1
+FAM-00226,Long Island,Child Family Survey,1,0,1,1,1,0,1,1
+FAM-00227,Long Island,Family/Guardian Survey,0,1,1,1,0,0,0,1
+FAM-00228,Capital Region,Child Family Survey,1,1,1,0,0,1,1,0
+FAM-00229,New York City,Adult Family Survey,1,1,1,1,1,0,1,1
+FAM-00230,Hudson Valley,Family/Guardian Survey,1,1,0,0,0,1,0,0
+FAM-00231,Long Island,Child Family Survey,1,1,0,1,1,0,0,1
+FAM-00232,New York City,Child Family Survey,1,1,0,1,1,0,0,1
+FAM-00233,Central New York,Child Family Survey,0,1,0,0,0,0,1,1
+FAM-00234,Hudson Valley,Family/Guardian Survey,1,1,1,1,1,1,0,1
+FAM-00235,Hudson Valley,Adult Family Survey,1,1,1,0,1,0,0,0
+FAM-00236,New York City,Child Family Survey,1,1,1,1,0,1,1,1
+FAM-00237,Hudson Valley,Family/Guardian Survey,1,1,1,1,1,0,0,0
+FAM-00238,New York City,Adult Family Survey,1,1,1,0,1,1,1,1
+FAM-00239,New York City,Child Family Survey,1,1,1,1,1,0,1,1
+FAM-00240,Mohawk Valley,Child Family Survey,1,1,1,1,1,0,1,1
+FAM-00241,Hudson Valley,Adult Family Survey,0,1,1,1,1,1,0,0
+FAM-00242,New York City,Family/Guardian Survey,1,1,1,1,0,1,1,1
+FAM-00243,New York City,Family/Guardian Survey,1,1,1,0,1,0,0,1
+FAM-00244,New York City,Adult Family Survey,1,0,1,1,1,1,1,1
+FAM-00245,New York City,Adult Family Survey,1,1,1,0,1,1,1,1
+FAM-00246,New York City,Adult Family Survey,1,0,1,1,1,1,1,1
+FAM-00247,New York City,Family/Guardian Survey,1,0,1,1,0,1,0,0
+FAM-00248,Southern Tier,Child Family Survey,0,1,1,1,1,1,1,1
+FAM-00249,Capital Region,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-00250,New York City,Family/Guardian Survey,1,1,1,1,1,0,1,0
+FAM-00251,New York City,Family/Guardian Survey,1,0,1,1,1,0,0,1
+FAM-00252,Long Island,Child Family Survey,0,1,1,0,1,1,0,1
+FAM-00253,New York City,Child Family Survey,1,1,1,0,1,1,1,1
+FAM-00254,Finger Lakes,Family/Guardian Survey,1,1,1,1,1,0,0,1
+FAM-00255,Hudson Valley,Child Family Survey,1,1,0,1,0,0,0,1
+FAM-00256,Hudson Valley,Family/Guardian Survey,1,1,0,1,1,1,1,0
+FAM-00257,New York City,Child Family Survey,1,0,1,1,1,1,1,1
+FAM-00258,Hudson Valley,Family/Guardian Survey,1,1,1,0,1,1,1,1
+FAM-00259,Long Island,Adult Family Survey,1,1,0,1,1,1,0,1
+FAM-00260,New York City,Family/Guardian Survey,1,1,1,0,1,1,1,1
+FAM-00261,Hudson Valley,Family/Guardian Survey,1,0,0,1,0,0,0,1
+FAM-00262,New York City,Family/Guardian Survey,1,1,1,1,1,0,1,1
+FAM-00263,Western New York,Family/Guardian Survey,1,1,0,0,1,1,1,1
+FAM-00264,Western New York,Child Family Survey,1,1,1,1,1,0,0,0
+FAM-00265,Long Island,Child Family Survey,1,1,0,0,1,0,0,1
+FAM-00266,Finger Lakes,Child Family Survey,1,1,1,0,1,1,1,0
+FAM-00267,New York City,Child Family Survey,1,1,1,1,1,1,0,1
+FAM-00268,Western New York,Family/Guardian Survey,1,1,1,0,1,1,1,1
+FAM-00269,Western New York,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-00270,North Country,Child Family Survey,1,1,1,1,1,0,1,1
+FAM-00271,New York City,Adult Family Survey,1,1,1,0,1,0,1,1
+FAM-00272,New York City,Child Family Survey,1,0,1,0,1,0,0,1
+FAM-00273,North Country,Child Family Survey,1,0,1,0,1,0,0,1
+FAM-00274,Southern Tier,Child Family Survey,1,0,1,1,1,1,1,1
+FAM-00275,New York City,Family/Guardian Survey,1,1,1,0,1,1,1,1
+FAM-00276,Long Island,Adult Family Survey,0,1,1,0,1,0,1,0
+FAM-00277,Hudson Valley,Family/Guardian Survey,0,1,1,1,0,1,1,1
+FAM-00278,Western New York,Family/Guardian Survey,1,1,1,1,0,0,0,0
+FAM-00279,Long Island,Family/Guardian Survey,1,1,0,1,0,0,1,1
+FAM-00280,Hudson Valley,Adult Family Survey,1,0,0,0,1,0,1,0
+FAM-00281,New York City,Adult Family Survey,1,1,1,1,1,1,1,0
+FAM-00282,Central New York,Family/Guardian Survey,0,0,1,0,1,0,1,1
+FAM-00283,Long Island,Family/Guardian Survey,1,1,1,0,1,1,0,1
+FAM-00284,Long Island,Family/Guardian Survey,1,1,1,0,1,1,1,1
+FAM-00285,Hudson Valley,Family/Guardian Survey,1,0,1,1,1,0,1,0
+FAM-00286,Hudson Valley,Family/Guardian Survey,1,1,1,1,0,0,1,1
+FAM-00287,New York City,Child Family Survey,1,1,1,1,0,0,1,1
+FAM-00288,Central New York,Child Family Survey,0,1,1,1,0,0,1,0
+FAM-00289,Finger Lakes,Adult Family Survey,1,0,1,0,1,0,1,1
+FAM-00290,North Country,Child Family Survey,1,1,1,1,1,0,1,1
+FAM-00291,Long Island,Child Family Survey,1,0,1,1,0,1,0,1
+FAM-00292,New York City,Adult Family Survey,1,1,0,1,0,1,1,1
+FAM-00293,New York City,Family/Guardian Survey,1,1,1,1,1,0,1,1
+FAM-00294,New York City,Adult Family Survey,1,1,1,1,0,1,0,1
+FAM-00295,Hudson Valley,Child Family Survey,1,1,1,1,1,1,0,0
+FAM-00296,Central New York,Child Family Survey,1,1,1,1,1,0,1,1
+FAM-00297,Hudson Valley,Adult Family Survey,0,1,1,0,1,1,1,1
+FAM-00298,New York City,Family/Guardian Survey,0,1,1,0,1,1,0,1
+FAM-00299,Finger Lakes,Adult Family Survey,1,1,1,1,1,1,1,0
+FAM-00300,Capital Region,Adult Family Survey,0,1,0,1,1,1,1,1
+FAM-00301,Capital Region,Family/Guardian Survey,1,1,1,0,1,0,0,1
+FAM-00302,Hudson Valley,Child Family Survey,1,1,1,0,1,0,1,1
+FAM-00303,Hudson Valley,Child Family Survey,1,1,1,0,0,1,0,0
+FAM-00304,Long Island,Child Family Survey,1,0,0,1,1,0,1,1
+FAM-00305,New York City,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-00306,New York City,Adult Family Survey,1,1,0,0,1,0,1,1
+FAM-00307,Western New York,Family/Guardian Survey,1,0,1,1,0,0,1,0
+FAM-00308,Hudson Valley,Family/Guardian Survey,1,1,0,1,1,0,0,1
+FAM-00309,New York City,Family/Guardian Survey,1,1,1,0,0,1,1,1
+FAM-00310,New York City,Child Family Survey,0,1,1,1,1,1,0,1
+FAM-00311,New York City,Family/Guardian Survey,1,1,0,0,1,0,0,1
+FAM-00312,Capital Region,Child Family Survey,1,0,0,1,1,0,1,1
+FAM-00313,Central New York,Child Family Survey,1,1,1,1,0,0,1,1
+FAM-00314,Hudson Valley,Child Family Survey,1,1,1,1,1,0,0,1
+FAM-00315,Capital Region,Family/Guardian Survey,1,1,0,1,1,1,1,1
+FAM-00316,Hudson Valley,Adult Family Survey,0,0,1,0,1,1,0,1
+FAM-00317,Finger Lakes,Family/Guardian Survey,0,1,1,0,1,0,1,1
+FAM-00318,Hudson Valley,Family/Guardian Survey,1,1,0,0,0,0,1,0
+FAM-00319,Central New York,Adult Family Survey,1,1,1,1,1,1,0,1
+FAM-00320,Finger Lakes,Family/Guardian Survey,1,1,0,0,1,1,1,1
+FAM-00321,Central New York,Family/Guardian Survey,1,1,0,0,1,1,1,1
+FAM-00322,New York City,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-00323,Western New York,Child Family Survey,0,1,1,1,1,0,0,1
+FAM-00324,Long Island,Family/Guardian Survey,1,1,1,1,0,1,1,1
+FAM-00325,Western New York,Child Family Survey,1,1,1,1,1,1,0,1
+FAM-00326,Western New York,Adult Family Survey,1,1,1,0,1,0,0,1
+FAM-00327,New York City,Child Family Survey,1,1,1,1,1,0,0,1
+FAM-00328,Long Island,Adult Family Survey,1,0,1,0,1,1,1,1
+FAM-00329,North Country,Adult Family Survey,1,1,0,1,1,1,1,1
+FAM-00330,Finger Lakes,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-00331,North Country,Family/Guardian Survey,0,1,1,0,1,1,1,1
+FAM-00332,Hudson Valley,Child Family Survey,1,1,1,1,1,0,1,1
+FAM-00333,Long Island,Adult Family Survey,1,1,1,0,0,0,0,0
+FAM-00334,New York City,Family/Guardian Survey,1,1,1,0,1,0,1,0
+FAM-00335,New York City,Child Family Survey,1,1,0,1,1,0,1,0
+FAM-00336,New York City,Family/Guardian Survey,1,1,1,0,1,0,0,1
+FAM-00337,Finger Lakes,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-00338,Long Island,Child Family Survey,1,1,1,1,1,0,0,1
+FAM-00339,Southern Tier,Child Family Survey,1,0,0,0,1,0,1,1
+FAM-00340,Long Island,Family/Guardian Survey,0,1,1,1,0,0,1,0
+FAM-00341,New York City,Family/Guardian Survey,0,1,1,0,1,1,1,1
+FAM-00342,Capital Region,Child Family Survey,0,0,0,1,1,1,1,0
+FAM-00343,Finger Lakes,Family/Guardian Survey,1,1,1,1,0,1,1,0
+FAM-00344,Western New York,Child Family Survey,0,1,0,0,0,1,1,0
+FAM-00345,Long Island,Child Family Survey,1,0,1,1,1,1,0,1
+FAM-00346,New York City,Child Family Survey,1,1,1,0,1,0,0,1
+FAM-00347,Capital Region,Family/Guardian Survey,1,1,1,0,1,1,0,0
+FAM-00348,Central New York,Family/Guardian Survey,0,1,1,1,0,0,1,0
+FAM-00349,Hudson Valley,Family/Guardian Survey,1,1,1,1,0,1,1,0
+FAM-00350,Western New York,Adult Family Survey,0,0,1,0,0,0,1,1
+FAM-00351,New York City,Family/Guardian Survey,1,1,1,1,1,1,0,1
+FAM-00352,New York City,Adult Family Survey,1,1,1,0,1,1,1,1
+FAM-00353,New York City,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-00354,Hudson Valley,Family/Guardian Survey,0,0,1,1,1,1,1,1
+FAM-00355,Hudson Valley,Family/Guardian Survey,1,1,1,0,0,1,1,1
+FAM-00356,Finger Lakes,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-00357,Capital Region,Family/Guardian Survey,0,1,0,1,1,0,0,0
+FAM-00358,New York City,Family/Guardian Survey,1,1,1,1,1,1,0,1
+FAM-00359,North Country,Child Family Survey,1,1,1,1,0,1,1,1
+FAM-00360,Western New York,Family/Guardian Survey,1,1,1,1,1,0,0,1
+FAM-00361,Finger Lakes,Family/Guardian Survey,1,1,1,1,1,1,1,0
+FAM-00362,Capital Region,Child Family Survey,1,1,1,0,1,0,0,1
+FAM-00363,New York City,Family/Guardian Survey,1,1,1,0,1,0,0,1
+FAM-00364,Central New York,Family/Guardian Survey,0,0,0,0,1,1,0,1
+FAM-00365,New York City,Adult Family Survey,1,1,1,1,1,1,0,1
+FAM-00366,Western New York,Child Family Survey,1,1,1,0,1,1,1,1
+FAM-00367,Long Island,Adult Family Survey,0,0,0,0,1,1,0,1
+FAM-00368,North Country,Adult Family Survey,1,1,1,1,1,0,1,1
+FAM-00369,Capital Region,Child Family Survey,1,1,1,0,1,1,0,0
+FAM-00370,Southern Tier,Adult Family Survey,0,1,1,1,1,0,0,1
+FAM-00371,Mohawk Valley,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-00372,Hudson Valley,Family/Guardian Survey,1,1,1,1,1,1,0,1
+FAM-00373,Central New York,Family/Guardian Survey,1,1,1,1,1,0,0,1
+FAM-00374,Finger Lakes,Adult Family Survey,1,1,1,1,1,0,0,1
+FAM-00375,New York City,Child Family Survey,1,0,1,1,1,1,1,1
+FAM-00376,New York City,Adult Family Survey,0,0,1,1,1,0,0,1
+FAM-00377,Western New York,Child Family Survey,1,0,1,1,1,1,0,1
+FAM-00378,Hudson Valley,Adult Family Survey,1,1,0,1,0,1,0,0
+FAM-00379,New York City,Child Family Survey,1,1,1,1,1,1,0,1
+FAM-00380,Western New York,Adult Family Survey,1,1,0,1,0,1,1,1
+FAM-00381,New York City,Family/Guardian Survey,1,1,1,0,1,1,0,1
+FAM-00382,New York City,Child Family Survey,1,1,1,1,0,1,1,1
+FAM-00383,Finger Lakes,Family/Guardian Survey,1,1,1,1,1,1,1,0
+FAM-00384,Central New York,Adult Family Survey,1,1,1,0,0,1,0,1
+FAM-00385,Western New York,Child Family Survey,0,1,0,1,1,0,0,0
+FAM-00386,New York City,Adult Family Survey,1,1,1,0,1,0,1,1
+FAM-00387,Southern Tier,Family/Guardian Survey,1,1,1,1,1,0,1,0
+FAM-00388,Long Island,Family/Guardian Survey,1,1,1,1,1,1,0,1
+FAM-00389,New York City,Child Family Survey,1,1,0,0,1,1,1,1
+FAM-00390,New York City,Adult Family Survey,1,1,1,0,1,0,0,1
+FAM-00391,New York City,Child Family Survey,0,1,1,1,1,1,1,1
+FAM-00392,Finger Lakes,Family/Guardian Survey,1,1,1,1,1,1,0,1
+FAM-00393,New York City,Adult Family Survey,1,1,1,0,1,1,1,1
+FAM-00394,Hudson Valley,Child Family Survey,1,1,0,1,0,1,0,0
+FAM-00395,New York City,Child Family Survey,1,1,1,0,1,0,1,1
+FAM-00396,Capital Region,Family/Guardian Survey,0,1,1,0,1,0,0,1
+FAM-00397,Hudson Valley,Adult Family Survey,1,1,1,1,1,1,0,1
+FAM-00398,New York City,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-00399,Long Island,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-00400,Hudson Valley,Adult Family Survey,1,1,1,1,1,0,1,1
+FAM-00401,New York City,Adult Family Survey,1,1,1,1,0,0,1,1
+FAM-00402,Long Island,Family/Guardian Survey,0,1,1,1,1,1,1,0
+FAM-00403,Finger Lakes,Adult Family Survey,1,1,1,0,0,0,0,1
+FAM-00404,Western New York,Child Family Survey,1,1,1,1,1,1,0,1
+FAM-00405,Hudson Valley,Family/Guardian Survey,1,0,1,1,0,1,0,1
+FAM-00406,Long Island,Family/Guardian Survey,0,0,1,1,1,0,1,0
+FAM-00407,New York City,Child Family Survey,1,0,0,1,1,1,1,1
+FAM-00408,Long Island,Family/Guardian Survey,1,0,1,0,1,0,0,1
+FAM-00409,Hudson Valley,Adult Family Survey,1,0,0,1,1,0,0,1
+FAM-00410,Finger Lakes,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-00411,Hudson Valley,Family/Guardian Survey,1,1,1,1,0,0,0,1
+FAM-00412,North Country,Adult Family Survey,1,1,1,1,1,1,1,0
+FAM-00413,Long Island,Adult Family Survey,0,0,1,0,1,0,1,1
+FAM-00414,New York City,Child Family Survey,1,1,1,1,1,1,0,1
+FAM-00415,Western New York,Adult Family Survey,1,0,1,1,1,0,0,1
+FAM-00416,Western New York,Family/Guardian Survey,1,0,1,1,0,0,0,1
+FAM-00417,Long Island,Child Family Survey,1,0,1,1,0,0,1,1
+FAM-00418,Hudson Valley,Family/Guardian Survey,1,1,1,0,1,1,0,1
+FAM-00419,Western New York,Child Family Survey,1,1,1,0,1,1,0,0
+FAM-00420,New York City,Child Family Survey,1,1,1,0,1,1,1,1
+FAM-00421,Central New York,Family/Guardian Survey,1,1,1,1,0,0,1,0
+FAM-00422,Central New York,Adult Family Survey,1,1,0,1,0,0,1,1
+FAM-00423,Western New York,Adult Family Survey,1,0,1,0,1,1,0,1
+FAM-00424,New York City,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-00425,New York City,Adult Family Survey,1,1,1,1,0,1,1,1
+FAM-00426,Finger Lakes,Adult Family Survey,1,1,1,1,1,0,0,0
+FAM-00427,Western New York,Adult Family Survey,0,0,0,1,1,0,0,1
+FAM-00428,Long Island,Family/Guardian Survey,1,1,1,1,1,1,1,0
+FAM-00429,New York City,Adult Family Survey,1,1,1,1,0,1,1,0
+FAM-00430,Capital Region,Child Family Survey,1,0,1,0,0,0,1,1
+FAM-00431,New York City,Adult Family Survey,0,0,1,0,1,1,0,1
+FAM-00432,Hudson Valley,Family/Guardian Survey,0,1,1,0,1,1,1,0
+FAM-00433,North Country,Family/Guardian Survey,1,1,1,1,0,0,1,0
+FAM-00434,New York City,Family/Guardian Survey,1,1,1,1,1,0,1,1
+FAM-00435,Western New York,Adult Family Survey,1,0,0,1,0,1,1,0
+FAM-00436,Capital Region,Adult Family Survey,1,1,1,1,1,1,0,0
+FAM-00437,Hudson Valley,Child Family Survey,1,1,0,1,1,0,1,1
+FAM-00438,New York City,Child Family Survey,1,1,1,1,1,1,1,0
+FAM-00439,Finger Lakes,Child Family Survey,1,1,1,0,1,1,0,1
+FAM-00440,Finger Lakes,Child Family Survey,0,1,1,0,0,1,1,1
+FAM-00441,New York City,Child Family Survey,0,1,1,1,1,1,1,1
+FAM-00442,Finger Lakes,Child Family Survey,1,1,0,1,0,1,0,1
+FAM-00443,New York City,Adult Family Survey,0,1,1,1,1,1,1,1
+FAM-00444,Hudson Valley,Child Family Survey,1,1,0,1,0,1,0,1
+FAM-00445,New York City,Family/Guardian Survey,1,1,1,1,0,1,0,1
+FAM-00446,Finger Lakes,Family/Guardian Survey,1,1,1,0,1,1,1,1
+FAM-00447,New York City,Adult Family Survey,1,1,1,1,1,1,0,1
+FAM-00448,New York City,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-00449,North Country,Adult Family Survey,1,1,1,0,1,1,0,1
+FAM-00450,Long Island,Family/Guardian Survey,1,1,1,1,0,0,0,1
+FAM-00451,Long Island,Adult Family Survey,1,0,1,1,1,0,0,1
+FAM-00452,Hudson Valley,Adult Family Survey,1,1,1,1,0,1,0,1
+FAM-00453,Central New York,Child Family Survey,0,1,1,0,1,0,1,1
+FAM-00454,Capital Region,Child Family Survey,1,0,1,1,1,1,0,1
+FAM-00455,Finger Lakes,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-00456,Mohawk Valley,Adult Family Survey,1,1,1,1,1,0,0,1
+FAM-00457,Long Island,Family/Guardian Survey,1,1,1,0,0,1,0,0
+FAM-00458,Long Island,Family/Guardian Survey,1,0,1,0,1,1,1,1
+FAM-00459,Mohawk Valley,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-00460,Hudson Valley,Child Family Survey,1,1,1,0,1,1,1,1
+FAM-00461,New York City,Child Family Survey,1,1,1,1,1,0,0,0
+FAM-00462,New York City,Family/Guardian Survey,1,1,1,1,1,1,1,0
+FAM-00463,New York City,Adult Family Survey,1,1,0,1,0,0,0,1
+FAM-00464,Long Island,Adult Family Survey,0,1,1,1,1,1,0,1
+FAM-00465,Capital Region,Adult Family Survey,0,1,1,1,1,1,1,1
+FAM-00466,Central New York,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-00467,Southern Tier,Adult Family Survey,0,0,1,1,1,1,0,1
+FAM-00468,Long Island,Adult Family Survey,1,1,1,1,0,0,1,1
+FAM-00469,New York City,Adult Family Survey,1,1,1,0,1,0,1,1
+FAM-00470,New York City,Family/Guardian Survey,1,1,0,1,1,0,1,0
+FAM-00471,Finger Lakes,Child Family Survey,1,1,1,1,1,0,1,0
+FAM-00472,New York City,Child Family Survey,1,1,1,0,1,1,1,1
+FAM-00473,Mohawk Valley,Adult Family Survey,1,1,1,0,1,1,0,0
+FAM-00474,Central New York,Family/Guardian Survey,1,1,1,1,1,1,0,1
+FAM-00475,Western New York,Child Family Survey,1,1,1,1,1,0,1,1
+FAM-00476,Finger Lakes,Family/Guardian Survey,1,0,1,1,1,1,1,1
+FAM-00477,Southern Tier,Adult Family Survey,1,1,1,1,1,1,0,1
+FAM-00478,New York City,Family/Guardian Survey,1,1,1,0,1,0,0,1
+FAM-00479,New York City,Child Family Survey,1,1,1,0,1,1,1,1
+FAM-00480,Hudson Valley,Adult Family Survey,1,1,1,1,0,1,1,0
+FAM-00481,Long Island,Family/Guardian Survey,1,0,1,1,0,0,1,1
+FAM-00482,Hudson Valley,Adult Family Survey,1,1,1,1,0,1,0,0
+FAM-00483,Central New York,Family/Guardian Survey,1,1,1,1,1,0,1,1
+FAM-00484,Mohawk Valley,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-00485,Capital Region,Adult Family Survey,0,1,1,1,0,1,1,0
+FAM-00486,Hudson Valley,Child Family Survey,0,0,1,0,1,0,1,1
+FAM-00487,Hudson Valley,Adult Family Survey,1,1,1,1,0,0,0,0
+FAM-00488,Mohawk Valley,Family/Guardian Survey,1,1,1,0,0,0,0,1
+FAM-00489,Finger Lakes,Adult Family Survey,1,1,1,1,0,1,1,1
+FAM-00490,New York City,Adult Family Survey,0,1,1,1,1,0,1,1
+FAM-00491,Western New York,Family/Guardian Survey,1,0,1,0,1,0,0,1
+FAM-00492,Finger Lakes,Child Family Survey,1,1,0,1,0,0,1,1
+FAM-00493,Western New York,Family/Guardian Survey,1,1,1,1,1,0,0,1
+FAM-00494,North Country,Child Family Survey,1,1,1,1,1,0,1,1
+FAM-00495,Finger Lakes,Child Family Survey,1,1,1,1,0,1,1,1
+FAM-00496,Hudson Valley,Adult Family Survey,1,1,1,1,1,0,1,0
+FAM-00497,Central New York,Family/Guardian Survey,1,0,0,0,1,0,1,1
+FAM-00498,Hudson Valley,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-00499,New York City,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-00500,Capital Region,Adult Family Survey,0,0,1,1,1,1,1,0
+FAM-00501,Long Island,Adult Family Survey,1,1,0,1,0,1,1,1
+FAM-00502,New York City,Adult Family Survey,1,1,1,1,0,1,1,1
+FAM-00503,Western New York,Adult Family Survey,0,1,1,0,1,1,1,1
+FAM-00504,New York City,Child Family Survey,1,1,1,1,1,0,1,1
+FAM-00505,Long Island,Adult Family Survey,1,1,0,1,1,1,1,1
+FAM-00506,Hudson Valley,Child Family Survey,1,0,0,1,0,0,1,0
+FAM-00507,Long Island,Adult Family Survey,1,1,1,0,1,0,1,1
+FAM-00508,Central New York,Child Family Survey,1,1,1,1,1,0,1,1
+FAM-00509,Southern Tier,Family/Guardian Survey,1,0,0,1,1,0,0,1
+FAM-00510,Mohawk Valley,Child Family Survey,1,1,1,0,1,0,1,1
+FAM-00511,Central New York,Child Family Survey,1,1,1,0,1,0,0,1
+FAM-00512,New York City,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-00513,Long Island,Adult Family Survey,1,1,1,1,1,1,0,1
+FAM-00514,Capital Region,Family/Guardian Survey,1,1,1,1,0,1,0,1
+FAM-00515,Hudson Valley,Family/Guardian Survey,1,1,0,1,1,1,1,0
+FAM-00516,New York City,Family/Guardian Survey,1,1,1,1,1,0,1,1
+FAM-00517,New York City,Child Family Survey,0,1,1,1,0,1,0,1
+FAM-00518,New York City,Adult Family Survey,1,1,1,0,1,0,0,1
+FAM-00519,Central New York,Child Family Survey,0,1,0,1,1,1,1,1
+FAM-00520,New York City,Adult Family Survey,1,0,1,1,0,1,0,1
+FAM-00521,Hudson Valley,Child Family Survey,0,0,1,0,1,1,0,1
+FAM-00522,New York City,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-00523,Central New York,Adult Family Survey,1,1,1,0,0,1,0,1
+FAM-00524,Western New York,Child Family Survey,1,0,1,1,0,1,1,1
+FAM-00525,Hudson Valley,Child Family Survey,1,1,1,1,0,0,0,1
+FAM-00526,Long Island,Child Family Survey,1,1,0,0,1,0,1,1
+FAM-00527,Western New York,Adult Family Survey,1,1,1,1,1,1,1,0
+FAM-00528,New York City,Family/Guardian Survey,1,1,1,1,1,0,0,0
+FAM-00529,Central New York,Child Family Survey,1,1,1,0,1,1,0,1
+FAM-00530,Hudson Valley,Adult Family Survey,1,1,1,1,1,1,1,0
+FAM-00531,Southern Tier,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-00532,Long Island,Child Family Survey,0,1,1,1,1,1,0,0
+FAM-00533,Western New York,Child Family Survey,0,1,1,1,1,1,1,0
+FAM-00534,Hudson Valley,Child Family Survey,1,1,1,1,1,0,1,1
+FAM-00535,Hudson Valley,Adult Family Survey,1,1,1,1,1,0,1,1
+FAM-00536,New York City,Child Family Survey,1,1,1,1,1,1,0,1
+FAM-00537,Finger Lakes,Adult Family Survey,1,1,1,1,1,0,1,1
+FAM-00538,Hudson Valley,Adult Family Survey,1,0,1,1,1,0,1,0
+FAM-00539,New York City,Child Family Survey,0,1,1,1,1,1,0,1
+FAM-00540,New York City,Child Family Survey,1,1,1,1,1,0,0,1
+FAM-00541,Capital Region,Family/Guardian Survey,1,0,0,0,1,0,0,0
+FAM-00542,Western New York,Child Family Survey,0,0,0,1,0,1,0,1
+FAM-00543,New York City,Adult Family Survey,1,1,1,1,1,0,1,0
+FAM-00544,New York City,Adult Family Survey,1,1,1,0,1,1,1,1
+FAM-00545,North Country,Child Family Survey,1,1,1,0,1,1,1,1
+FAM-00546,Southern Tier,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-00547,Long Island,Child Family Survey,1,1,1,0,1,1,1,1
+FAM-00548,Long Island,Adult Family Survey,1,1,1,1,1,0,0,1
+FAM-00549,Capital Region,Child Family Survey,1,1,0,0,1,1,0,1
+FAM-00550,Long Island,Family/Guardian Survey,1,1,1,1,1,1,0,0
+FAM-00551,Capital Region,Adult Family Survey,1,1,0,0,0,0,0,1
+FAM-00552,Western New York,Child Family Survey,1,0,1,1,1,1,1,1
+FAM-00553,Capital Region,Family/Guardian Survey,0,1,1,1,0,1,1,1
+FAM-00554,New York City,Adult Family Survey,1,1,1,1,1,1,0,1
+FAM-00555,New York City,Adult Family Survey,1,1,1,0,1,0,1,1
+FAM-00556,Central New York,Child Family Survey,1,0,1,0,0,0,1,1
+FAM-00557,New York City,Adult Family Survey,1,1,1,1,1,0,0,1
+FAM-00558,Central New York,Adult Family Survey,0,0,1,1,0,1,1,1
+FAM-00559,New York City,Child Family Survey,0,1,1,0,1,0,0,1
+FAM-00560,New York City,Child Family Survey,0,1,1,0,1,1,1,1
+FAM-00561,New York City,Family/Guardian Survey,1,1,1,0,1,0,1,1
+FAM-00562,Southern Tier,Adult Family Survey,1,1,1,1,0,1,1,1
+FAM-00563,Long Island,Family/Guardian Survey,1,1,1,1,1,0,1,1
+FAM-00564,Long Island,Adult Family Survey,1,0,1,1,1,1,1,1
+FAM-00565,Southern Tier,Child Family Survey,1,0,1,1,0,0,0,1
+FAM-00566,Mohawk Valley,Child Family Survey,1,1,0,1,0,1,1,1
+FAM-00567,New York City,Family/Guardian Survey,1,1,0,1,1,1,1,1
+FAM-00568,Long Island,Child Family Survey,1,1,0,0,1,1,0,1
+FAM-00569,New York City,Adult Family Survey,1,1,1,1,1,0,1,1
+FAM-00570,Central New York,Family/Guardian Survey,1,1,1,0,0,1,1,1
+FAM-00571,Central New York,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-00572,Southern Tier,Family/Guardian Survey,0,1,1,0,1,1,1,0
+FAM-00573,Finger Lakes,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-00574,Capital Region,Family/Guardian Survey,0,0,1,0,1,1,1,1
+FAM-00575,Southern Tier,Adult Family Survey,1,1,1,0,0,0,1,0
+FAM-00576,Long Island,Child Family Survey,1,1,1,0,1,1,1,1
+FAM-00577,New York City,Adult Family Survey,1,1,1,0,1,0,1,1
+FAM-00578,New York City,Family/Guardian Survey,1,1,1,1,0,1,0,1
+FAM-00579,Hudson Valley,Family/Guardian Survey,0,1,1,1,1,1,1,1
+FAM-00580,Central New York,Child Family Survey,0,1,1,1,1,0,1,1
+FAM-00581,New York City,Child Family Survey,1,0,1,0,1,1,1,1
+FAM-00582,Capital Region,Child Family Survey,1,1,1,0,0,1,1,1
+FAM-00583,Central New York,Family/Guardian Survey,1,1,1,0,1,1,0,1
+FAM-00584,Hudson Valley,Family/Guardian Survey,1,1,1,0,1,0,0,1
+FAM-00585,Finger Lakes,Adult Family Survey,1,1,1,0,1,1,0,1
+FAM-00586,Western New York,Family/Guardian Survey,1,1,1,0,0,1,1,1
+FAM-00587,New York City,Adult Family Survey,1,1,1,1,1,0,1,1
+FAM-00588,Central New York,Child Family Survey,1,1,1,0,1,1,0,1
+FAM-00589,Capital Region,Child Family Survey,0,1,1,1,1,1,0,1
+FAM-00590,Southern Tier,Adult Family Survey,0,1,1,1,1,1,1,1
+FAM-00591,New York City,Family/Guardian Survey,1,1,1,0,1,1,1,1
+FAM-00592,New York City,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-00593,Southern Tier,Family/Guardian Survey,1,1,1,0,1,0,1,0
+FAM-00594,Southern Tier,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-00595,New York City,Adult Family Survey,1,1,0,1,0,1,0,1
+FAM-00596,Long Island,Adult Family Survey,1,1,1,1,1,0,0,0
+FAM-00597,New York City,Adult Family Survey,1,1,1,1,1,0,1,1
+FAM-00598,Hudson Valley,Family/Guardian Survey,1,0,1,0,1,1,1,1
+FAM-00599,Hudson Valley,Child Family Survey,1,1,1,1,1,1,0,1
+FAM-00600,Western New York,Child Family Survey,1,1,1,1,0,1,1,1
+FAM-00601,Finger Lakes,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-00602,Mohawk Valley,Family/Guardian Survey,1,1,1,1,1,0,1,1
+FAM-00603,New York City,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-00604,Western New York,Child Family Survey,1,1,0,1,0,0,1,0
+FAM-00605,Hudson Valley,Child Family Survey,1,1,0,1,0,0,0,1
+FAM-00606,New York City,Child Family Survey,1,1,1,0,1,1,1,1
+FAM-00607,Long Island,Child Family Survey,1,0,0,1,0,1,1,1
+FAM-00608,Hudson Valley,Child Family Survey,1,0,1,0,0,1,1,1
+FAM-00609,Hudson Valley,Family/Guardian Survey,1,1,1,0,1,1,1,1
+FAM-00610,Hudson Valley,Family/Guardian Survey,1,0,1,1,1,1,1,1
+FAM-00611,Southern Tier,Child Family Survey,1,1,1,1,1,1,0,1
+FAM-00612,Southern Tier,Adult Family Survey,1,1,1,1,0,0,0,1
+FAM-00613,Long Island,Family/Guardian Survey,0,1,0,1,1,0,0,1
+FAM-00614,Western New York,Child Family Survey,1,1,1,1,1,0,1,1
+FAM-00615,Hudson Valley,Family/Guardian Survey,1,1,1,1,1,0,1,1
+FAM-00616,New York City,Family/Guardian Survey,1,1,1,1,1,1,0,1
+FAM-00617,Hudson Valley,Family/Guardian Survey,1,1,1,1,0,0,0,0
+FAM-00618,North Country,Child Family Survey,1,1,1,0,1,1,0,1
+FAM-00619,Southern Tier,Family/Guardian Survey,1,1,1,1,1,1,0,1
+FAM-00620,New York City,Adult Family Survey,1,0,1,1,0,0,1,1
+FAM-00621,New York City,Child Family Survey,1,1,1,1,1,0,1,1
+FAM-00622,Southern Tier,Adult Family Survey,1,1,1,0,1,1,1,1
+FAM-00623,Mohawk Valley,Family/Guardian Survey,0,1,1,0,1,0,1,1
+FAM-00624,Central New York,Family/Guardian Survey,0,1,1,1,1,0,1,0
+FAM-00625,Finger Lakes,Adult Family Survey,1,1,1,1,1,0,1,1
+FAM-00626,Central New York,Family/Guardian Survey,1,1,1,0,1,1,1,1
+FAM-00627,Hudson Valley,Adult Family Survey,1,0,1,1,1,0,1,1
+FAM-00628,New York City,Family/Guardian Survey,1,1,1,1,1,0,1,1
+FAM-00629,New York City,Family/Guardian Survey,0,1,1,1,1,1,1,1
+FAM-00630,Central New York,Child Family Survey,0,1,1,0,1,1,1,0
+FAM-00631,New York City,Adult Family Survey,1,0,1,0,0,1,0,1
+FAM-00632,New York City,Child Family Survey,1,1,1,1,1,1,0,0
+FAM-00633,New York City,Child Family Survey,1,1,1,1,1,0,1,1
+FAM-00634,Western New York,Family/Guardian Survey,1,0,1,1,1,0,0,1
+FAM-00635,North Country,Family/Guardian Survey,1,1,1,1,1,1,0,1
+FAM-00636,Hudson Valley,Child Family Survey,1,1,1,1,0,0,1,0
+FAM-00637,Long Island,Child Family Survey,1,0,0,1,1,1,0,0
+FAM-00638,New York City,Child Family Survey,1,1,1,1,0,1,0,1
+FAM-00639,Capital Region,Child Family Survey,1,0,1,0,0,0,1,1
+FAM-00640,Central New York,Adult Family Survey,1,1,1,0,1,1,0,1
+FAM-00641,Long Island,Adult Family Survey,1,1,1,0,1,0,1,0
+FAM-00642,Finger Lakes,Adult Family Survey,0,1,1,1,1,0,0,0
+FAM-00643,New York City,Child Family Survey,1,1,1,0,1,0,1,1
+FAM-00644,Long Island,Family/Guardian Survey,0,1,1,1,1,1,0,0
+FAM-00645,Western New York,Child Family Survey,1,1,1,0,1,1,1,1
+FAM-00646,Long Island,Adult Family Survey,0,1,1,1,0,0,0,1
+FAM-00647,New York City,Child Family Survey,0,1,1,1,1,1,0,1
+FAM-00648,New York City,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-00649,Long Island,Adult Family Survey,1,1,0,1,1,0,1,1
+FAM-00650,Mohawk Valley,Adult Family Survey,1,0,1,1,1,0,1,1
+FAM-00651,New York City,Adult Family Survey,1,0,1,1,0,0,0,0
+FAM-00652,New York City,Adult Family Survey,1,1,1,0,1,1,1,1
+FAM-00653,Hudson Valley,Child Family Survey,1,1,1,0,1,0,1,1
+FAM-00654,Long Island,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-00655,Long Island,Adult Family Survey,1,1,1,0,1,0,1,0
+FAM-00656,Hudson Valley,Adult Family Survey,1,1,1,1,1,0,1,1
+FAM-00657,Finger Lakes,Adult Family Survey,1,1,1,1,0,1,0,1
+FAM-00658,Western New York,Child Family Survey,1,0,1,1,1,0,1,1
+FAM-00659,Western New York,Family/Guardian Survey,1,0,1,0,1,1,1,1
+FAM-00660,Southern Tier,Family/Guardian Survey,1,1,1,1,0,1,1,1
+FAM-00661,Capital Region,Family/Guardian Survey,1,1,1,0,1,1,1,1
+FAM-00662,Mohawk Valley,Child Family Survey,1,1,0,1,1,0,1,1
+FAM-00663,Hudson Valley,Family/Guardian Survey,1,1,1,0,1,0,1,1
+FAM-00664,Capital Region,Child Family Survey,0,1,1,1,1,1,1,1
+FAM-00665,Central New York,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-00666,Western New York,Child Family Survey,0,1,1,1,1,1,0,0
+FAM-00667,Hudson Valley,Child Family Survey,1,0,1,0,1,1,0,0
+FAM-00668,New York City,Family/Guardian Survey,1,1,1,0,1,1,1,0
+FAM-00669,Southern Tier,Family/Guardian Survey,1,0,1,0,1,0,1,1
+FAM-00670,Long Island,Adult Family Survey,0,1,0,1,0,0,0,1
+FAM-00671,New York City,Child Family Survey,1,1,1,0,1,0,1,1
+FAM-00672,Finger Lakes,Child Family Survey,1,1,1,1,1,0,1,1
+FAM-00673,Long Island,Child Family Survey,1,1,1,0,1,0,1,1
+FAM-00674,New York City,Child Family Survey,1,1,1,1,1,1,0,1
+FAM-00675,Central New York,Family/Guardian Survey,1,1,1,0,1,1,1,1
+FAM-00676,Western New York,Child Family Survey,1,0,1,0,1,0,1,1
+FAM-00677,Western New York,Family/Guardian Survey,1,1,1,0,1,0,1,0
+FAM-00678,Finger Lakes,Child Family Survey,1,1,1,0,1,1,0,1
+FAM-00679,Long Island,Family/Guardian Survey,1,1,1,1,0,1,0,1
+FAM-00680,Central New York,Family/Guardian Survey,1,1,0,1,0,1,0,1
+FAM-00681,Hudson Valley,Adult Family Survey,1,1,1,1,1,0,1,1
+FAM-00682,Western New York,Family/Guardian Survey,0,1,1,1,1,0,1,1
+FAM-00683,New York City,Adult Family Survey,1,1,1,1,1,0,1,1
+FAM-00684,Western New York,Family/Guardian Survey,1,1,0,1,0,1,1,0
+FAM-00685,New York City,Adult Family Survey,1,0,0,1,1,1,1,1
+FAM-00686,Capital Region,Adult Family Survey,0,1,1,0,0,0,0,0
+FAM-00687,Capital Region,Child Family Survey,1,1,1,1,0,1,0,0
+FAM-00688,Hudson Valley,Adult Family Survey,0,0,1,1,0,1,1,1
+FAM-00689,Southern Tier,Adult Family Survey,1,1,1,1,1,0,1,1
+FAM-00690,Finger Lakes,Family/Guardian Survey,0,1,0,1,1,1,1,1
+FAM-00691,North Country,Adult Family Survey,1,1,1,0,1,0,1,1
+FAM-00692,New York City,Adult Family Survey,1,1,1,0,1,1,1,1
+FAM-00693,Finger Lakes,Adult Family Survey,1,1,1,1,1,0,1,1
+FAM-00694,Western New York,Child Family Survey,0,1,0,1,0,0,1,1
+FAM-00695,New York City,Family/Guardian Survey,1,1,1,0,0,0,0,1
+FAM-00696,Hudson Valley,Child Family Survey,0,1,1,1,1,1,0,1
+FAM-00697,Southern Tier,Child Family Survey,1,1,1,1,1,1,0,1
+FAM-00698,Capital Region,Child Family Survey,1,1,0,0,1,0,0,1
+FAM-00699,Hudson Valley,Family/Guardian Survey,1,0,1,1,1,1,1,1
+FAM-00700,New York City,Family/Guardian Survey,1,1,1,1,0,1,1,0
+FAM-00701,North Country,Adult Family Survey,1,1,1,1,0,1,1,1
+FAM-00702,Central New York,Child Family Survey,1,1,1,0,0,1,0,0
+FAM-00703,Long Island,Child Family Survey,1,0,0,1,1,0,1,1
+FAM-00704,Long Island,Family/Guardian Survey,1,1,1,0,1,1,0,1
+FAM-00705,New York City,Child Family Survey,0,1,1,1,1,0,0,1
+FAM-00706,New York City,Child Family Survey,1,1,1,0,1,1,1,1
+FAM-00707,Western New York,Child Family Survey,0,1,0,0,1,1,0,1
+FAM-00708,Capital Region,Adult Family Survey,1,1,0,0,1,1,1,1
+FAM-00709,Central New York,Child Family Survey,1,1,1,0,1,1,0,1
+FAM-00710,New York City,Child Family Survey,1,1,1,1,1,1,0,0
+FAM-00711,New York City,Child Family Survey,1,1,1,1,1,0,0,1
+FAM-00712,Hudson Valley,Adult Family Survey,1,1,1,1,1,0,0,1
+FAM-00713,New York City,Child Family Survey,1,0,1,1,1,1,0,1
+FAM-00714,Central New York,Family/Guardian Survey,1,0,1,1,0,0,1,0
+FAM-00715,New York City,Child Family Survey,1,1,1,1,1,0,0,1
+FAM-00716,New York City,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-00717,Western New York,Family/Guardian Survey,1,0,0,1,0,0,1,1
+FAM-00718,New York City,Family/Guardian Survey,1,1,1,1,1,1,0,1
+FAM-00719,New York City,Child Family Survey,1,1,1,0,0,0,1,1
+FAM-00720,Long Island,Family/Guardian Survey,1,1,0,1,1,1,0,1
+FAM-00721,Long Island,Adult Family Survey,1,1,1,1,0,1,0,0
+FAM-00722,Capital Region,Adult Family Survey,1,1,1,0,1,0,1,1
+FAM-00723,Capital Region,Family/Guardian Survey,0,0,1,0,0,0,0,1
+FAM-00724,Hudson Valley,Child Family Survey,1,1,1,0,1,1,1,0
+FAM-00725,Hudson Valley,Child Family Survey,1,1,1,1,0,1,0,1
+FAM-00726,Finger Lakes,Family/Guardian Survey,0,1,1,1,1,1,0,1
+FAM-00727,Capital Region,Child Family Survey,1,0,1,1,1,1,0,0
+FAM-00728,New York City,Adult Family Survey,0,1,0,1,1,1,1,1
+FAM-00729,New York City,Child Family Survey,1,1,0,1,1,0,1,1
+FAM-00730,New York City,Child Family Survey,0,0,1,1,1,0,1,1
+FAM-00731,Finger Lakes,Adult Family Survey,0,1,1,1,1,1,0,1
+FAM-00732,Southern Tier,Family/Guardian Survey,1,1,0,1,1,0,1,0
+FAM-00733,Hudson Valley,Adult Family Survey,1,0,1,1,1,0,1,1
+FAM-00734,Central New York,Family/Guardian Survey,1,1,1,0,1,1,1,1
+FAM-00735,Southern Tier,Child Family Survey,1,1,1,1,1,0,0,1
+FAM-00736,Finger Lakes,Family/Guardian Survey,1,1,1,1,1,1,0,1
+FAM-00737,Mohawk Valley,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-00738,New York City,Family/Guardian Survey,1,1,0,1,1,1,1,1
+FAM-00739,Western New York,Child Family Survey,1,1,1,1,1,1,0,1
+FAM-00740,Capital Region,Family/Guardian Survey,1,1,1,0,0,0,1,1
+FAM-00741,North Country,Child Family Survey,1,1,1,1,1,0,1,1
+FAM-00742,New York City,Child Family Survey,1,1,1,0,1,0,0,1
+FAM-00743,New York City,Adult Family Survey,1,1,1,0,0,1,1,1
+FAM-00744,Capital Region,Family/Guardian Survey,1,0,1,1,0,1,1,1
+FAM-00745,Mohawk Valley,Family/Guardian Survey,1,1,1,0,0,1,1,1
+FAM-00746,New York City,Adult Family Survey,0,1,1,0,1,1,0,1
+FAM-00747,Hudson Valley,Child Family Survey,0,1,1,1,0,1,1,1
+FAM-00748,New York City,Family/Guardian Survey,1,1,1,1,1,0,0,1
+FAM-00749,Long Island,Adult Family Survey,1,1,1,1,1,1,0,0
+FAM-00750,New York City,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-00751,New York City,Adult Family Survey,1,1,1,0,1,1,0,1
+FAM-00752,Central New York,Child Family Survey,1,1,1,1,1,0,0,0
+FAM-00753,Long Island,Adult Family Survey,1,1,1,1,1,1,1,0
+FAM-00754,Hudson Valley,Child Family Survey,1,1,1,1,1,0,1,1
+FAM-00755,New York City,Family/Guardian Survey,1,1,1,0,1,1,0,0
+FAM-00756,Finger Lakes,Child Family Survey,1,1,1,1,1,1,0,1
+FAM-00757,New York City,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-00758,Long Island,Child Family Survey,1,1,1,0,1,1,0,1
+FAM-00759,New York City,Family/Guardian Survey,1,1,1,1,1,1,0,1
+FAM-00760,New York City,Child Family Survey,1,1,0,0,1,1,1,1
+FAM-00761,Finger Lakes,Family/Guardian Survey,0,1,1,0,1,0,1,1
+FAM-00762,Hudson Valley,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-00763,Capital Region,Child Family Survey,0,1,1,0,0,0,0,1
+FAM-00764,Hudson Valley,Child Family Survey,1,1,1,1,0,0,1,0
+FAM-00765,Hudson Valley,Adult Family Survey,1,1,1,0,1,1,0,1
+FAM-00766,Long Island,Child Family Survey,1,1,0,0,1,1,1,1
+FAM-00767,Mohawk Valley,Adult Family Survey,1,1,1,1,1,0,1,1
+FAM-00768,New York City,Adult Family Survey,1,1,1,0,0,1,1,1
+FAM-00769,Finger Lakes,Child Family Survey,1,1,0,0,1,1,0,1
+FAM-00770,Hudson Valley,Family/Guardian Survey,1,1,1,1,1,0,1,0
+FAM-00771,Southern Tier,Family/Guardian Survey,0,1,1,1,0,1,1,1
+FAM-00772,Central New York,Child Family Survey,1,1,1,1,1,0,0,1
+FAM-00773,Hudson Valley,Adult Family Survey,1,0,1,1,1,0,1,0
+FAM-00774,New York City,Adult Family Survey,1,1,1,0,1,0,1,1
+FAM-00775,Long Island,Adult Family Survey,1,1,1,1,1,0,0,0
+FAM-00776,Finger Lakes,Child Family Survey,1,1,1,0,1,0,0,1
+FAM-00777,Western New York,Family/Guardian Survey,0,0,0,1,1,1,1,1
+FAM-00778,Capital Region,Adult Family Survey,1,1,1,1,1,0,0,0
+FAM-00779,New York City,Family/Guardian Survey,0,1,1,1,1,1,1,1
+FAM-00780,Long Island,Family/Guardian Survey,0,0,0,1,1,0,1,0
+FAM-00781,Capital Region,Family/Guardian Survey,0,1,0,1,1,0,0,1
+FAM-00782,Finger Lakes,Child Family Survey,1,1,1,1,1,0,1,1
+FAM-00783,Finger Lakes,Child Family Survey,1,1,1,1,1,0,0,1
+FAM-00784,New York City,Adult Family Survey,1,1,1,0,1,1,0,1
+FAM-00785,Capital Region,Adult Family Survey,0,1,1,1,0,1,1,1
+FAM-00786,New York City,Child Family Survey,1,0,1,1,1,0,1,1
+FAM-00787,Hudson Valley,Adult Family Survey,1,1,1,0,1,1,0,0
+FAM-00788,Central New York,Adult Family Survey,0,1,0,1,0,0,0,1
+FAM-00789,Hudson Valley,Adult Family Survey,1,1,0,0,1,0,0,1
+FAM-00790,Central New York,Family/Guardian Survey,1,0,0,1,1,0,0,0
+FAM-00791,Capital Region,Child Family Survey,0,0,1,1,1,0,0,0
+FAM-00792,New York City,Family/Guardian Survey,1,0,1,0,1,1,1,1
+FAM-00793,New York City,Adult Family Survey,0,1,1,0,0,1,0,1
+FAM-00794,Southern Tier,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-00795,New York City,Child Family Survey,1,1,1,1,1,0,0,1
+FAM-00796,Capital Region,Family/Guardian Survey,0,1,1,0,0,1,0,0
+FAM-00797,New York City,Family/Guardian Survey,1,1,1,0,1,1,0,1
+FAM-00798,Western New York,Adult Family Survey,0,0,1,1,1,0,1,1
+FAM-00799,Southern Tier,Family/Guardian Survey,1,1,1,1,0,1,1,1
+FAM-00800,Capital Region,Child Family Survey,1,0,1,1,0,1,0,1
+FAM-00801,North Country,Child Family Survey,1,1,1,1,1,0,1,1
+FAM-00802,Mohawk Valley,Adult Family Survey,1,1,1,0,1,0,0,0
+FAM-00803,Southern Tier,Child Family Survey,1,1,1,1,0,0,1,1
+FAM-00804,Southern Tier,Child Family Survey,1,1,1,1,1,0,1,1
+FAM-00805,Western New York,Adult Family Survey,1,0,1,1,1,0,0,1
+FAM-00806,Hudson Valley,Child Family Survey,0,1,1,0,0,1,0,1
+FAM-00807,Western New York,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-00808,Hudson Valley,Adult Family Survey,1,1,1,1,0,1,1,0
+FAM-00809,New York City,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-00810,Finger Lakes,Child Family Survey,1,1,0,1,0,0,0,1
+FAM-00811,Hudson Valley,Adult Family Survey,1,0,1,0,1,0,0,1
+FAM-00812,New York City,Child Family Survey,1,1,1,1,1,0,1,1
+FAM-00813,Finger Lakes,Adult Family Survey,1,0,1,0,0,0,0,1
+FAM-00814,Mohawk Valley,Child Family Survey,1,1,1,0,0,1,1,1
+FAM-00815,Central New York,Adult Family Survey,1,0,0,1,1,0,1,0
+FAM-00816,New York City,Adult Family Survey,1,1,1,1,1,0,1,1
+FAM-00817,Hudson Valley,Family/Guardian Survey,1,1,0,1,1,0,0,0
+FAM-00818,New York City,Family/Guardian Survey,1,1,1,0,1,1,0,1
+FAM-00819,Western New York,Adult Family Survey,1,0,1,1,0,1,0,0
+FAM-00820,Hudson Valley,Adult Family Survey,1,1,0,1,0,0,0,1
+FAM-00821,New York City,Adult Family Survey,1,1,1,1,1,1,1,0
+FAM-00822,Long Island,Family/Guardian Survey,1,1,1,1,1,0,0,0
+FAM-00823,New York City,Family/Guardian Survey,1,1,1,1,0,1,1,1
+FAM-00824,Hudson Valley,Family/Guardian Survey,1,1,1,0,1,0,1,1
+FAM-00825,New York City,Child Family Survey,1,0,1,1,1,1,1,1
+FAM-00826,Mohawk Valley,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-00827,New York City,Child Family Survey,1,1,1,0,1,1,0,1
+FAM-00828,New York City,Family/Guardian Survey,1,1,1,0,1,1,0,1
+FAM-00829,Hudson Valley,Adult Family Survey,1,1,1,1,0,0,0,1
+FAM-00830,Western New York,Family/Guardian Survey,1,1,1,0,1,1,1,0
+FAM-00831,Central New York,Family/Guardian Survey,1,1,1,0,1,0,1,1
+FAM-00832,Finger Lakes,Adult Family Survey,1,1,1,0,1,0,0,1
+FAM-00833,Central New York,Family/Guardian Survey,1,1,1,0,1,1,1,1
+FAM-00834,New York City,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-00835,Mohawk Valley,Adult Family Survey,1,1,1,1,1,1,0,1
+FAM-00836,Western New York,Adult Family Survey,1,0,1,0,1,0,0,1
+FAM-00837,Hudson Valley,Family/Guardian Survey,0,0,0,1,1,0,0,1
+FAM-00838,Hudson Valley,Family/Guardian Survey,1,1,1,0,1,1,1,1
+FAM-00839,Southern Tier,Family/Guardian Survey,0,1,1,1,1,0,1,1
+FAM-00840,Hudson Valley,Adult Family Survey,1,1,1,0,0,1,1,1
+FAM-00841,New York City,Family/Guardian Survey,1,1,1,0,1,0,1,1
+FAM-00842,New York City,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-00843,Long Island,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-00844,Hudson Valley,Family/Guardian Survey,1,1,1,1,1,0,1,1
+FAM-00845,Southern Tier,Child Family Survey,1,0,0,1,0,0,1,1
+FAM-00846,Western New York,Family/Guardian Survey,1,1,1,0,1,0,0,1
+FAM-00847,New York City,Family/Guardian Survey,0,1,1,0,0,0,0,1
+FAM-00848,Long Island,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-00849,Long Island,Child Family Survey,1,1,0,0,1,0,1,1
+FAM-00850,Capital Region,Child Family Survey,1,1,1,1,0,1,0,1
+FAM-00851,Southern Tier,Adult Family Survey,1,0,1,1,0,1,1,1
+FAM-00852,New York City,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-00853,Long Island,Family/Guardian Survey,1,1,1,1,1,0,0,1
+FAM-00854,New York City,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-00855,Central New York,Adult Family Survey,1,1,1,1,1,0,1,1
+FAM-00856,Long Island,Child Family Survey,1,1,1,0,0,1,0,1
+FAM-00857,Western New York,Child Family Survey,0,1,0,0,0,1,0,1
+FAM-00858,New York City,Family/Guardian Survey,0,1,1,1,1,1,1,1
+FAM-00859,New York City,Adult Family Survey,1,1,1,0,1,1,1,1
+FAM-00860,Long Island,Child Family Survey,0,1,0,1,1,0,1,1
+FAM-00861,Finger Lakes,Family/Guardian Survey,1,1,1,1,1,0,0,1
+FAM-00862,Hudson Valley,Child Family Survey,1,0,1,0,1,0,1,1
+FAM-00863,Capital Region,Family/Guardian Survey,1,0,0,0,1,0,1,1
+FAM-00864,New York City,Child Family Survey,1,1,1,1,1,1,0,0
+FAM-00865,Hudson Valley,Child Family Survey,1,1,1,1,1,1,1,0
+FAM-00866,Long Island,Adult Family Survey,1,1,1,0,0,1,1,0
+FAM-00867,Long Island,Child Family Survey,1,1,1,1,0,0,0,0
+FAM-00868,Capital Region,Adult Family Survey,0,1,1,1,1,0,1,0
+FAM-00869,New York City,Adult Family Survey,0,1,0,1,0,1,1,1
+FAM-00870,Southern Tier,Family/Guardian Survey,1,1,1,0,0,0,0,0
+FAM-00871,Western New York,Child Family Survey,1,1,1,1,1,1,0,1
+FAM-00872,Western New York,Family/Guardian Survey,0,0,1,1,1,0,1,0
+FAM-00873,Hudson Valley,Child Family Survey,1,1,1,0,1,0,0,1
+FAM-00874,New York City,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-00875,Capital Region,Child Family Survey,1,1,1,1,1,1,0,1
+FAM-00876,Finger Lakes,Adult Family Survey,1,1,1,0,0,1,0,0
+FAM-00877,New York City,Child Family Survey,1,1,1,1,1,1,0,1
+FAM-00878,Hudson Valley,Child Family Survey,1,0,1,0,1,1,0,0
+FAM-00879,Hudson Valley,Family/Guardian Survey,1,1,1,1,1,1,1,0
+FAM-00880,Mohawk Valley,Family/Guardian Survey,1,0,1,1,1,0,1,1
+FAM-00881,Southern Tier,Child Family Survey,1,1,1,0,1,1,1,1
+FAM-00882,Mohawk Valley,Adult Family Survey,1,1,1,1,0,0,1,1
+FAM-00883,Long Island,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-00884,New York City,Family/Guardian Survey,1,1,1,0,0,1,1,1
+FAM-00885,Finger Lakes,Family/Guardian Survey,0,0,1,1,1,1,0,1
+FAM-00886,Hudson Valley,Adult Family Survey,1,1,1,1,0,0,1,0
+FAM-00887,Long Island,Child Family Survey,1,1,1,0,1,1,1,1
+FAM-00888,Central New York,Adult Family Survey,1,1,1,0,1,1,0,1
+FAM-00889,New York City,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-00890,Western New York,Child Family Survey,1,1,1,0,1,1,1,1
+FAM-00891,Southern Tier,Family/Guardian Survey,0,0,1,0,0,1,1,1
+FAM-00892,Long Island,Family/Guardian Survey,1,1,1,1,1,1,0,0
+FAM-00893,Central New York,Adult Family Survey,1,1,1,1,0,1,1,1
+FAM-00894,Mohawk Valley,Adult Family Survey,1,1,1,1,1,1,0,1
+FAM-00895,Central New York,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-00896,Hudson Valley,Child Family Survey,1,0,0,1,0,0,1,1
+FAM-00897,New York City,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-00898,Western New York,Child Family Survey,0,1,1,1,1,1,1,1
+FAM-00899,Long Island,Family/Guardian Survey,0,1,0,0,1,1,0,0
+FAM-00900,New York City,Child Family Survey,1,1,0,0,1,0,0,1
+FAM-00901,Hudson Valley,Adult Family Survey,1,0,0,1,1,1,1,1
+FAM-00902,New York City,Child Family Survey,1,0,1,1,1,0,0,0
+FAM-00903,New York City,Child Family Survey,1,0,1,0,1,1,1,1
+FAM-00904,Central New York,Family/Guardian Survey,1,1,1,1,0,0,0,1
+FAM-00905,Hudson Valley,Family/Guardian Survey,0,1,1,1,0,1,0,0
+FAM-00906,Southern Tier,Adult Family Survey,1,1,1,0,1,0,0,1
+FAM-00907,Long Island,Family/Guardian Survey,1,1,1,1,1,1,0,1
+FAM-00908,Finger Lakes,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-00909,Mohawk Valley,Adult Family Survey,0,1,1,0,1,0,1,1
+FAM-00910,New York City,Child Family Survey,1,1,1,1,0,0,1,1
+FAM-00911,Finger Lakes,Adult Family Survey,1,1,0,0,1,1,0,1
+FAM-00912,Hudson Valley,Adult Family Survey,0,0,1,0,1,0,0,1
+FAM-00913,New York City,Adult Family Survey,1,1,1,1,1,0,1,1
+FAM-00914,Finger Lakes,Adult Family Survey,1,1,0,1,1,0,0,0
+FAM-00915,Hudson Valley,Child Family Survey,0,1,1,0,1,1,0,1
+FAM-00916,Mohawk Valley,Family/Guardian Survey,1,1,1,0,1,0,1,0
+FAM-00917,Central New York,Child Family Survey,1,0,1,1,1,1,0,0
+FAM-00918,Central New York,Child Family Survey,1,1,0,1,1,1,1,0
+FAM-00919,Hudson Valley,Family/Guardian Survey,1,1,1,1,1,0,1,1
+FAM-00920,Hudson Valley,Child Family Survey,1,1,0,1,0,0,1,1
+FAM-00921,Hudson Valley,Adult Family Survey,1,0,1,0,1,0,0,1
+FAM-00922,Southern Tier,Child Family Survey,1,0,1,0,1,1,1,1
+FAM-00923,Western New York,Family/Guardian Survey,1,1,1,0,0,0,0,1
+FAM-00924,Western New York,Adult Family Survey,1,1,1,1,0,0,1,1
+FAM-00925,Finger Lakes,Adult Family Survey,1,1,1,1,1,1,0,1
+FAM-00926,Mohawk Valley,Child Family Survey,1,1,1,1,1,1,0,1
+FAM-00927,Hudson Valley,Family/Guardian Survey,1,1,1,1,1,0,1,1
+FAM-00928,New York City,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-00929,Hudson Valley,Child Family Survey,1,1,1,1,0,1,1,1
+FAM-00930,New York City,Child Family Survey,1,1,0,0,0,0,0,1
+FAM-00931,Capital Region,Child Family Survey,1,1,1,1,1,1,0,1
+FAM-00932,New York City,Family/Guardian Survey,1,1,0,1,1,1,1,1
+FAM-00933,New York City,Child Family Survey,1,1,1,0,1,0,1,1
+FAM-00934,Capital Region,Child Family Survey,0,1,1,0,1,0,1,1
+FAM-00935,New York City,Child Family Survey,1,1,1,1,1,0,0,1
+FAM-00936,Long Island,Child Family Survey,1,0,1,1,0,0,1,1
+FAM-00937,New York City,Family/Guardian Survey,1,0,1,1,0,0,1,1
+FAM-00938,Long Island,Family/Guardian Survey,0,1,1,1,1,0,1,0
+FAM-00939,New York City,Child Family Survey,1,1,1,0,1,1,1,1
+FAM-00940,North Country,Family/Guardian Survey,1,0,0,1,1,1,1,1
+FAM-00941,New York City,Adult Family Survey,1,1,1,1,1,1,0,1
+FAM-00942,Capital Region,Adult Family Survey,1,1,1,0,1,0,0,1
+FAM-00943,Long Island,Child Family Survey,1,1,1,0,1,1,1,1
+FAM-00944,North Country,Family/Guardian Survey,1,1,1,0,1,0,1,1
+FAM-00945,Capital Region,Adult Family Survey,1,0,1,0,0,0,1,1
+FAM-00946,Hudson Valley,Adult Family Survey,1,1,1,1,1,1,0,0
+FAM-00947,Hudson Valley,Family/Guardian Survey,0,0,1,1,0,1,0,1
+FAM-00948,New York City,Adult Family Survey,1,1,1,0,0,1,1,1
+FAM-00949,New York City,Adult Family Survey,1,0,1,1,1,0,1,0
+FAM-00950,New York City,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-00951,Finger Lakes,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-00952,Mohawk Valley,Family/Guardian Survey,1,0,1,1,1,1,1,1
+FAM-00953,North Country,Family/Guardian Survey,1,0,1,1,1,0,0,1
+FAM-00954,Capital Region,Family/Guardian Survey,0,1,0,0,0,1,1,1
+FAM-00955,New York City,Child Family Survey,0,1,1,0,1,1,1,0
+FAM-00956,Finger Lakes,Child Family Survey,1,1,1,1,1,0,0,1
+FAM-00957,Long Island,Child Family Survey,1,1,1,1,0,1,1,1
+FAM-00958,Southern Tier,Child Family Survey,1,1,0,1,1,0,1,1
+FAM-00959,New York City,Family/Guardian Survey,1,1,1,1,1,0,1,1
+FAM-00960,Capital Region,Family/Guardian Survey,1,1,1,0,1,1,1,1
+FAM-00961,New York City,Child Family Survey,1,0,1,0,1,1,1,1
+FAM-00962,Long Island,Child Family Survey,1,1,0,1,1,0,1,1
+FAM-00963,Long Island,Child Family Survey,1,1,1,1,1,0,1,0
+FAM-00964,Hudson Valley,Child Family Survey,1,1,1,1,1,1,1,0
+FAM-00965,New York City,Child Family Survey,1,1,1,1,0,1,1,0
+FAM-00966,Western New York,Adult Family Survey,1,1,1,1,0,1,1,1
+FAM-00967,North Country,Adult Family Survey,1,0,1,1,1,0,1,1
+FAM-00968,Capital Region,Child Family Survey,0,0,0,0,1,0,1,1
+FAM-00969,New York City,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-00970,New York City,Adult Family Survey,1,1,1,1,1,1,0,1
+FAM-00971,Capital Region,Child Family Survey,0,0,1,0,1,0,0,1
+FAM-00972,Western New York,Adult Family Survey,1,1,1,0,0,1,0,0
+FAM-00973,Hudson Valley,Child Family Survey,1,1,0,1,1,0,1,1
+FAM-00974,Long Island,Adult Family Survey,1,0,0,1,1,1,1,1
+FAM-00975,New York City,Family/Guardian Survey,1,1,0,1,0,0,1,1
+FAM-00976,Finger Lakes,Adult Family Survey,0,0,1,1,1,0,1,1
+FAM-00977,Hudson Valley,Child Family Survey,0,1,1,0,1,1,0,1
+FAM-00978,Finger Lakes,Child Family Survey,1,1,1,1,1,0,1,1
+FAM-00979,New York City,Child Family Survey,1,1,1,0,1,0,0,1
+FAM-00980,New York City,Family/Guardian Survey,1,1,1,1,1,0,0,0
+FAM-00981,New York City,Family/Guardian Survey,1,1,1,1,1,1,0,1
+FAM-00982,Western New York,Child Family Survey,0,0,1,1,0,0,0,1
+FAM-00983,Capital Region,Adult Family Survey,1,0,1,0,1,0,1,0
+FAM-00984,Mohawk Valley,Child Family Survey,1,1,1,1,0,1,1,1
+FAM-00985,New York City,Child Family Survey,1,1,1,1,1,0,1,1
+FAM-00986,New York City,Adult Family Survey,1,1,1,1,1,1,0,1
+FAM-00987,Capital Region,Family/Guardian Survey,1,0,1,0,0,0,0,1
+FAM-00988,Finger Lakes,Family/Guardian Survey,1,1,0,1,1,0,1,1
+FAM-00989,Central New York,Adult Family Survey,1,1,1,1,1,0,0,1
+FAM-00990,New York City,Adult Family Survey,1,1,1,0,0,1,1,1
+FAM-00991,Hudson Valley,Family/Guardian Survey,1,1,0,1,0,1,0,1
+FAM-00992,New York City,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-00993,Central New York,Family/Guardian Survey,1,1,1,1,1,0,1,1
+FAM-00994,Hudson Valley,Family/Guardian Survey,1,0,1,0,0,1,1,0
+FAM-00995,Capital Region,Family/Guardian Survey,0,0,1,1,1,1,0,1
+FAM-00996,New York City,Family/Guardian Survey,1,1,1,1,1,0,1,1
+FAM-00997,Capital Region,Adult Family Survey,1,1,1,0,0,0,1,1
+FAM-00998,Central New York,Family/Guardian Survey,1,0,1,1,0,1,0,1
+FAM-00999,Hudson Valley,Child Family Survey,1,1,1,0,1,1,1,1
+FAM-01000,Hudson Valley,Child Family Survey,1,0,1,1,1,0,1,0
+FAM-01001,Finger Lakes,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-01002,Finger Lakes,Adult Family Survey,1,0,1,1,1,0,1,1
+FAM-01003,Hudson Valley,Child Family Survey,1,0,1,1,1,1,0,1
+FAM-01004,Capital Region,Child Family Survey,0,0,1,1,1,1,0,1
+FAM-01005,North Country,Child Family Survey,0,1,1,1,0,1,0,0
+FAM-01006,Long Island,Child Family Survey,0,1,0,0,1,1,1,1
+FAM-01007,Long Island,Family/Guardian Survey,0,1,1,1,1,0,1,1
+FAM-01008,Capital Region,Adult Family Survey,0,1,1,1,1,1,0,0
+FAM-01009,Finger Lakes,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-01010,Mohawk Valley,Adult Family Survey,1,1,1,1,1,0,1,1
+FAM-01011,Capital Region,Family/Guardian Survey,1,1,1,0,0,1,1,0
+FAM-01012,New York City,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-01013,New York City,Child Family Survey,1,1,0,1,0,0,1,1
+FAM-01014,Hudson Valley,Family/Guardian Survey,1,1,1,0,1,1,0,1
+FAM-01015,New York City,Adult Family Survey,1,1,1,1,1,0,0,1
+FAM-01016,Capital Region,Child Family Survey,1,0,1,0,0,0,1,1
+FAM-01017,Capital Region,Child Family Survey,1,1,1,0,1,0,0,1
+FAM-01018,Western New York,Child Family Survey,1,0,1,0,1,0,1,0
+FAM-01019,Hudson Valley,Family/Guardian Survey,0,1,1,1,1,0,0,1
+FAM-01020,Mohawk Valley,Child Family Survey,1,0,1,1,1,0,1,1
+FAM-01021,New York City,Child Family Survey,1,1,1,1,1,0,1,1
+FAM-01022,Finger Lakes,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-01023,Long Island,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-01024,Hudson Valley,Family/Guardian Survey,1,0,1,1,1,0,1,1
+FAM-01025,Finger Lakes,Child Family Survey,1,1,1,1,1,1,0,1
+FAM-01026,Finger Lakes,Family/Guardian Survey,1,0,1,0,1,1,0,1
+FAM-01027,New York City,Family/Guardian Survey,1,1,1,0,1,1,1,1
+FAM-01028,Finger Lakes,Adult Family Survey,1,1,1,0,1,1,1,0
+FAM-01029,Long Island,Child Family Survey,1,1,1,1,0,1,0,1
+FAM-01030,Western New York,Adult Family Survey,0,1,1,0,0,1,1,1
+FAM-01031,Southern Tier,Adult Family Survey,1,1,1,0,1,0,1,1
+FAM-01032,Hudson Valley,Adult Family Survey,1,1,0,0,1,0,0,0
+FAM-01033,North Country,Adult Family Survey,1,1,1,0,1,0,1,0
+FAM-01034,New York City,Adult Family Survey,1,1,1,1,1,1,0,0
+FAM-01035,Finger Lakes,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-01036,North Country,Family/Guardian Survey,1,0,1,1,1,0,0,0
+FAM-01037,Long Island,Adult Family Survey,1,1,1,1,0,1,1,1
+FAM-01038,New York City,Child Family Survey,1,1,1,1,1,1,0,1
+FAM-01039,Western New York,Child Family Survey,1,1,1,1,1,0,0,1
+FAM-01040,Hudson Valley,Child Family Survey,1,0,0,1,1,0,1,0
+FAM-01041,Southern Tier,Adult Family Survey,1,1,1,0,1,0,1,0
+FAM-01042,Central New York,Family/Guardian Survey,1,1,1,1,1,0,1,0
+FAM-01043,Capital Region,Family/Guardian Survey,1,0,1,0,0,0,0,1
+FAM-01044,Western New York,Family/Guardian Survey,1,1,1,1,0,0,0,1
+FAM-01045,New York City,Child Family Survey,1,0,1,1,1,0,0,1
+FAM-01046,Hudson Valley,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-01047,Finger Lakes,Child Family Survey,1,1,1,1,1,0,0,1
+FAM-01048,Central New York,Adult Family Survey,0,1,0,1,1,1,0,1
+FAM-01049,Hudson Valley,Child Family Survey,1,1,1,1,0,0,0,0
+FAM-01050,New York City,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-01051,North Country,Child Family Survey,1,1,0,1,1,1,1,1
+FAM-01052,Southern Tier,Family/Guardian Survey,1,0,0,1,1,1,1,0
+FAM-01053,Capital Region,Adult Family Survey,1,1,1,0,1,0,1,0
+FAM-01054,New York City,Child Family Survey,1,1,1,0,0,1,1,0
+FAM-01055,Capital Region,Adult Family Survey,1,1,1,1,0,0,1,1
+FAM-01056,Hudson Valley,Family/Guardian Survey,0,1,1,1,0,0,1,1
+FAM-01057,Finger Lakes,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-01058,Southern Tier,Family/Guardian Survey,1,0,1,1,1,1,1,1
+FAM-01059,New York City,Adult Family Survey,1,1,0,1,1,1,0,1
+FAM-01060,Long Island,Family/Guardian Survey,1,0,0,1,1,1,1,1
+FAM-01061,Capital Region,Adult Family Survey,1,0,1,1,1,0,1,1
+FAM-01062,Mohawk Valley,Child Family Survey,1,1,1,1,1,1,0,0
+FAM-01063,North Country,Family/Guardian Survey,1,1,1,1,0,0,0,0
+FAM-01064,New York City,Adult Family Survey,1,1,1,1,1,1,0,1
+FAM-01065,Western New York,Family/Guardian Survey,1,0,1,0,1,0,1,0
+FAM-01066,New York City,Family/Guardian Survey,0,1,1,0,1,1,0,1
+FAM-01067,Finger Lakes,Child Family Survey,1,1,1,1,1,0,1,1
+FAM-01068,Central New York,Family/Guardian Survey,1,0,1,1,0,0,1,1
+FAM-01069,Hudson Valley,Adult Family Survey,0,0,1,1,1,1,0,1
+FAM-01070,New York City,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-01071,Southern Tier,Adult Family Survey,0,1,1,0,0,0,0,0
+FAM-01072,Hudson Valley,Family/Guardian Survey,1,1,1,1,1,0,0,0
+FAM-01073,Southern Tier,Child Family Survey,1,1,1,1,1,0,1,1
+FAM-01074,New York City,Family/Guardian Survey,1,1,1,0,1,0,1,1
+FAM-01075,New York City,Child Family Survey,1,1,1,1,1,0,1,1
+FAM-01076,New York City,Adult Family Survey,1,0,0,1,1,0,1,1
+FAM-01077,Long Island,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-01078,Western New York,Adult Family Survey,1,0,1,1,0,1,1,0
+FAM-01079,New York City,Family/Guardian Survey,1,1,1,0,0,1,1,1
+FAM-01080,Finger Lakes,Child Family Survey,1,1,1,1,1,0,1,1
+FAM-01081,Mohawk Valley,Family/Guardian Survey,0,1,1,1,0,0,1,1
+FAM-01082,Central New York,Family/Guardian Survey,1,1,1,0,0,0,0,1
+FAM-01083,Mohawk Valley,Adult Family Survey,1,1,1,1,1,0,1,1
+FAM-01084,Finger Lakes,Adult Family Survey,1,1,1,0,1,1,1,0
+FAM-01085,Hudson Valley,Family/Guardian Survey,0,0,1,1,0,0,1,1
+FAM-01086,Long Island,Child Family Survey,1,1,0,0,1,1,1,1
+FAM-01087,Long Island,Family/Guardian Survey,1,1,1,0,0,0,0,0
+FAM-01088,Western New York,Family/Guardian Survey,0,1,1,1,1,0,0,1
+FAM-01089,Central New York,Adult Family Survey,1,0,1,0,1,1,1,0
+FAM-01090,New York City,Child Family Survey,1,1,1,1,0,0,0,1
+FAM-01091,Central New York,Child Family Survey,1,1,1,0,1,1,1,1
+FAM-01092,Hudson Valley,Family/Guardian Survey,0,0,1,1,1,1,1,1
+FAM-01093,Western New York,Adult Family Survey,0,0,1,1,0,0,0,1
+FAM-01094,Western New York,Adult Family Survey,1,1,1,1,0,1,1,1
+FAM-01095,Western New York,Adult Family Survey,1,0,1,0,0,1,0,1
+FAM-01096,New York City,Family/Guardian Survey,1,1,1,0,1,1,1,1
+FAM-01097,Hudson Valley,Family/Guardian Survey,1,1,0,1,0,1,0,1
+FAM-01098,Long Island,Family/Guardian Survey,1,1,1,1,1,0,0,0
+FAM-01099,Central New York,Adult Family Survey,1,1,0,0,1,0,1,0
+FAM-01100,New York City,Child Family Survey,1,1,1,1,1,1,0,0
+FAM-01101,Western New York,Adult Family Survey,1,0,1,1,0,1,1,1
+FAM-01102,New York City,Child Family Survey,1,1,1,1,1,0,0,1
+FAM-01103,Long Island,Adult Family Survey,1,0,1,0,1,1,1,0
+FAM-01104,Long Island,Adult Family Survey,1,1,0,1,1,1,1,1
+FAM-01105,New York City,Family/Guardian Survey,1,1,1,0,1,1,1,1
+FAM-01106,Hudson Valley,Family/Guardian Survey,1,1,0,1,1,0,0,1
+FAM-01107,Long Island,Child Family Survey,1,1,1,1,0,0,1,1
+FAM-01108,Southern Tier,Child Family Survey,1,1,1,1,1,1,1,0
+FAM-01109,Hudson Valley,Child Family Survey,1,1,0,0,1,1,1,0
+FAM-01110,New York City,Child Family Survey,1,1,1,0,1,1,1,1
+FAM-01111,Long Island,Child Family Survey,0,0,1,1,0,1,0,1
+FAM-01112,Central New York,Child Family Survey,0,1,1,0,1,1,1,1
+FAM-01113,Central New York,Child Family Survey,1,0,1,1,1,0,1,1
+FAM-01114,New York City,Adult Family Survey,1,0,0,1,1,1,0,1
+FAM-01115,New York City,Adult Family Survey,1,1,1,1,1,0,1,1
+FAM-01116,New York City,Family/Guardian Survey,1,1,1,1,1,0,1,1
+FAM-01117,Hudson Valley,Child Family Survey,0,0,1,1,1,0,0,1
+FAM-01118,New York City,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-01119,Hudson Valley,Family/Guardian Survey,0,1,1,1,1,1,0,1
+FAM-01120,Southern Tier,Family/Guardian Survey,1,0,1,0,0,0,0,1
+FAM-01121,Western New York,Child Family Survey,1,0,1,0,1,0,1,1
+FAM-01122,New York City,Family/Guardian Survey,1,1,1,1,1,0,1,1
+FAM-01123,New York City,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-01124,New York City,Adult Family Survey,1,0,1,1,1,1,1,1
+FAM-01125,Western New York,Child Family Survey,0,1,1,0,1,0,0,1
+FAM-01126,New York City,Adult Family Survey,0,1,1,1,1,1,1,0
+FAM-01127,Hudson Valley,Adult Family Survey,1,0,1,0,1,0,0,1
+FAM-01128,Long Island,Adult Family Survey,1,1,1,1,0,0,0,1
+FAM-01129,New York City,Family/Guardian Survey,1,1,1,0,1,1,1,1
+FAM-01130,Capital Region,Family/Guardian Survey,1,0,0,1,1,1,0,1
+FAM-01131,New York City,Family/Guardian Survey,1,1,1,0,1,1,1,0
+FAM-01132,Hudson Valley,Family/Guardian Survey,0,1,0,1,0,1,0,0
+FAM-01133,Western New York,Child Family Survey,0,1,0,1,1,0,0,1
+FAM-01134,Hudson Valley,Family/Guardian Survey,1,1,1,1,1,1,1,0
+FAM-01135,Finger Lakes,Adult Family Survey,1,1,1,1,1,0,1,1
+FAM-01136,New York City,Child Family Survey,0,1,1,1,1,1,1,1
+FAM-01137,New York City,Child Family Survey,0,1,1,0,1,1,1,1
+FAM-01138,North Country,Adult Family Survey,1,1,0,0,1,1,0,1
+FAM-01139,Long Island,Child Family Survey,1,1,0,1,0,1,1,1
+FAM-01140,Hudson Valley,Adult Family Survey,1,1,0,1,1,1,1,1
+FAM-01141,Southern Tier,Adult Family Survey,1,1,1,0,1,0,0,1
+FAM-01142,New York City,Adult Family Survey,1,1,1,1,0,0,0,1
+FAM-01143,Long Island,Family/Guardian Survey,1,0,1,1,0,1,1,1
+FAM-01144,Hudson Valley,Adult Family Survey,1,1,0,1,1,0,1,1
+FAM-01145,Mohawk Valley,Adult Family Survey,0,1,1,1,1,1,1,1
+FAM-01146,Capital Region,Family/Guardian Survey,0,0,0,1,0,1,1,1
+FAM-01147,New York City,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-01148,Long Island,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-01149,Hudson Valley,Child Family Survey,1,0,1,1,1,0,0,1
+FAM-01150,Western New York,Child Family Survey,0,1,1,0,0,1,1,1
+FAM-01151,Hudson Valley,Child Family Survey,1,1,1,1,1,1,0,1
+FAM-01152,Hudson Valley,Child Family Survey,0,1,1,0,1,0,0,0
+FAM-01153,New York City,Adult Family Survey,1,1,1,1,0,1,1,1
+FAM-01154,New York City,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-01155,Finger Lakes,Family/Guardian Survey,0,1,1,1,1,1,0,1
+FAM-01156,Central New York,Family/Guardian Survey,1,0,1,1,1,1,1,0
+FAM-01157,Southern Tier,Child Family Survey,1,0,1,1,1,1,0,0
+FAM-01158,Southern Tier,Adult Family Survey,0,1,0,1,1,1,1,1
+FAM-01159,New York City,Adult Family Survey,1,0,1,1,1,0,0,1
+FAM-01160,Capital Region,Child Family Survey,1,0,1,1,1,1,1,1
+FAM-01161,New York City,Family/Guardian Survey,1,1,1,0,1,1,1,1
+FAM-01162,Central New York,Adult Family Survey,1,0,1,1,1,1,0,1
+FAM-01163,Hudson Valley,Family/Guardian Survey,1,1,0,0,0,1,0,1
+FAM-01164,Long Island,Child Family Survey,1,1,1,0,0,0,1,1
+FAM-01165,Finger Lakes,Family/Guardian Survey,1,1,1,0,1,1,1,1
+FAM-01166,New York City,Family/Guardian Survey,1,1,1,1,1,0,0,1
+FAM-01167,Central New York,Adult Family Survey,1,1,1,1,1,1,0,1
+FAM-01168,Mohawk Valley,Adult Family Survey,1,1,1,1,1,0,1,1
+FAM-01169,Long Island,Child Family Survey,0,1,1,1,1,0,0,1
+FAM-01170,Western New York,Child Family Survey,0,1,0,1,0,0,1,0
+FAM-01171,New York City,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-01172,New York City,Adult Family Survey,0,1,0,1,1,1,1,1
+FAM-01173,New York City,Family/Guardian Survey,0,1,1,1,1,0,1,1
+FAM-01174,Finger Lakes,Family/Guardian Survey,1,1,1,0,1,1,1,1
+FAM-01175,Finger Lakes,Child Family Survey,1,1,1,1,1,1,0,1
+FAM-01176,New York City,Adult Family Survey,1,1,1,1,1,1,1,0
+FAM-01177,New York City,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-01178,New York City,Adult Family Survey,1,1,1,0,0,1,1,0
+FAM-01179,Southern Tier,Adult Family Survey,1,0,0,0,1,1,0,1
+FAM-01180,Western New York,Family/Guardian Survey,0,0,1,0,1,0,0,0
+FAM-01181,New York City,Adult Family Survey,1,1,1,0,1,0,1,1
+FAM-01182,New York City,Adult Family Survey,1,1,1,0,0,1,1,1
+FAM-01183,Southern Tier,Child Family Survey,1,0,1,0,1,0,0,0
+FAM-01184,Hudson Valley,Child Family Survey,1,0,1,1,1,1,1,1
+FAM-01185,Western New York,Child Family Survey,1,0,1,1,1,0,1,1
+FAM-01186,Long Island,Family/Guardian Survey,1,1,0,0,1,0,1,1
+FAM-01187,New York City,Family/Guardian Survey,1,0,1,1,1,0,0,1
+FAM-01188,Long Island,Family/Guardian Survey,1,0,1,0,0,0,0,1
+FAM-01189,Capital Region,Child Family Survey,1,0,1,0,0,0,0,1
+FAM-01190,Finger Lakes,Child Family Survey,1,1,1,1,1,0,1,0
+FAM-01191,Central New York,Family/Guardian Survey,1,1,0,1,1,0,1,1
+FAM-01192,New York City,Family/Guardian Survey,1,1,1,1,1,0,1,1
+FAM-01193,Hudson Valley,Adult Family Survey,1,1,1,1,1,1,0,1
+FAM-01194,Hudson Valley,Child Family Survey,0,1,1,1,1,1,1,1
+FAM-01195,New York City,Adult Family Survey,1,1,1,1,1,1,0,0
+FAM-01196,Capital Region,Family/Guardian Survey,1,0,0,0,1,1,1,1
+FAM-01197,Western New York,Family/Guardian Survey,0,1,1,0,1,0,0,1
+FAM-01198,Western New York,Child Family Survey,0,1,1,0,1,0,0,0
+FAM-01199,New York City,Child Family Survey,1,1,1,0,0,1,1,1
+FAM-01200,Central New York,Child Family Survey,1,1,1,1,0,1,1,1
+FAM-01201,Long Island,Child Family Survey,1,1,1,0,1,0,0,0
+FAM-01202,Long Island,Child Family Survey,1,1,0,1,0,0,1,0
+FAM-01203,Long Island,Adult Family Survey,1,0,1,0,1,1,0,1
+FAM-01204,Long Island,Adult Family Survey,1,1,1,0,1,1,0,1
+FAM-01205,Mohawk Valley,Adult Family Survey,1,1,1,1,1,1,0,1
+FAM-01206,Central New York,Family/Guardian Survey,1,1,1,0,0,0,1,1
+FAM-01207,Finger Lakes,Family/Guardian Survey,1,1,1,0,0,1,1,1
+FAM-01208,Western New York,Family/Guardian Survey,1,1,1,0,1,1,1,1
+FAM-01209,Hudson Valley,Adult Family Survey,1,1,0,0,1,1,1,1
+FAM-01210,Finger Lakes,Adult Family Survey,1,1,0,1,1,1,1,1
+FAM-01211,New York City,Child Family Survey,1,1,1,1,1,1,0,1
+FAM-01212,Southern Tier,Adult Family Survey,1,0,1,1,1,0,0,1
+FAM-01213,New York City,Family/Guardian Survey,1,1,1,1,0,1,1,1
+FAM-01214,New York City,Child Family Survey,1,1,1,0,1,1,1,1
+FAM-01215,New York City,Child Family Survey,1,1,1,1,1,0,1,1
+FAM-01216,Hudson Valley,Child Family Survey,1,1,0,0,1,0,1,1
+FAM-01217,New York City,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-01218,Long Island,Adult Family Survey,1,1,1,1,1,1,0,1
+FAM-01219,Hudson Valley,Family/Guardian Survey,1,1,1,0,0,1,1,1
+FAM-01220,Capital Region,Family/Guardian Survey,0,1,1,0,1,0,1,0
+FAM-01221,Western New York,Family/Guardian Survey,1,1,1,0,0,1,0,1
+FAM-01222,New York City,Adult Family Survey,0,1,1,1,1,0,1,1
+FAM-01223,Western New York,Child Family Survey,1,1,1,0,1,1,1,1
+FAM-01224,Hudson Valley,Child Family Survey,1,0,1,0,0,1,0,1
+FAM-01225,Finger Lakes,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-01226,Hudson Valley,Family/Guardian Survey,1,1,1,0,1,0,1,1
+FAM-01227,Hudson Valley,Adult Family Survey,0,1,1,1,1,0,1,1
+FAM-01228,Hudson Valley,Child Family Survey,1,1,1,0,1,1,0,1
+FAM-01229,New York City,Adult Family Survey,1,1,1,1,1,1,0,1
+FAM-01230,Finger Lakes,Family/Guardian Survey,1,1,1,0,1,1,1,1
+FAM-01231,Central New York,Family/Guardian Survey,0,1,0,1,1,1,0,1
+FAM-01232,Finger Lakes,Child Family Survey,1,0,1,0,1,0,1,1
+FAM-01233,Western New York,Child Family Survey,0,1,1,0,0,1,1,0
+FAM-01234,Mohawk Valley,Family/Guardian Survey,1,1,1,1,1,0,0,1
+FAM-01235,New York City,Child Family Survey,0,1,1,0,1,1,1,1
+FAM-01236,Hudson Valley,Family/Guardian Survey,0,1,0,0,1,1,1,0
+FAM-01237,Western New York,Family/Guardian Survey,0,1,1,0,0,1,1,1
+FAM-01238,Finger Lakes,Family/Guardian Survey,1,1,0,1,1,1,1,1
+FAM-01239,North Country,Family/Guardian Survey,1,1,1,1,1,0,0,1
+FAM-01240,Western New York,Adult Family Survey,1,0,0,0,1,0,1,0
+FAM-01241,Long Island,Family/Guardian Survey,1,1,1,0,1,1,0,0
+FAM-01242,Central New York,Child Family Survey,0,1,1,1,1,0,1,1
+FAM-01243,Western New York,Child Family Survey,1,1,0,1,1,0,1,0
+FAM-01244,New York City,Child Family Survey,1,1,1,1,1,0,1,1
+FAM-01245,New York City,Family/Guardian Survey,1,1,1,0,1,0,0,1
+FAM-01246,Long Island,Adult Family Survey,0,0,1,1,1,0,1,1
+FAM-01247,New York City,Child Family Survey,1,1,1,0,1,1,0,1
+FAM-01248,Long Island,Adult Family Survey,1,1,1,0,0,0,1,1
+FAM-01249,Western New York,Adult Family Survey,1,0,1,1,1,0,1,0
+FAM-01250,Western New York,Family/Guardian Survey,1,0,0,1,1,0,1,1
+FAM-01251,Mohawk Valley,Child Family Survey,1,0,0,0,1,1,1,1
+FAM-01252,New York City,Child Family Survey,0,1,1,1,1,1,1,1
+FAM-01253,New York City,Child Family Survey,1,1,1,1,1,0,1,1
+FAM-01254,Finger Lakes,Family/Guardian Survey,1,1,0,0,1,0,1,1
+FAM-01255,Hudson Valley,Child Family Survey,1,1,0,0,1,0,0,1
+FAM-01256,Long Island,Adult Family Survey,1,1,0,1,1,1,1,1
+FAM-01257,New York City,Child Family Survey,1,1,1,1,1,1,0,0
+FAM-01258,Long Island,Adult Family Survey,1,0,1,0,1,0,1,0
+FAM-01259,Central New York,Child Family Survey,0,1,1,1,1,1,0,1
+FAM-01260,Long Island,Adult Family Survey,1,1,0,0,0,0,1,1
+FAM-01261,Southern Tier,Family/Guardian Survey,0,1,1,1,1,1,1,1
+FAM-01262,Capital Region,Adult Family Survey,1,1,1,1,1,1,0,0
+FAM-01263,Western New York,Adult Family Survey,1,0,1,0,1,1,1,1
+FAM-01264,North Country,Child Family Survey,1,1,1,0,0,1,0,1
+FAM-01265,Western New York,Family/Guardian Survey,1,0,1,1,1,1,0,0
+FAM-01266,Southern Tier,Family/Guardian Survey,1,1,1,1,1,1,0,1
+FAM-01267,Western New York,Adult Family Survey,1,1,1,0,1,0,1,1
+FAM-01268,Western New York,Family/Guardian Survey,1,0,1,0,0,1,1,0
+FAM-01269,Western New York,Adult Family Survey,1,0,1,1,1,1,0,0
+FAM-01270,Mohawk Valley,Adult Family Survey,1,1,0,0,1,1,0,1
+FAM-01271,Mohawk Valley,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-01272,North Country,Child Family Survey,1,1,1,1,0,0,0,1
+FAM-01273,Long Island,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-01274,New York City,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-01275,Western New York,Family/Guardian Survey,1,1,0,0,1,1,0,0
+FAM-01276,Capital Region,Adult Family Survey,0,0,1,0,1,0,1,1
+FAM-01277,Western New York,Family/Guardian Survey,0,1,1,1,1,0,0,0
+FAM-01278,Finger Lakes,Adult Family Survey,1,0,1,1,1,1,1,1
+FAM-01279,North Country,Family/Guardian Survey,1,1,1,1,0,1,0,1
+FAM-01280,Capital Region,Adult Family Survey,1,0,0,0,1,1,0,1
+FAM-01281,Hudson Valley,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-01282,Western New York,Child Family Survey,1,1,0,1,0,1,1,0
+FAM-01283,Long Island,Child Family Survey,0,0,0,0,1,0,0,1
+FAM-01284,Hudson Valley,Family/Guardian Survey,0,1,0,1,1,0,1,0
+FAM-01285,Long Island,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-01286,Central New York,Adult Family Survey,1,1,1,1,1,0,1,1
+FAM-01287,Finger Lakes,Family/Guardian Survey,1,1,0,1,1,0,0,1
+FAM-01288,North Country,Child Family Survey,1,0,1,1,0,1,1,0
+FAM-01289,New York City,Family/Guardian Survey,1,1,1,1,1,1,0,1
+FAM-01290,Hudson Valley,Family/Guardian Survey,0,1,1,1,1,1,1,1
+FAM-01291,Western New York,Adult Family Survey,1,1,1,1,0,0,0,0
+FAM-01292,Hudson Valley,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-01293,Central New York,Child Family Survey,0,0,1,0,1,0,1,1
+FAM-01294,New York City,Family/Guardian Survey,1,0,0,0,1,1,1,0
+FAM-01295,Finger Lakes,Child Family Survey,1,1,1,0,1,0,0,1
+FAM-01296,Long Island,Adult Family Survey,1,1,1,1,1,0,1,1
+FAM-01297,Mohawk Valley,Adult Family Survey,1,1,1,1,1,1,0,1
+FAM-01298,Hudson Valley,Family/Guardian Survey,1,1,1,1,0,1,0,1
+FAM-01299,New York City,Family/Guardian Survey,1,1,0,1,1,0,1,1
+FAM-01300,New York City,Child Family Survey,1,0,1,1,1,1,0,1
+FAM-01301,Southern Tier,Family/Guardian Survey,0,1,1,1,1,0,1,1
+FAM-01302,Finger Lakes,Family/Guardian Survey,1,1,1,1,1,0,1,1
+FAM-01303,Finger Lakes,Family/Guardian Survey,0,1,1,1,1,0,0,1
+FAM-01304,Hudson Valley,Family/Guardian Survey,1,1,1,0,1,1,0,1
+FAM-01305,Southern Tier,Child Family Survey,1,1,0,1,1,1,0,0
+FAM-01306,New York City,Family/Guardian Survey,1,1,1,1,1,0,0,1
+FAM-01307,New York City,Family/Guardian Survey,1,1,1,1,1,0,1,1
+FAM-01308,Long Island,Family/Guardian Survey,1,0,1,1,1,1,0,1
+FAM-01309,New York City,Family/Guardian Survey,1,1,1,1,1,1,0,1
+FAM-01310,Finger Lakes,Child Family Survey,0,1,1,0,0,1,1,1
+FAM-01311,Long Island,Family/Guardian Survey,1,0,1,1,0,1,0,0
+FAM-01312,Mohawk Valley,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-01313,New York City,Family/Guardian Survey,1,1,0,1,1,0,0,1
+FAM-01314,Hudson Valley,Adult Family Survey,1,1,1,1,0,0,1,1
+FAM-01315,Finger Lakes,Adult Family Survey,1,1,1,1,1,1,0,1
+FAM-01316,New York City,Adult Family Survey,1,1,1,1,1,1,1,0
+FAM-01317,Hudson Valley,Child Family Survey,1,0,1,1,1,1,0,0
+FAM-01318,New York City,Family/Guardian Survey,1,1,1,1,0,1,0,1
+FAM-01319,New York City,Family/Guardian Survey,1,1,1,1,1,0,1,1
+FAM-01320,Hudson Valley,Adult Family Survey,0,1,1,1,1,1,0,1
+FAM-01321,New York City,Adult Family Survey,1,0,0,1,1,1,1,1
+FAM-01322,Long Island,Family/Guardian Survey,1,0,1,1,1,1,0,1
+FAM-01323,New York City,Child Family Survey,1,0,1,1,1,0,0,0
+FAM-01324,Finger Lakes,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-01325,Central New York,Family/Guardian Survey,0,1,1,0,1,0,0,1
+FAM-01326,Long Island,Child Family Survey,1,1,1,1,1,0,1,0
+FAM-01327,Long Island,Family/Guardian Survey,1,1,1,1,0,0,1,1
+FAM-01328,New York City,Family/Guardian Survey,1,1,1,0,1,1,0,1
+FAM-01329,Hudson Valley,Child Family Survey,1,1,1,0,0,1,1,1
+FAM-01330,Capital Region,Family/Guardian Survey,1,1,0,0,1,0,0,0
+FAM-01331,Finger Lakes,Child Family Survey,1,1,1,0,1,1,0,1
+FAM-01332,Finger Lakes,Family/Guardian Survey,1,0,1,1,1,0,0,1
+FAM-01333,New York City,Family/Guardian Survey,1,0,1,1,1,0,1,1
+FAM-01334,North Country,Family/Guardian Survey,1,1,1,1,1,0,1,1
+FAM-01335,Long Island,Family/Guardian Survey,1,1,0,0,1,0,1,1
+FAM-01336,Hudson Valley,Family/Guardian Survey,1,1,0,0,0,1,1,0
+FAM-01337,Finger Lakes,Child Family Survey,0,1,1,1,1,0,0,1
+FAM-01338,New York City,Family/Guardian Survey,1,1,1,0,0,0,1,0
+FAM-01339,New York City,Family/Guardian Survey,1,1,1,0,1,1,1,1
+FAM-01340,Long Island,Adult Family Survey,1,0,1,1,1,1,0,0
+FAM-01341,New York City,Adult Family Survey,1,1,1,0,1,1,1,1
+FAM-01342,New York City,Family/Guardian Survey,1,1,1,0,1,1,0,1
+FAM-01343,Central New York,Child Family Survey,0,1,1,1,1,1,1,1
+FAM-01344,New York City,Adult Family Survey,1,1,1,0,1,1,1,0
+FAM-01345,Mohawk Valley,Family/Guardian Survey,1,0,1,0,1,0,1,1
+FAM-01346,New York City,Adult Family Survey,1,0,0,1,1,1,1,1
+FAM-01347,Western New York,Adult Family Survey,0,0,0,1,1,1,0,1
+FAM-01348,Finger Lakes,Child Family Survey,1,1,1,1,1,1,0,1
+FAM-01349,Hudson Valley,Adult Family Survey,1,1,1,1,1,0,1,0
+FAM-01350,New York City,Family/Guardian Survey,1,0,1,1,1,1,1,1
+FAM-01351,New York City,Adult Family Survey,1,1,1,0,1,1,1,1
+FAM-01352,North Country,Adult Family Survey,1,1,1,1,1,0,0,1
+FAM-01353,New York City,Adult Family Survey,1,1,1,1,0,1,1,1
+FAM-01354,Capital Region,Family/Guardian Survey,1,1,1,0,0,1,1,1
+FAM-01355,New York City,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-01356,Long Island,Family/Guardian Survey,1,1,1,1,1,0,1,1
+FAM-01357,Hudson Valley,Family/Guardian Survey,1,1,1,0,0,0,0,1
+FAM-01358,Finger Lakes,Family/Guardian Survey,0,1,1,1,1,1,1,1
+FAM-01359,Finger Lakes,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-01360,Western New York,Adult Family Survey,0,0,1,1,1,0,0,1
+FAM-01361,Capital Region,Family/Guardian Survey,0,1,1,1,0,0,1,0
+FAM-01362,Finger Lakes,Child Family Survey,1,1,1,1,0,0,1,1
+FAM-01363,New York City,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-01364,Mohawk Valley,Child Family Survey,1,0,1,1,0,0,1,1
+FAM-01365,New York City,Adult Family Survey,1,0,1,1,1,1,1,0
+FAM-01366,Finger Lakes,Adult Family Survey,1,1,1,1,1,1,0,1
+FAM-01367,New York City,Child Family Survey,1,1,1,1,1,0,0,1
+FAM-01368,Central New York,Adult Family Survey,1,1,1,1,1,0,1,0
+FAM-01369,Long Island,Family/Guardian Survey,1,1,1,0,0,0,1,0
+FAM-01370,Long Island,Adult Family Survey,1,1,0,1,1,0,0,1
+FAM-01371,Mohawk Valley,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-01372,Hudson Valley,Family/Guardian Survey,1,1,1,0,0,0,0,1
+FAM-01373,New York City,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-01374,Long Island,Family/Guardian Survey,0,1,1,1,1,0,1,1
+FAM-01375,North Country,Child Family Survey,1,1,0,1,1,0,1,1
+FAM-01376,New York City,Adult Family Survey,1,1,1,1,1,0,0,0
+FAM-01377,Long Island,Adult Family Survey,0,0,1,0,0,1,1,1
+FAM-01378,Long Island,Adult Family Survey,1,0,1,1,1,0,0,1
+FAM-01379,Capital Region,Child Family Survey,1,0,0,1,1,0,1,1
+FAM-01380,Western New York,Family/Guardian Survey,1,1,1,0,1,0,1,1
+FAM-01381,Western New York,Child Family Survey,1,1,1,1,0,0,0,0
+FAM-01382,Mohawk Valley,Family/Guardian Survey,1,1,1,1,0,1,1,1
+FAM-01383,Western New York,Adult Family Survey,1,1,1,0,1,1,1,0
+FAM-01384,Central New York,Family/Guardian Survey,1,1,1,0,1,0,0,1
+FAM-01385,Southern Tier,Family/Guardian Survey,1,1,1,1,1,0,0,1
+FAM-01386,New York City,Family/Guardian Survey,0,1,1,1,1,1,1,1
+FAM-01387,Central New York,Adult Family Survey,1,0,1,0,1,0,1,1
+FAM-01388,Long Island,Child Family Survey,0,1,1,1,0,0,1,1
+FAM-01389,Capital Region,Child Family Survey,0,1,0,0,1,0,0,0
+FAM-01390,New York City,Family/Guardian Survey,0,1,1,1,1,1,1,1
+FAM-01391,New York City,Family/Guardian Survey,1,1,0,1,1,1,0,1
+FAM-01392,Capital Region,Child Family Survey,1,1,1,1,0,1,0,1
+FAM-01393,Hudson Valley,Adult Family Survey,1,1,1,1,0,1,1,1
+FAM-01394,Capital Region,Adult Family Survey,1,0,1,1,1,0,1,1
+FAM-01395,Southern Tier,Child Family Survey,1,0,1,1,1,1,0,1
+FAM-01396,Long Island,Family/Guardian Survey,1,1,0,1,1,1,1,0
+FAM-01397,North Country,Child Family Survey,1,1,0,0,1,1,1,0
+FAM-01398,Finger Lakes,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-01399,Finger Lakes,Child Family Survey,1,1,1,1,1,1,0,1
+FAM-01400,Western New York,Family/Guardian Survey,1,1,1,0,0,1,1,1
+FAM-01401,Western New York,Adult Family Survey,1,0,1,1,1,0,1,1
+FAM-01402,Western New York,Adult Family Survey,0,1,1,1,1,1,1,1
+FAM-01403,Western New York,Family/Guardian Survey,1,0,1,1,1,1,0,1
+FAM-01404,New York City,Child Family Survey,1,0,1,1,1,1,1,1
+FAM-01405,Hudson Valley,Child Family Survey,1,1,0,0,0,0,0,1
+FAM-01406,Central New York,Child Family Survey,1,1,1,0,1,0,1,0
+FAM-01407,Southern Tier,Family/Guardian Survey,0,1,0,1,1,0,0,0
+FAM-01408,Finger Lakes,Adult Family Survey,1,1,0,1,1,1,0,1
+FAM-01409,New York City,Adult Family Survey,1,1,1,1,0,1,1,1
+FAM-01410,Hudson Valley,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-01411,Long Island,Child Family Survey,1,1,1,1,1,0,0,1
+FAM-01412,Long Island,Adult Family Survey,0,1,1,0,1,1,0,1
+FAM-01413,Long Island,Child Family Survey,1,1,1,0,1,0,1,1
+FAM-01414,Mohawk Valley,Child Family Survey,0,1,1,1,1,1,0,1
+FAM-01415,Capital Region,Adult Family Survey,0,1,1,1,0,0,0,1
+FAM-01416,Capital Region,Family/Guardian Survey,1,0,1,0,1,1,0,1
+FAM-01417,Capital Region,Child Family Survey,1,0,0,0,1,0,1,1
+FAM-01418,Long Island,Adult Family Survey,1,1,0,0,1,1,0,1
+FAM-01419,Hudson Valley,Family/Guardian Survey,1,0,1,1,1,0,0,0
+FAM-01420,New York City,Adult Family Survey,1,1,1,0,1,1,1,1
+FAM-01421,New York City,Child Family Survey,1,0,1,0,1,1,1,0
+FAM-01422,Long Island,Family/Guardian Survey,1,0,0,1,1,1,0,1
+FAM-01423,Western New York,Adult Family Survey,0,1,1,1,1,0,0,1
+FAM-01424,Western New York,Child Family Survey,1,0,0,0,0,0,0,1
+FAM-01425,New York City,Family/Guardian Survey,1,1,1,1,1,0,0,1
+FAM-01426,New York City,Adult Family Survey,1,1,1,1,1,1,0,1
+FAM-01427,Finger Lakes,Family/Guardian Survey,0,1,1,0,1,1,1,1
+FAM-01428,New York City,Family/Guardian Survey,1,1,1,1,1,1,0,1
+FAM-01429,Central New York,Family/Guardian Survey,1,1,1,1,1,0,0,1
+FAM-01430,Western New York,Family/Guardian Survey,1,1,1,1,1,1,0,0
+FAM-01431,New York City,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-01432,Western New York,Child Family Survey,1,1,0,1,1,0,0,0
+FAM-01433,North Country,Adult Family Survey,1,1,1,1,1,0,1,1
+FAM-01434,Finger Lakes,Child Family Survey,1,1,1,0,0,1,1,1
+FAM-01435,New York City,Child Family Survey,1,0,0,1,1,1,0,1
+FAM-01436,North Country,Child Family Survey,1,0,0,0,0,0,1,1
+FAM-01437,New York City,Adult Family Survey,1,1,0,1,1,1,0,1
+FAM-01438,New York City,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-01439,New York City,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-01440,Western New York,Child Family Survey,1,1,1,1,1,1,0,1
+FAM-01441,Long Island,Family/Guardian Survey,1,1,1,1,0,0,1,1
+FAM-01442,North Country,Adult Family Survey,1,1,1,0,1,0,1,1
+FAM-01443,Central New York,Family/Guardian Survey,0,1,1,1,0,0,1,1
+FAM-01444,Western New York,Family/Guardian Survey,1,1,1,0,1,1,0,0
+FAM-01445,Long Island,Family/Guardian Survey,1,1,0,1,1,1,0,1
+FAM-01446,Mohawk Valley,Family/Guardian Survey,0,1,1,1,0,1,0,1
+FAM-01447,Southern Tier,Family/Guardian Survey,1,0,1,1,1,1,1,0
+FAM-01448,North Country,Child Family Survey,1,0,1,1,1,1,1,1
+FAM-01449,Long Island,Adult Family Survey,0,1,0,1,0,0,0,1
+FAM-01450,New York City,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-01451,Finger Lakes,Adult Family Survey,1,1,1,1,1,0,0,1
+FAM-01452,Central New York,Family/Guardian Survey,1,1,1,1,0,0,0,1
+FAM-01453,Southern Tier,Family/Guardian Survey,1,1,1,0,1,0,1,1
+FAM-01454,Mohawk Valley,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-01455,Finger Lakes,Child Family Survey,1,1,1,0,1,0,1,1
+FAM-01456,Finger Lakes,Child Family Survey,1,1,1,1,1,0,0,1
+FAM-01457,Central New York,Family/Guardian Survey,1,1,1,0,1,1,0,0
+FAM-01458,New York City,Child Family Survey,1,1,1,1,1,0,1,1
+FAM-01459,Long Island,Adult Family Survey,1,1,1,0,1,1,1,1
+FAM-01460,Long Island,Child Family Survey,1,0,0,1,0,0,1,1
+FAM-01461,Hudson Valley,Adult Family Survey,1,1,1,1,1,0,0,1
+FAM-01462,Western New York,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-01463,Capital Region,Family/Guardian Survey,0,0,1,0,1,0,1,1
+FAM-01464,Long Island,Child Family Survey,1,1,1,0,0,1,1,0
+FAM-01465,Southern Tier,Adult Family Survey,1,1,0,1,1,1,0,1
+FAM-01466,Finger Lakes,Child Family Survey,1,1,1,1,1,0,1,1
+FAM-01467,Western New York,Child Family Survey,1,0,1,0,1,1,0,1
+FAM-01468,Long Island,Adult Family Survey,0,1,1,1,1,1,0,1
+FAM-01469,New York City,Family/Guardian Survey,1,1,1,1,1,1,0,1
+FAM-01470,New York City,Family/Guardian Survey,0,1,1,1,1,0,1,1
+FAM-01471,Hudson Valley,Adult Family Survey,1,1,0,1,0,0,0,1
+FAM-01472,Central New York,Adult Family Survey,1,0,1,1,1,1,1,1
+FAM-01473,Hudson Valley,Child Family Survey,1,1,0,0,0,0,1,1
+FAM-01474,Hudson Valley,Adult Family Survey,1,1,1,1,1,1,0,1
+FAM-01475,Capital Region,Adult Family Survey,0,0,1,1,0,1,1,1
+FAM-01476,Western New York,Adult Family Survey,1,1,1,1,1,0,0,0
+FAM-01477,New York City,Family/Guardian Survey,1,0,0,1,1,0,1,1
+FAM-01478,Hudson Valley,Adult Family Survey,0,1,1,0,1,0,0,1
+FAM-01479,New York City,Family/Guardian Survey,1,1,1,1,1,0,1,1
+FAM-01480,Central New York,Family/Guardian Survey,0,1,1,0,1,0,1,1
+FAM-01481,North Country,Child Family Survey,1,1,1,1,0,1,1,0
+FAM-01482,Finger Lakes,Family/Guardian Survey,1,1,1,1,0,1,1,1
+FAM-01483,Long Island,Child Family Survey,1,1,1,0,0,1,0,1
+FAM-01484,Long Island,Family/Guardian Survey,1,0,1,1,1,1,1,1
+FAM-01485,Long Island,Child Family Survey,0,1,1,0,1,1,1,1
+FAM-01486,Finger Lakes,Adult Family Survey,1,1,1,1,0,1,0,1
+FAM-01487,Hudson Valley,Adult Family Survey,1,0,0,1,1,0,1,1
+FAM-01488,Mohawk Valley,Child Family Survey,0,1,1,1,1,1,1,1
+FAM-01489,Long Island,Adult Family Survey,1,1,1,1,0,0,1,0
+FAM-01490,Southern Tier,Child Family Survey,1,0,1,1,1,0,1,1
+FAM-01491,Capital Region,Family/Guardian Survey,1,1,0,0,1,1,1,0
+FAM-01492,New York City,Adult Family Survey,1,0,1,1,1,1,1,1
+FAM-01493,Southern Tier,Adult Family Survey,0,1,1,1,1,0,1,1
+FAM-01494,New York City,Child Family Survey,1,1,1,1,1,1,0,0
+FAM-01495,Long Island,Adult Family Survey,1,1,1,1,1,0,0,1
+FAM-01496,Hudson Valley,Adult Family Survey,1,0,1,1,1,0,1,0
+FAM-01497,Hudson Valley,Family/Guardian Survey,0,1,1,1,1,0,1,1
+FAM-01498,Long Island,Family/Guardian Survey,1,1,1,1,1,0,0,0
+FAM-01499,North Country,Family/Guardian Survey,1,1,1,1,1,1,1,0
+FAM-01500,New York City,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-01501,Southern Tier,Child Family Survey,0,1,1,1,1,0,1,1
+FAM-01502,Capital Region,Adult Family Survey,0,0,1,1,1,0,1,0
+FAM-01503,New York City,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-01504,New York City,Family/Guardian Survey,1,1,1,0,0,0,0,1
+FAM-01505,New York City,Child Family Survey,1,1,1,1,1,1,1,0
+FAM-01506,New York City,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-01507,North Country,Adult Family Survey,1,1,1,0,0,0,1,1
+FAM-01508,Hudson Valley,Adult Family Survey,1,0,1,1,0,1,1,1
+FAM-01509,Mohawk Valley,Adult Family Survey,1,1,1,1,1,1,1,0
+FAM-01510,Southern Tier,Family/Guardian Survey,0,1,1,1,1,0,1,1
+FAM-01511,Finger Lakes,Family/Guardian Survey,1,1,1,0,1,1,1,1
+FAM-01512,Central New York,Family/Guardian Survey,1,1,1,1,0,1,0,1
+FAM-01513,Western New York,Adult Family Survey,1,0,1,1,1,0,1,1
+FAM-01514,Capital Region,Family/Guardian Survey,0,1,1,1,0,0,1,1
+FAM-01515,Hudson Valley,Family/Guardian Survey,1,1,1,1,0,0,0,1
+FAM-01516,New York City,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-01517,Western New York,Child Family Survey,0,1,1,1,1,1,1,1
+FAM-01518,Western New York,Adult Family Survey,0,0,1,1,1,0,1,0
+FAM-01519,Mohawk Valley,Child Family Survey,1,0,1,1,1,0,1,1
+FAM-01520,Hudson Valley,Child Family Survey,1,1,0,1,1,0,0,1
+FAM-01521,Finger Lakes,Family/Guardian Survey,1,1,1,1,1,0,1,1
+FAM-01522,Southern Tier,Family/Guardian Survey,1,0,0,1,1,1,0,1
+FAM-01523,Central New York,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-01524,New York City,Family/Guardian Survey,1,1,1,1,1,0,1,1
+FAM-01525,Long Island,Family/Guardian Survey,1,1,1,0,1,0,1,1
+FAM-01526,Long Island,Adult Family Survey,1,1,1,1,1,1,0,0
+FAM-01527,New York City,Family/Guardian Survey,1,1,1,1,1,0,1,1
+FAM-01528,Mohawk Valley,Adult Family Survey,1,1,1,0,1,0,1,1
+FAM-01529,New York City,Family/Guardian Survey,1,1,1,1,1,0,1,1
+FAM-01530,Southern Tier,Child Family Survey,1,0,1,1,1,0,1,0
+FAM-01531,North Country,Adult Family Survey,1,0,1,1,1,1,1,0
+FAM-01532,New York City,Adult Family Survey,1,1,1,1,1,0,1,1
+FAM-01533,New York City,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-01534,Finger Lakes,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-01535,Western New York,Family/Guardian Survey,1,0,1,1,0,1,0,1
+FAM-01536,North Country,Adult Family Survey,1,0,1,0,1,1,0,1
+FAM-01537,Long Island,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-01538,Central New York,Family/Guardian Survey,0,1,1,1,1,1,1,1
+FAM-01539,Hudson Valley,Adult Family Survey,1,1,1,0,1,1,1,0
+FAM-01540,Capital Region,Child Family Survey,1,1,0,0,1,1,1,1
+FAM-01541,Long Island,Adult Family Survey,1,1,1,0,1,0,1,1
+FAM-01542,Southern Tier,Family/Guardian Survey,0,1,1,0,1,1,1,0
+FAM-01543,Capital Region,Child Family Survey,1,1,0,0,0,1,1,0
+FAM-01544,New York City,Family/Guardian Survey,1,1,1,1,1,0,0,1
+FAM-01545,Hudson Valley,Adult Family Survey,1,1,1,1,1,1,0,1
+FAM-01546,Long Island,Adult Family Survey,1,1,1,0,1,1,0,1
+FAM-01547,New York City,Adult Family Survey,1,1,1,1,1,0,1,1
+FAM-01548,Long Island,Adult Family Survey,1,0,0,1,1,0,0,1
+FAM-01549,Southern Tier,Child Family Survey,1,0,1,1,1,1,0,0
+FAM-01550,Long Island,Family/Guardian Survey,0,0,1,1,0,0,0,1
+FAM-01551,New York City,Family/Guardian Survey,0,1,1,1,1,1,0,1
+FAM-01552,New York City,Child Family Survey,1,0,1,1,1,1,0,1
+FAM-01553,New York City,Child Family Survey,1,1,0,0,1,1,1,1
+FAM-01554,Finger Lakes,Family/Guardian Survey,1,1,1,0,1,1,1,1
+FAM-01555,Hudson Valley,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-01556,Central New York,Adult Family Survey,1,1,1,0,1,1,1,0
+FAM-01557,Hudson Valley,Child Family Survey,1,1,1,1,1,1,0,1
+FAM-01558,Hudson Valley,Family/Guardian Survey,0,1,0,1,0,0,0,1
+FAM-01559,New York City,Family/Guardian Survey,1,1,1,1,1,1,1,0
+FAM-01560,Long Island,Adult Family Survey,1,1,0,1,0,1,0,1
+FAM-01561,New York City,Family/Guardian Survey,1,1,1,1,1,1,0,1
+FAM-01562,Long Island,Adult Family Survey,1,1,0,1,0,0,0,1
+FAM-01563,New York City,Adult Family Survey,1,0,0,1,1,0,0,1
+FAM-01564,Capital Region,Family/Guardian Survey,1,0,1,0,1,0,1,1
+FAM-01565,Hudson Valley,Family/Guardian Survey,1,1,1,1,1,1,0,1
+FAM-01566,Hudson Valley,Child Family Survey,0,1,1,1,1,1,0,1
+FAM-01567,Hudson Valley,Family/Guardian Survey,1,0,1,0,0,0,1,1
+FAM-01568,Capital Region,Child Family Survey,0,0,1,1,0,1,0,0
+FAM-01569,Hudson Valley,Child Family Survey,0,1,1,0,1,0,1,1
+FAM-01570,Capital Region,Family/Guardian Survey,1,1,1,0,0,0,0,1
+FAM-01571,Hudson Valley,Family/Guardian Survey,1,1,1,1,0,1,1,1
+FAM-01572,Long Island,Family/Guardian Survey,1,0,1,0,1,0,0,1
+FAM-01573,Southern Tier,Child Family Survey,1,1,0,1,1,0,1,1
+FAM-01574,Central New York,Family/Guardian Survey,0,1,1,1,0,1,0,0
+FAM-01575,Central New York,Adult Family Survey,1,1,0,1,1,1,1,1
+FAM-01576,New York City,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-01577,Western New York,Adult Family Survey,0,0,1,1,1,0,1,1
+FAM-01578,Long Island,Child Family Survey,1,1,1,1,0,0,0,1
+FAM-01579,New York City,Family/Guardian Survey,0,1,1,1,1,1,1,1
+FAM-01580,Hudson Valley,Adult Family Survey,1,1,1,0,1,0,0,1
+FAM-01581,Hudson Valley,Family/Guardian Survey,1,1,1,1,1,1,0,1
+FAM-01582,New York City,Family/Guardian Survey,1,1,1,0,1,1,1,1
+FAM-01583,Southern Tier,Adult Family Survey,1,1,1,1,1,1,0,1
+FAM-01584,Long Island,Family/Guardian Survey,1,1,0,0,0,0,1,1
+FAM-01585,New York City,Adult Family Survey,1,1,1,0,1,0,1,1
+FAM-01586,New York City,Family/Guardian Survey,1,1,1,0,1,1,1,1
+FAM-01587,New York City,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-01588,Long Island,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-01589,Southern Tier,Adult Family Survey,1,1,0,0,1,1,1,1
+FAM-01590,Western New York,Family/Guardian Survey,0,0,1,0,0,1,0,1
+FAM-01591,New York City,Adult Family Survey,1,1,1,1,0,1,1,1
+FAM-01592,Hudson Valley,Adult Family Survey,1,0,1,1,0,1,0,1
+FAM-01593,Long Island,Child Family Survey,1,1,1,0,0,0,0,1
+FAM-01594,Hudson Valley,Child Family Survey,1,0,1,1,1,1,0,1
+FAM-01595,Hudson Valley,Family/Guardian Survey,1,0,1,1,1,0,1,0
+FAM-01596,New York City,Family/Guardian Survey,1,0,1,1,1,1,1,1
+FAM-01597,Long Island,Child Family Survey,1,0,1,1,0,1,0,1
+FAM-01598,New York City,Adult Family Survey,1,1,0,1,0,1,1,0
+FAM-01599,Capital Region,Family/Guardian Survey,0,1,1,0,1,1,0,0
+FAM-01600,Southern Tier,Adult Family Survey,0,1,1,1,0,1,1,1
+FAM-01601,Mohawk Valley,Adult Family Survey,1,1,0,1,1,1,1,0
+FAM-01602,New York City,Child Family Survey,1,1,1,1,1,1,0,1
+FAM-01603,Hudson Valley,Adult Family Survey,0,1,1,0,1,1,1,1
+FAM-01604,New York City,Child Family Survey,0,1,1,0,1,1,1,0
+FAM-01605,Hudson Valley,Family/Guardian Survey,1,1,0,0,1,0,1,1
+FAM-01606,New York City,Adult Family Survey,1,1,1,1,0,1,1,0
+FAM-01607,Finger Lakes,Family/Guardian Survey,1,1,1,1,1,0,1,1
+FAM-01608,New York City,Family/Guardian Survey,0,1,1,1,1,0,1,1
+FAM-01609,Southern Tier,Family/Guardian Survey,1,1,1,0,1,0,1,1
+FAM-01610,Western New York,Adult Family Survey,1,1,0,1,0,0,0,0
+FAM-01611,New York City,Child Family Survey,1,1,1,1,1,1,1,0
+FAM-01612,Finger Lakes,Family/Guardian Survey,0,1,1,1,1,0,1,1
+FAM-01613,Central New York,Child Family Survey,0,1,1,0,1,1,1,1
+FAM-01614,Hudson Valley,Child Family Survey,0,1,1,0,1,0,1,1
+FAM-01615,Capital Region,Child Family Survey,0,1,1,0,1,0,1,0
+FAM-01616,Hudson Valley,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-01617,New York City,Family/Guardian Survey,1,1,1,0,0,1,0,1
+FAM-01618,Western New York,Adult Family Survey,1,1,1,0,0,1,1,1
+FAM-01619,Southern Tier,Family/Guardian Survey,1,0,1,1,1,1,0,1
+FAM-01620,Capital Region,Adult Family Survey,1,1,1,0,1,0,1,1
+FAM-01621,Mohawk Valley,Adult Family Survey,0,1,1,0,1,0,0,1
+FAM-01622,Capital Region,Child Family Survey,1,0,1,0,0,1,0,1
+FAM-01623,New York City,Adult Family Survey,1,0,1,1,1,1,1,1
+FAM-01624,Capital Region,Child Family Survey,1,1,1,0,1,1,1,1
+FAM-01625,Finger Lakes,Family/Guardian Survey,1,1,1,1,1,0,1,1
+FAM-01626,Finger Lakes,Family/Guardian Survey,1,1,1,1,1,0,1,1
+FAM-01627,Hudson Valley,Family/Guardian Survey,1,0,1,1,1,0,1,0
+FAM-01628,New York City,Adult Family Survey,1,1,1,1,0,1,1,0
+FAM-01629,North Country,Family/Guardian Survey,1,1,1,1,1,0,1,1
+FAM-01630,Western New York,Family/Guardian Survey,0,0,0,0,1,1,0,1
+FAM-01631,Western New York,Child Family Survey,1,1,0,1,0,0,0,0
+FAM-01632,Southern Tier,Adult Family Survey,1,1,0,1,1,1,0,1
+FAM-01633,Hudson Valley,Child Family Survey,1,1,0,1,0,1,1,1
+FAM-01634,Southern Tier,Family/Guardian Survey,1,1,0,1,1,0,1,1
+FAM-01635,New York City,Child Family Survey,1,0,1,1,1,1,1,1
+FAM-01636,Long Island,Child Family Survey,1,1,1,1,1,0,0,1
+FAM-01637,New York City,Child Family Survey,1,1,1,1,1,1,1,0
+FAM-01638,Long Island,Family/Guardian Survey,1,1,1,1,1,0,1,1
+FAM-01639,New York City,Family/Guardian Survey,1,0,1,1,1,0,0,1
+FAM-01640,New York City,Family/Guardian Survey,1,1,1,0,1,1,1,1
+FAM-01641,Central New York,Family/Guardian Survey,1,1,1,0,0,0,0,1
+FAM-01642,Finger Lakes,Adult Family Survey,1,1,1,0,1,1,0,1
+FAM-01643,Hudson Valley,Family/Guardian Survey,0,1,1,0,0,0,1,1
+FAM-01644,Long Island,Family/Guardian Survey,1,1,1,1,1,1,1,0
+FAM-01645,Western New York,Family/Guardian Survey,1,0,1,1,1,1,0,0
+FAM-01646,Hudson Valley,Adult Family Survey,1,1,1,1,1,0,1,1
+FAM-01647,Long Island,Adult Family Survey,1,1,0,1,1,0,1,0
+FAM-01648,Southern Tier,Child Family Survey,1,0,0,1,1,1,1,0
+FAM-01649,Hudson Valley,Child Family Survey,1,1,1,0,1,1,1,1
+FAM-01650,Western New York,Adult Family Survey,1,1,0,1,1,1,0,1
+FAM-01651,Central New York,Family/Guardian Survey,1,0,1,0,1,0,0,0
+FAM-01652,Finger Lakes,Child Family Survey,1,1,1,1,1,0,1,0
+FAM-01653,New York City,Family/Guardian Survey,0,1,1,1,1,1,1,1
+FAM-01654,Finger Lakes,Family/Guardian Survey,1,1,1,1,0,0,0,1
+FAM-01655,Capital Region,Adult Family Survey,0,1,1,1,1,0,0,1
+FAM-01656,Long Island,Family/Guardian Survey,1,1,1,1,1,0,0,1
+FAM-01657,New York City,Family/Guardian Survey,1,1,1,0,1,1,1,1
+FAM-01658,Western New York,Child Family Survey,1,0,1,0,1,1,1,0
+FAM-01659,Hudson Valley,Child Family Survey,1,1,0,0,1,1,1,1
+FAM-01660,Long Island,Adult Family Survey,1,1,1,1,1,0,0,1
+FAM-01661,Central New York,Child Family Survey,1,1,1,0,0,1,0,1
+FAM-01662,Hudson Valley,Family/Guardian Survey,1,1,0,1,1,0,0,1
+FAM-01663,New York City,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-01664,Hudson Valley,Family/Guardian Survey,0,1,1,1,1,0,1,1
+FAM-01665,New York City,Family/Guardian Survey,1,1,1,0,1,1,1,1
+FAM-01666,New York City,Child Family Survey,1,1,1,1,1,1,1,0
+FAM-01667,Long Island,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-01668,New York City,Child Family Survey,0,1,1,1,1,1,0,1
+FAM-01669,Central New York,Adult Family Survey,1,1,1,1,1,0,0,1
+FAM-01670,Central New York,Adult Family Survey,0,1,0,0,1,0,0,1
+FAM-01671,Long Island,Adult Family Survey,1,1,0,1,0,1,1,0
+FAM-01672,Long Island,Child Family Survey,0,1,0,0,1,1,1,0
+FAM-01673,New York City,Family/Guardian Survey,1,1,1,1,1,1,0,1
+FAM-01674,Mohawk Valley,Child Family Survey,1,1,1,0,1,0,0,1
+FAM-01675,Central New York,Child Family Survey,1,1,1,1,1,0,0,0
+FAM-01676,New York City,Family/Guardian Survey,1,1,1,0,0,0,1,1
+FAM-01677,Hudson Valley,Adult Family Survey,1,0,1,1,1,0,1,1
+FAM-01678,Hudson Valley,Adult Family Survey,0,1,0,1,0,1,0,1
+FAM-01679,Capital Region,Child Family Survey,0,0,1,0,1,0,0,1
+FAM-01680,Finger Lakes,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-01681,New York City,Family/Guardian Survey,1,1,1,1,1,1,0,0
+FAM-01682,Capital Region,Family/Guardian Survey,1,1,0,0,1,0,0,0
+FAM-01683,Western New York,Adult Family Survey,1,1,1,0,0,1,1,0
+FAM-01684,Long Island,Family/Guardian Survey,1,1,1,0,1,1,1,1
+FAM-01685,Finger Lakes,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-01686,New York City,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-01687,Capital Region,Adult Family Survey,1,1,1,1,1,1,0,0
+FAM-01688,Western New York,Adult Family Survey,1,1,1,0,1,0,0,1
+FAM-01689,Capital Region,Child Family Survey,1,0,1,0,1,0,1,1
+FAM-01690,New York City,Adult Family Survey,0,1,1,1,1,1,1,1
+FAM-01691,Capital Region,Child Family Survey,1,1,1,0,1,0,0,1
+FAM-01692,Southern Tier,Child Family Survey,1,1,1,1,0,1,0,1
+FAM-01693,Capital Region,Adult Family Survey,1,1,1,1,1,0,0,0
+FAM-01694,New York City,Child Family Survey,1,0,1,1,0,0,1,1
+FAM-01695,New York City,Family/Guardian Survey,1,1,0,0,0,1,0,1
+FAM-01696,Long Island,Child Family Survey,1,1,1,1,0,1,1,1
+FAM-01697,Southern Tier,Family/Guardian Survey,1,1,1,1,1,1,0,0
+FAM-01698,New York City,Adult Family Survey,1,1,0,1,0,1,1,1
+FAM-01699,Hudson Valley,Child Family Survey,1,1,0,1,1,1,1,1
+FAM-01700,Central New York,Child Family Survey,1,1,1,0,0,0,1,0
+FAM-01701,Western New York,Adult Family Survey,1,1,1,0,0,1,1,1
+FAM-01702,Central New York,Family/Guardian Survey,0,1,0,1,0,0,0,1
+FAM-01703,New York City,Adult Family Survey,1,1,1,0,1,1,1,0
+FAM-01704,Capital Region,Family/Guardian Survey,0,1,1,1,0,0,1,1
+FAM-01705,Hudson Valley,Child Family Survey,1,0,1,1,1,1,1,1
+FAM-01706,Finger Lakes,Adult Family Survey,1,1,1,1,0,1,1,1
+FAM-01707,Long Island,Child Family Survey,1,1,0,1,1,0,1,0
+FAM-01708,Central New York,Child Family Survey,0,0,1,1,0,1,1,1
+FAM-01709,New York City,Adult Family Survey,1,0,1,1,1,1,1,1
+FAM-01710,Finger Lakes,Child Family Survey,1,0,1,1,1,1,0,1
+FAM-01711,New York City,Adult Family Survey,1,1,1,1,0,1,0,0
+FAM-01712,Long Island,Adult Family Survey,0,1,1,1,0,0,0,1
+FAM-01713,New York City,Adult Family Survey,1,1,1,0,1,0,0,1
+FAM-01714,New York City,Adult Family Survey,1,1,1,1,1,0,1,1
+FAM-01715,Long Island,Family/Guardian Survey,1,1,0,0,1,0,1,1
+FAM-01716,North Country,Adult Family Survey,1,0,1,1,1,1,1,0
+FAM-01717,New York City,Child Family Survey,1,1,1,0,1,1,0,1
+FAM-01718,Finger Lakes,Child Family Survey,1,1,1,0,1,1,1,0
+FAM-01719,Long Island,Child Family Survey,1,1,1,1,0,1,0,1
+FAM-01720,Long Island,Adult Family Survey,1,1,1,1,1,0,0,0
+FAM-01721,Central New York,Adult Family Survey,1,1,1,1,0,0,0,1
+FAM-01722,New York City,Child Family Survey,1,1,1,1,1,1,1,0
+FAM-01723,New York City,Family/Guardian Survey,1,1,1,1,0,0,1,1
+FAM-01724,New York City,Adult Family Survey,1,1,1,1,0,0,1,1
+FAM-01725,Southern Tier,Child Family Survey,1,1,1,1,1,0,1,1
+FAM-01726,Hudson Valley,Adult Family Survey,1,1,1,1,1,0,1,1
+FAM-01727,Long Island,Adult Family Survey,0,1,1,1,1,0,1,1
+FAM-01728,New York City,Family/Guardian Survey,1,1,0,1,1,1,0,1
+FAM-01729,Central New York,Child Family Survey,1,1,1,1,1,0,0,1
+FAM-01730,New York City,Adult Family Survey,1,1,1,1,0,1,1,1
+FAM-01731,New York City,Family/Guardian Survey,1,1,1,1,1,0,1,1
+FAM-01732,North Country,Family/Guardian Survey,1,0,1,0,0,0,0,1
+FAM-01733,Central New York,Family/Guardian Survey,1,1,1,1,1,1,0,1
+FAM-01734,Southern Tier,Child Family Survey,1,1,1,0,1,1,1,1
+FAM-01735,Hudson Valley,Child Family Survey,1,1,1,1,1,0,1,0
+FAM-01736,Finger Lakes,Adult Family Survey,1,0,1,1,1,1,0,1
+FAM-01737,Hudson Valley,Family/Guardian Survey,1,1,1,0,0,0,0,1
+FAM-01738,Western New York,Child Family Survey,1,1,1,1,1,0,1,1
+FAM-01739,New York City,Family/Guardian Survey,0,1,1,1,1,1,1,1
+FAM-01740,Western New York,Family/Guardian Survey,1,1,1,1,1,0,1,0
+FAM-01741,Long Island,Adult Family Survey,1,1,0,0,1,0,0,1
+FAM-01742,Long Island,Child Family Survey,0,1,1,1,1,1,1,1
+FAM-01743,Long Island,Family/Guardian Survey,1,1,1,1,0,0,1,1
+FAM-01744,Finger Lakes,Child Family Survey,1,1,0,0,1,0,1,1
+FAM-01745,Hudson Valley,Child Family Survey,1,1,1,1,1,0,0,1
+FAM-01746,Capital Region,Adult Family Survey,1,1,1,0,0,0,1,0
+FAM-01747,Capital Region,Adult Family Survey,0,1,0,0,0,1,1,1
+FAM-01748,Finger Lakes,Child Family Survey,1,1,1,0,1,1,0,0
+FAM-01749,Long Island,Adult Family Survey,1,1,1,1,1,0,1,1
+FAM-01750,Long Island,Adult Family Survey,1,1,1,0,1,1,1,0
+FAM-01751,Long Island,Child Family Survey,1,1,1,1,0,1,0,1
+FAM-01752,Western New York,Child Family Survey,1,0,1,1,0,1,1,0
+FAM-01753,Long Island,Family/Guardian Survey,1,1,1,0,0,0,0,1
+FAM-01754,New York City,Family/Guardian Survey,1,1,1,0,1,0,1,1
+FAM-01755,Long Island,Family/Guardian Survey,1,1,1,0,1,0,1,1
+FAM-01756,Hudson Valley,Adult Family Survey,0,1,1,1,1,0,1,1
+FAM-01757,Long Island,Family/Guardian Survey,0,1,1,0,0,0,1,1
+FAM-01758,Capital Region,Adult Family Survey,0,1,1,0,1,0,0,1
+FAM-01759,New York City,Adult Family Survey,1,1,1,1,1,1,0,1
+FAM-01760,New York City,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-01761,Central New York,Child Family Survey,0,1,1,0,1,0,1,1
+FAM-01762,Hudson Valley,Family/Guardian Survey,1,1,1,0,1,0,1,0
+FAM-01763,New York City,Child Family Survey,1,1,1,1,0,1,0,1
+FAM-01764,Mohawk Valley,Adult Family Survey,1,1,1,1,1,1,0,1
+FAM-01765,Hudson Valley,Child Family Survey,1,1,1,1,1,1,0,0
+FAM-01766,Central New York,Child Family Survey,1,0,1,0,1,0,0,1
+FAM-01767,Central New York,Adult Family Survey,1,0,1,0,1,0,1,1
+FAM-01768,Long Island,Child Family Survey,0,1,1,1,1,1,1,0
+FAM-01769,Southern Tier,Child Family Survey,0,1,1,1,1,0,0,1
+FAM-01770,New York City,Family/Guardian Survey,1,1,1,1,1,0,1,1
+FAM-01771,Long Island,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-01772,Capital Region,Child Family Survey,0,0,1,1,0,0,0,0
+FAM-01773,New York City,Adult Family Survey,1,0,1,0,1,0,0,1
+FAM-01774,Western New York,Family/Guardian Survey,1,1,1,1,0,1,1,1
+FAM-01775,Hudson Valley,Family/Guardian Survey,0,1,1,1,1,0,1,1
+FAM-01776,Finger Lakes,Child Family Survey,0,1,1,1,1,0,0,1
+FAM-01777,Finger Lakes,Adult Family Survey,1,1,1,1,1,1,0,1
+FAM-01778,Hudson Valley,Adult Family Survey,1,1,1,1,0,0,1,1
+FAM-01779,Hudson Valley,Child Family Survey,1,1,0,0,1,1,1,1
+FAM-01780,New York City,Child Family Survey,1,1,1,0,1,0,1,0
+FAM-01781,Southern Tier,Child Family Survey,0,1,1,1,0,0,1,1
+FAM-01782,Long Island,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-01783,Hudson Valley,Adult Family Survey,1,0,1,1,1,1,0,1
+FAM-01784,New York City,Adult Family Survey,1,1,1,0,1,0,0,1
+FAM-01785,New York City,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-01786,Central New York,Adult Family Survey,0,1,0,1,1,0,0,1
+FAM-01787,Hudson Valley,Family/Guardian Survey,1,1,1,1,1,0,1,0
+FAM-01788,Long Island,Adult Family Survey,1,1,1,1,1,1,1,0
+FAM-01789,Western New York,Adult Family Survey,1,1,0,0,1,1,0,0
+FAM-01790,Western New York,Family/Guardian Survey,0,0,1,0,0,0,1,1
+FAM-01791,Hudson Valley,Adult Family Survey,1,1,1,1,1,1,0,1
+FAM-01792,Mohawk Valley,Family/Guardian Survey,1,1,1,0,1,1,0,1
+FAM-01793,North Country,Child Family Survey,1,0,1,1,1,1,0,1
+FAM-01794,Southern Tier,Child Family Survey,1,1,1,1,1,0,1,0
+FAM-01795,Finger Lakes,Family/Guardian Survey,1,0,1,0,0,0,0,1
+FAM-01796,New York City,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-01797,Capital Region,Adult Family Survey,1,0,1,0,1,1,1,1
+FAM-01798,Long Island,Adult Family Survey,1,1,1,1,1,0,1,1
+FAM-01799,New York City,Family/Guardian Survey,1,1,1,1,1,1,0,0
+FAM-01800,Mohawk Valley,Family/Guardian Survey,1,1,1,1,0,1,1,0
+FAM-01801,New York City,Family/Guardian Survey,0,1,1,1,1,0,1,0
+FAM-01802,Capital Region,Family/Guardian Survey,1,1,1,0,0,1,1,1
+FAM-01803,Hudson Valley,Child Family Survey,0,0,1,1,1,1,1,1
+FAM-01804,New York City,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-01805,New York City,Adult Family Survey,1,0,1,0,1,1,0,1
+FAM-01806,Hudson Valley,Adult Family Survey,1,1,1,1,1,0,0,0
+FAM-01807,Capital Region,Adult Family Survey,1,0,1,1,0,0,0,1
+FAM-01808,Long Island,Child Family Survey,0,1,0,1,1,1,1,0
+FAM-01809,Central New York,Child Family Survey,0,0,0,1,1,0,1,0
+FAM-01810,Long Island,Child Family Survey,1,1,1,1,1,0,1,1
+FAM-01811,Finger Lakes,Adult Family Survey,1,1,1,0,0,0,0,1
+FAM-01812,Capital Region,Child Family Survey,1,1,1,0,0,1,1,0
+FAM-01813,Hudson Valley,Family/Guardian Survey,1,1,0,1,0,1,0,0
+FAM-01814,New York City,Family/Guardian Survey,1,0,1,1,1,0,1,1
+FAM-01815,New York City,Child Family Survey,1,1,1,0,1,1,1,1
+FAM-01816,Central New York,Adult Family Survey,0,1,1,1,1,1,1,0
+FAM-01817,Western New York,Adult Family Survey,1,1,0,1,1,1,1,1
+FAM-01818,Central New York,Family/Guardian Survey,1,0,1,0,1,0,0,1
+FAM-01819,Hudson Valley,Child Family Survey,0,1,1,1,0,1,0,0
+FAM-01820,Finger Lakes,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-01821,New York City,Adult Family Survey,1,1,1,1,1,0,1,1
+FAM-01822,Hudson Valley,Adult Family Survey,1,1,1,0,1,1,1,1
+FAM-01823,Mohawk Valley,Family/Guardian Survey,1,1,1,1,0,0,0,1
+FAM-01824,New York City,Child Family Survey,1,0,0,1,0,1,1,0
+FAM-01825,Central New York,Family/Guardian Survey,1,1,1,1,1,0,1,0
+FAM-01826,Long Island,Adult Family Survey,1,1,1,1,1,1,1,0
+FAM-01827,Western New York,Adult Family Survey,1,1,1,0,0,1,1,1
+FAM-01828,Western New York,Child Family Survey,1,0,1,0,1,1,0,1
+FAM-01829,Hudson Valley,Adult Family Survey,1,0,1,1,1,1,0,1
+FAM-01830,Finger Lakes,Adult Family Survey,0,1,1,1,1,1,0,0
+FAM-01831,Long Island,Family/Guardian Survey,1,1,0,0,0,1,1,1
+FAM-01832,Mohawk Valley,Child Family Survey,1,1,1,1,0,0,0,1
+FAM-01833,Hudson Valley,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-01834,Southern Tier,Family/Guardian Survey,1,1,1,1,0,0,1,1
+FAM-01835,Hudson Valley,Child Family Survey,1,1,1,1,1,0,0,1
+FAM-01836,Finger Lakes,Adult Family Survey,1,1,1,0,1,0,1,1
+FAM-01837,Long Island,Family/Guardian Survey,1,1,1,1,0,1,1,1
+FAM-01838,New York City,Child Family Survey,1,1,1,0,1,0,0,1
+FAM-01839,Western New York,Child Family Survey,1,1,1,1,1,1,0,1
+FAM-01840,Hudson Valley,Family/Guardian Survey,1,0,1,1,1,1,1,0
+FAM-01841,Long Island,Adult Family Survey,1,1,1,0,1,0,0,1
+FAM-01842,Western New York,Child Family Survey,1,1,1,1,1,0,0,1
+FAM-01843,Long Island,Child Family Survey,0,1,0,1,1,0,1,1
+FAM-01844,Long Island,Adult Family Survey,0,1,1,1,0,1,0,1
+FAM-01845,New York City,Child Family Survey,1,1,1,0,1,1,1,1
+FAM-01846,Long Island,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-01847,Capital Region,Adult Family Survey,1,1,1,0,1,0,1,1
+FAM-01848,Mohawk Valley,Child Family Survey,1,1,1,1,1,0,1,1
+FAM-01849,Hudson Valley,Adult Family Survey,1,1,0,0,1,0,0,1
+FAM-01850,New York City,Family/Guardian Survey,1,1,1,1,0,1,0,1
+FAM-01851,Central New York,Family/Guardian Survey,1,0,1,1,1,0,1,0
+FAM-01852,Western New York,Adult Family Survey,0,1,1,0,1,1,0,0
+FAM-01853,Long Island,Child Family Survey,1,0,0,1,0,0,0,1
+FAM-01854,Western New York,Adult Family Survey,0,1,1,0,1,0,0,1
+FAM-01855,New York City,Family/Guardian Survey,1,0,1,1,1,1,0,1
+FAM-01856,New York City,Family/Guardian Survey,1,1,1,1,1,0,1,1
+FAM-01857,Southern Tier,Adult Family Survey,0,0,1,0,1,0,1,1
+FAM-01858,Hudson Valley,Child Family Survey,0,1,1,0,1,1,1,1
+FAM-01859,Southern Tier,Child Family Survey,1,1,1,1,1,0,1,1
+FAM-01860,Southern Tier,Adult Family Survey,1,1,1,1,1,0,0,0
+FAM-01861,New York City,Child Family Survey,1,1,1,1,0,1,1,0
+FAM-01862,New York City,Adult Family Survey,1,1,1,1,0,1,1,1
+FAM-01863,Mohawk Valley,Family/Guardian Survey,1,1,1,1,1,0,0,0
+FAM-01864,Western New York,Adult Family Survey,1,1,1,0,0,1,0,0
+FAM-01865,Long Island,Child Family Survey,1,1,1,0,1,0,1,1
+FAM-01866,Mohawk Valley,Child Family Survey,0,1,1,1,1,0,1,0
+FAM-01867,Capital Region,Adult Family Survey,1,1,1,0,0,0,0,0
+FAM-01868,New York City,Family/Guardian Survey,1,1,1,0,1,1,1,1
+FAM-01869,New York City,Child Family Survey,1,1,1,1,1,1,1,0
+FAM-01870,Long Island,Adult Family Survey,0,0,1,1,1,0,1,0
+FAM-01871,Western New York,Adult Family Survey,1,0,0,1,1,1,0,0
+FAM-01872,Long Island,Adult Family Survey,1,1,1,0,1,1,1,0
+FAM-01873,New York City,Adult Family Survey,1,1,0,1,1,1,0,1
+FAM-01874,Long Island,Family/Guardian Survey,1,1,1,1,1,0,1,1
+FAM-01875,New York City,Adult Family Survey,0,1,0,1,1,1,0,1
+FAM-01876,Western New York,Family/Guardian Survey,1,1,0,0,1,1,0,1
+FAM-01877,New York City,Child Family Survey,1,0,1,0,1,0,1,1
+FAM-01878,Long Island,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-01879,Capital Region,Adult Family Survey,0,0,1,1,1,0,1,0
+FAM-01880,Capital Region,Family/Guardian Survey,1,1,0,1,1,0,0,0
+FAM-01881,Hudson Valley,Family/Guardian Survey,0,0,1,1,1,1,1,1
+FAM-01882,Hudson Valley,Family/Guardian Survey,1,1,1,0,1,0,0,1
+FAM-01883,Long Island,Adult Family Survey,1,0,1,1,1,0,1,0
+FAM-01884,North Country,Adult Family Survey,0,0,1,0,1,1,1,1
+FAM-01885,Hudson Valley,Child Family Survey,1,1,1,1,1,0,0,1
+FAM-01886,Central New York,Adult Family Survey,0,1,1,1,1,1,1,1
+FAM-01887,New York City,Child Family Survey,1,1,1,1,1,0,1,1
+FAM-01888,Southern Tier,Adult Family Survey,0,1,1,1,0,1,1,1
+FAM-01889,Finger Lakes,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-01890,North Country,Adult Family Survey,1,1,1,0,1,0,0,0
+FAM-01891,Finger Lakes,Family/Guardian Survey,1,1,1,0,1,0,0,1
+FAM-01892,Capital Region,Child Family Survey,1,1,1,0,0,0,1,0
+FAM-01893,Mohawk Valley,Adult Family Survey,1,1,1,0,1,0,1,0
+FAM-01894,Capital Region,Family/Guardian Survey,0,0,1,1,0,1,1,0
+FAM-01895,Hudson Valley,Family/Guardian Survey,1,1,1,0,1,0,1,1
+FAM-01896,Western New York,Family/Guardian Survey,1,1,1,1,0,0,1,1
+FAM-01897,Central New York,Adult Family Survey,1,1,1,1,0,1,0,0
+FAM-01898,New York City,Adult Family Survey,1,1,1,1,0,1,1,1
+FAM-01899,Hudson Valley,Family/Guardian Survey,0,1,1,0,0,1,0,1
+FAM-01900,Finger Lakes,Child Family Survey,1,1,1,0,1,1,1,1
+FAM-01901,New York City,Family/Guardian Survey,0,1,1,0,1,1,1,0
+FAM-01902,Capital Region,Adult Family Survey,1,1,1,1,1,0,0,1
+FAM-01903,Finger Lakes,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-01904,Mohawk Valley,Child Family Survey,0,0,1,0,1,0,0,1
+FAM-01905,New York City,Adult Family Survey,0,1,1,0,1,1,1,0
+FAM-01906,Mohawk Valley,Adult Family Survey,1,0,1,1,0,0,0,1
+FAM-01907,Hudson Valley,Family/Guardian Survey,1,0,0,1,1,1,0,1
+FAM-01908,New York City,Adult Family Survey,1,1,1,1,1,1,1,0
+FAM-01909,New York City,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-01910,New York City,Child Family Survey,1,1,1,1,1,1,0,1
+FAM-01911,New York City,Adult Family Survey,0,1,0,0,1,0,1,0
+FAM-01912,Finger Lakes,Adult Family Survey,1,1,1,0,1,1,0,1
+FAM-01913,New York City,Child Family Survey,1,1,1,1,1,0,1,1
+FAM-01914,Western New York,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-01915,Western New York,Adult Family Survey,1,0,1,1,0,1,1,1
+FAM-01916,Hudson Valley,Child Family Survey,1,1,0,0,0,0,1,1
+FAM-01917,Capital Region,Family/Guardian Survey,1,1,1,1,1,1,0,0
+FAM-01918,Finger Lakes,Child Family Survey,1,1,0,0,1,0,1,1
+FAM-01919,Capital Region,Adult Family Survey,0,0,1,1,0,1,1,0
+FAM-01920,Finger Lakes,Family/Guardian Survey,1,1,1,0,1,1,1,1
+FAM-01921,Hudson Valley,Family/Guardian Survey,1,1,1,1,0,1,1,1
+FAM-01922,Long Island,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-01923,New York City,Adult Family Survey,1,1,1,1,0,1,1,1
+FAM-01924,Western New York,Family/Guardian Survey,0,1,1,0,0,0,1,1
+FAM-01925,New York City,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-01926,New York City,Adult Family Survey,1,1,0,0,1,1,1,1
+FAM-01927,Central New York,Child Family Survey,1,0,1,1,1,1,1,1
+FAM-01928,New York City,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-01929,Capital Region,Family/Guardian Survey,1,1,1,1,1,0,0,1
+FAM-01930,Mohawk Valley,Adult Family Survey,1,1,1,1,0,1,0,1
+FAM-01931,Mohawk Valley,Adult Family Survey,1,1,1,1,1,0,1,1
+FAM-01932,New York City,Family/Guardian Survey,1,1,0,1,1,1,0,1
+FAM-01933,Central New York,Adult Family Survey,1,1,1,1,1,0,0,1
+FAM-01934,New York City,Child Family Survey,1,1,1,1,1,0,1,1
+FAM-01935,Western New York,Child Family Survey,1,1,1,0,0,0,0,1
+FAM-01936,Hudson Valley,Child Family Survey,0,0,1,0,0,1,1,1
+FAM-01937,Hudson Valley,Child Family Survey,0,1,1,0,0,1,0,1
+FAM-01938,New York City,Child Family Survey,1,1,1,0,1,0,1,1
+FAM-01939,Hudson Valley,Child Family Survey,1,1,1,1,1,1,1,0
+FAM-01940,New York City,Child Family Survey,1,1,1,0,1,0,0,1
+FAM-01941,Hudson Valley,Adult Family Survey,0,1,1,1,1,0,0,1
+FAM-01942,Hudson Valley,Family/Guardian Survey,0,1,1,1,1,0,1,1
+FAM-01943,Mohawk Valley,Family/Guardian Survey,1,0,1,0,0,1,1,1
+FAM-01944,Finger Lakes,Adult Family Survey,1,0,1,1,1,0,0,1
+FAM-01945,New York City,Adult Family Survey,1,1,1,1,0,1,1,1
+FAM-01946,Mohawk Valley,Adult Family Survey,1,1,1,0,1,1,1,0
+FAM-01947,Finger Lakes,Child Family Survey,0,0,1,1,1,1,1,1
+FAM-01948,Western New York,Family/Guardian Survey,1,0,1,0,1,0,0,1
+FAM-01949,Western New York,Family/Guardian Survey,0,1,1,0,0,0,0,1
+FAM-01950,Central New York,Child Family Survey,0,1,1,1,1,1,1,1
+FAM-01951,Hudson Valley,Adult Family Survey,1,1,1,1,0,0,1,0
+FAM-01952,Finger Lakes,Adult Family Survey,1,1,1,0,1,1,0,1
+FAM-01953,Long Island,Child Family Survey,1,1,0,1,0,1,0,1
+FAM-01954,Western New York,Family/Guardian Survey,1,1,1,0,0,0,1,1
+FAM-01955,Hudson Valley,Adult Family Survey,1,0,1,1,1,0,1,1
+FAM-01956,Finger Lakes,Family/Guardian Survey,1,1,1,1,1,0,1,0
+FAM-01957,New York City,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-01958,New York City,Adult Family Survey,1,1,1,1,1,1,0,1
+FAM-01959,Finger Lakes,Adult Family Survey,1,0,1,1,1,1,1,1
+FAM-01960,Long Island,Adult Family Survey,1,1,0,0,1,0,0,1
+FAM-01961,Southern Tier,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-01962,New York City,Family/Guardian Survey,1,1,1,0,1,1,1,1
+FAM-01963,Finger Lakes,Family/Guardian Survey,1,1,1,1,0,0,0,1
+FAM-01964,Hudson Valley,Child Family Survey,1,1,1,1,1,0,1,0
+FAM-01965,Finger Lakes,Child Family Survey,1,1,1,1,1,0,0,1
+FAM-01966,Capital Region,Child Family Survey,0,1,1,0,1,0,0,1
+FAM-01967,Central New York,Child Family Survey,1,1,1,1,1,0,1,1
+FAM-01968,New York City,Family/Guardian Survey,1,1,1,1,1,0,0,1
+FAM-01969,Hudson Valley,Family/Guardian Survey,1,1,0,1,1,0,1,1
+FAM-01970,Central New York,Child Family Survey,1,0,1,0,1,1,0,0
+FAM-01971,Hudson Valley,Adult Family Survey,1,1,0,1,1,0,1,0
+FAM-01972,Hudson Valley,Family/Guardian Survey,1,1,1,1,1,0,1,1
+FAM-01973,New York City,Family/Guardian Survey,1,1,1,0,1,1,1,1
+FAM-01974,North Country,Adult Family Survey,1,1,1,0,0,0,1,0
+FAM-01975,Long Island,Adult Family Survey,1,0,1,0,0,0,1,1
+FAM-01976,Capital Region,Family/Guardian Survey,1,1,1,1,1,0,1,1
+FAM-01977,New York City,Adult Family Survey,1,1,1,1,1,0,0,1
+FAM-01978,Hudson Valley,Child Family Survey,1,0,1,1,1,1,1,0
+FAM-01979,Southern Tier,Adult Family Survey,1,1,0,0,1,0,0,0
+FAM-01980,Long Island,Family/Guardian Survey,1,1,0,0,0,1,1,1
+FAM-01981,Long Island,Adult Family Survey,0,1,1,1,0,0,1,1
+FAM-01982,Long Island,Family/Guardian Survey,1,1,1,1,1,0,1,0
+FAM-01983,Central New York,Adult Family Survey,1,1,1,0,1,1,1,1
+FAM-01984,New York City,Family/Guardian Survey,1,1,1,1,1,0,1,1
+FAM-01985,Finger Lakes,Child Family Survey,1,1,1,1,1,1,1,0
+FAM-01986,Hudson Valley,Family/Guardian Survey,1,1,1,1,1,1,0,0
+FAM-01987,New York City,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-01988,Long Island,Family/Guardian Survey,1,1,1,0,1,1,0,1
+FAM-01989,New York City,Family/Guardian Survey,1,0,1,0,1,0,0,0
+FAM-01990,New York City,Adult Family Survey,1,1,1,1,1,1,0,1
+FAM-01991,Western New York,Adult Family Survey,1,0,0,1,1,0,0,1
+FAM-01992,New York City,Family/Guardian Survey,1,1,1,1,1,0,1,1
+FAM-01993,New York City,Adult Family Survey,1,1,1,0,1,1,1,1
+FAM-01994,Long Island,Family/Guardian Survey,0,0,1,0,1,0,1,1
+FAM-01995,Western New York,Adult Family Survey,1,1,0,1,1,1,0,1
+FAM-01996,New York City,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-01997,New York City,Family/Guardian Survey,1,1,1,1,0,1,0,1
+FAM-01998,New York City,Family/Guardian Survey,1,1,1,0,1,0,0,1
+FAM-01999,New York City,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-02000,Capital Region,Child Family Survey,1,1,1,1,0,0,1,0
+FAM-02001,New York City,Family/Guardian Survey,1,1,1,0,1,1,1,1
+FAM-02002,Southern Tier,Adult Family Survey,1,0,1,0,1,0,0,1
+FAM-02003,Finger Lakes,Adult Family Survey,1,1,1,1,1,1,1,0
+FAM-02004,Finger Lakes,Child Family Survey,0,1,0,1,1,0,0,1
+FAM-02005,New York City,Child Family Survey,1,1,1,0,1,0,1,1
+FAM-02006,Central New York,Adult Family Survey,1,0,1,1,1,0,1,1
+FAM-02007,Mohawk Valley,Adult Family Survey,1,0,1,1,1,0,0,1
+FAM-02008,Western New York,Family/Guardian Survey,1,1,0,0,1,0,1,1
+FAM-02009,Southern Tier,Child Family Survey,1,1,1,1,1,0,0,0
+FAM-02010,Hudson Valley,Child Family Survey,1,0,1,1,1,0,0,0
+FAM-02011,New York City,Adult Family Survey,0,0,1,1,0,1,1,1
+FAM-02012,Western New York,Adult Family Survey,1,0,1,1,1,1,0,0
+FAM-02013,New York City,Family/Guardian Survey,1,1,1,1,1,0,1,1
+FAM-02014,New York City,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-02015,New York City,Family/Guardian Survey,1,1,1,1,1,1,0,1
+FAM-02016,Hudson Valley,Child Family Survey,1,0,0,0,1,1,1,0
+FAM-02017,Hudson Valley,Adult Family Survey,0,1,0,1,1,0,1,1
+FAM-02018,Hudson Valley,Family/Guardian Survey,1,1,1,1,0,0,0,1
+FAM-02019,Hudson Valley,Child Family Survey,1,0,1,0,1,1,0,1
+FAM-02020,Long Island,Family/Guardian Survey,1,0,1,1,0,1,1,0
+FAM-02021,Southern Tier,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-02022,New York City,Adult Family Survey,1,0,1,1,0,1,1,1
+FAM-02023,Capital Region,Child Family Survey,0,1,0,1,0,0,0,0
+FAM-02024,Capital Region,Child Family Survey,1,1,0,0,1,0,1,1
+FAM-02025,Mohawk Valley,Adult Family Survey,1,1,1,0,0,1,1,1
+FAM-02026,Hudson Valley,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-02027,New York City,Family/Guardian Survey,1,1,0,1,1,0,1,1
+FAM-02028,Western New York,Adult Family Survey,0,1,1,1,1,1,1,1
+FAM-02029,Capital Region,Child Family Survey,0,1,1,1,1,1,0,1
+FAM-02030,New York City,Family/Guardian Survey,1,1,1,1,1,1,0,1
+FAM-02031,Capital Region,Child Family Survey,0,0,0,1,1,1,1,0
+FAM-02032,Finger Lakes,Family/Guardian Survey,1,1,1,1,0,0,0,1
+FAM-02033,New York City,Adult Family Survey,1,0,1,0,0,1,1,1
+FAM-02034,New York City,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-02035,New York City,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-02036,New York City,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-02037,Long Island,Family/Guardian Survey,1,0,1,1,1,0,1,0
+FAM-02038,New York City,Child Family Survey,1,1,1,1,1,1,0,0
+FAM-02039,New York City,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-02040,Mohawk Valley,Family/Guardian Survey,1,1,1,0,1,0,0,1
+FAM-02041,Finger Lakes,Adult Family Survey,0,0,1,1,1,0,1,0
+FAM-02042,Hudson Valley,Adult Family Survey,1,1,1,0,1,1,1,1
+FAM-02043,Finger Lakes,Adult Family Survey,1,1,0,0,1,0,1,1
+FAM-02044,New York City,Family/Guardian Survey,1,1,0,0,1,0,0,1
+FAM-02045,New York City,Child Family Survey,1,1,1,0,1,0,1,1
+FAM-02046,Southern Tier,Child Family Survey,1,0,1,1,1,0,0,1
+FAM-02047,Central New York,Child Family Survey,1,1,1,1,1,0,1,1
+FAM-02048,Southern Tier,Family/Guardian Survey,0,1,1,1,1,1,0,0
+FAM-02049,New York City,Adult Family Survey,1,0,0,1,1,1,1,1
+FAM-02050,Capital Region,Adult Family Survey,1,0,1,0,0,1,0,1
+FAM-02051,Long Island,Child Family Survey,1,1,1,0,1,0,1,1
+FAM-02052,New York City,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-02053,New York City,Family/Guardian Survey,1,1,0,1,0,1,1,1
+FAM-02054,Western New York,Family/Guardian Survey,1,1,1,1,0,0,0,1
+FAM-02055,New York City,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-02056,Mohawk Valley,Adult Family Survey,1,1,1,0,1,1,1,1
+FAM-02057,New York City,Child Family Survey,1,1,1,1,0,0,0,1
+FAM-02058,Capital Region,Family/Guardian Survey,1,0,0,0,1,1,1,1
+FAM-02059,Central New York,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-02060,New York City,Family/Guardian Survey,1,1,1,0,0,0,0,1
+FAM-02061,Long Island,Family/Guardian Survey,0,1,0,1,0,0,0,1
+FAM-02062,North Country,Adult Family Survey,1,1,1,1,1,1,0,0
+FAM-02063,Hudson Valley,Family/Guardian Survey,1,1,1,0,1,0,0,1
+FAM-02064,New York City,Adult Family Survey,1,0,1,1,1,1,1,1
+FAM-02065,Mohawk Valley,Adult Family Survey,1,0,1,1,1,1,1,1
+FAM-02066,Finger Lakes,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-02067,Western New York,Child Family Survey,1,0,1,1,1,0,1,1
+FAM-02068,Long Island,Adult Family Survey,1,0,1,1,1,1,1,1
+FAM-02069,New York City,Child Family Survey,1,0,1,1,1,1,1,1
+FAM-02070,Hudson Valley,Family/Guardian Survey,1,1,1,0,0,1,0,1
+FAM-02071,Central New York,Child Family Survey,0,1,1,0,1,1,0,1
+FAM-02072,Western New York,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-02073,Finger Lakes,Child Family Survey,0,1,0,1,1,0,1,1
+FAM-02074,Hudson Valley,Child Family Survey,1,0,1,0,1,0,1,1
+FAM-02075,Southern Tier,Adult Family Survey,0,0,1,1,1,1,0,0
+FAM-02076,Mohawk Valley,Child Family Survey,1,1,1,0,0,0,1,1
+FAM-02077,Finger Lakes,Child Family Survey,1,1,1,1,0,0,0,1
+FAM-02078,Southern Tier,Adult Family Survey,1,0,1,1,1,0,1,1
+FAM-02079,Central New York,Adult Family Survey,1,1,1,1,0,1,0,1
+FAM-02080,Western New York,Child Family Survey,1,1,1,1,1,1,0,1
+FAM-02081,Central New York,Child Family Survey,1,1,1,1,0,1,1,1
+FAM-02082,Long Island,Child Family Survey,0,0,1,1,1,0,1,1
+FAM-02083,Hudson Valley,Adult Family Survey,1,1,0,1,0,1,0,1
+FAM-02084,New York City,Family/Guardian Survey,0,1,1,0,1,0,0,1
+FAM-02085,Long Island,Child Family Survey,0,1,1,1,1,1,0,0
+FAM-02086,Capital Region,Child Family Survey,0,0,1,1,1,1,1,1
+FAM-02087,Western New York,Adult Family Survey,1,0,1,1,1,0,0,0
+FAM-02088,Capital Region,Family/Guardian Survey,1,0,0,0,1,0,0,1
+FAM-02089,Western New York,Child Family Survey,0,1,1,0,0,0,1,1
+FAM-02090,Finger Lakes,Adult Family Survey,0,1,0,1,1,1,1,1
+FAM-02091,Hudson Valley,Family/Guardian Survey,0,1,1,0,1,1,1,1
+FAM-02092,Capital Region,Adult Family Survey,1,0,0,1,0,0,1,1
+FAM-02093,Long Island,Child Family Survey,1,1,1,1,1,0,0,1
+FAM-02094,New York City,Child Family Survey,0,1,0,1,1,1,1,1
+FAM-02095,New York City,Adult Family Survey,1,1,1,1,0,1,1,0
+FAM-02096,Southern Tier,Family/Guardian Survey,1,1,1,1,0,1,1,1
+FAM-02097,Finger Lakes,Family/Guardian Survey,1,1,0,0,1,0,0,1
+FAM-02098,Hudson Valley,Child Family Survey,1,0,1,0,0,1,1,1
+FAM-02099,Capital Region,Adult Family Survey,1,0,1,1,1,0,1,0
+FAM-02100,New York City,Family/Guardian Survey,1,1,1,0,1,1,0,1
+FAM-02101,Hudson Valley,Child Family Survey,1,1,0,1,1,1,0,1
+FAM-02102,Southern Tier,Adult Family Survey,1,1,0,0,1,0,0,1
+FAM-02103,New York City,Child Family Survey,1,1,1,0,1,1,1,1
+FAM-02104,Long Island,Family/Guardian Survey,0,1,0,1,1,1,0,1
+FAM-02105,Southern Tier,Child Family Survey,1,1,0,0,1,1,0,1
+FAM-02106,New York City,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-02107,New York City,Child Family Survey,1,1,1,1,1,1,1,0
+FAM-02108,New York City,Family/Guardian Survey,1,1,1,1,0,1,0,1
+FAM-02109,Mohawk Valley,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-02110,New York City,Adult Family Survey,1,1,1,1,1,0,1,1
+FAM-02111,Long Island,Adult Family Survey,1,1,1,1,0,0,0,1
+FAM-02112,Finger Lakes,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-02113,Hudson Valley,Family/Guardian Survey,0,1,1,1,0,1,1,0
+FAM-02114,New York City,Adult Family Survey,1,1,1,1,1,0,1,1
+FAM-02115,Central New York,Child Family Survey,1,1,1,1,0,0,1,0
+FAM-02116,Capital Region,Adult Family Survey,1,1,1,0,0,1,1,1
+FAM-02117,New York City,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-02118,Southern Tier,Adult Family Survey,1,0,0,1,1,1,1,1
+FAM-02119,Western New York,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-02120,Hudson Valley,Adult Family Survey,0,1,1,1,1,1,1,1
+FAM-02121,Western New York,Child Family Survey,1,0,1,0,1,1,0,1
+FAM-02122,Finger Lakes,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-02123,Finger Lakes,Adult Family Survey,1,1,1,0,1,1,0,1
+FAM-02124,Long Island,Adult Family Survey,1,1,1,1,1,1,1,0
+FAM-02125,Hudson Valley,Family/Guardian Survey,0,0,1,1,0,0,1,1
+FAM-02126,New York City,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-02127,Finger Lakes,Adult Family Survey,0,1,1,1,1,0,1,1
+FAM-02128,Finger Lakes,Child Family Survey,1,1,1,1,0,0,0,1
+FAM-02129,Capital Region,Family/Guardian Survey,1,1,1,1,1,1,0,1
+FAM-02130,Finger Lakes,Adult Family Survey,1,1,1,1,1,0,1,1
+FAM-02131,Hudson Valley,Adult Family Survey,1,0,1,1,1,0,0,1
+FAM-02132,Mohawk Valley,Child Family Survey,0,1,1,1,1,0,1,1
+FAM-02133,Western New York,Family/Guardian Survey,1,0,0,0,1,1,1,1
+FAM-02134,Central New York,Family/Guardian Survey,1,1,1,0,1,1,1,1
+FAM-02135,New York City,Adult Family Survey,1,1,1,0,1,0,1,0
+FAM-02136,Hudson Valley,Child Family Survey,1,1,1,1,1,0,1,1
+FAM-02137,Long Island,Child Family Survey,1,1,1,0,0,0,0,1
+FAM-02138,Long Island,Family/Guardian Survey,1,1,1,1,0,0,0,0
+FAM-02139,Long Island,Adult Family Survey,1,1,1,0,1,0,1,1
+FAM-02140,New York City,Adult Family Survey,1,1,1,0,1,0,0,1
+FAM-02141,Mohawk Valley,Child Family Survey,1,1,1,0,1,0,0,1
+FAM-02142,Long Island,Adult Family Survey,1,1,1,1,1,0,0,0
+FAM-02143,New York City,Family/Guardian Survey,0,1,1,0,1,1,1,1
+FAM-02144,Long Island,Adult Family Survey,1,1,1,1,1,1,0,1
+FAM-02145,Western New York,Family/Guardian Survey,0,1,1,1,1,1,1,0
+FAM-02146,Mohawk Valley,Child Family Survey,1,1,1,1,1,1,0,1
+FAM-02147,Southern Tier,Adult Family Survey,1,1,1,1,0,1,1,1
+FAM-02148,New York City,Child Family Survey,1,1,1,0,1,1,1,1
+FAM-02149,Long Island,Adult Family Survey,1,1,1,1,0,1,1,1
+FAM-02150,Long Island,Child Family Survey,1,1,0,0,1,0,0,1
+FAM-02151,New York City,Family/Guardian Survey,1,1,1,0,1,0,1,1
+FAM-02152,Long Island,Family/Guardian Survey,1,1,1,0,1,0,0,0
+FAM-02153,Hudson Valley,Child Family Survey,1,0,1,0,1,1,0,1
+FAM-02154,Southern Tier,Adult Family Survey,1,1,1,1,1,0,1,1
+FAM-02155,Western New York,Adult Family Survey,1,0,0,1,1,1,1,0
+FAM-02156,Finger Lakes,Adult Family Survey,1,1,1,1,0,0,1,0
+FAM-02157,Hudson Valley,Adult Family Survey,1,0,1,1,1,0,1,1
+FAM-02158,Western New York,Family/Guardian Survey,0,1,1,0,1,0,0,1
+FAM-02159,Long Island,Family/Guardian Survey,0,1,1,1,1,1,1,1
+FAM-02160,Hudson Valley,Family/Guardian Survey,1,1,1,1,1,0,0,1
+FAM-02161,Southern Tier,Adult Family Survey,1,1,0,1,1,0,0,1
+FAM-02162,Southern Tier,Child Family Survey,0,1,1,0,0,0,1,1
+FAM-02163,Central New York,Child Family Survey,1,1,1,0,1,1,1,1
+FAM-02164,New York City,Family/Guardian Survey,1,1,1,0,1,1,1,0
+FAM-02165,New York City,Family/Guardian Survey,1,1,1,1,0,1,1,1
+FAM-02166,Long Island,Family/Guardian Survey,1,1,1,0,1,0,0,1
+FAM-02167,Central New York,Adult Family Survey,1,1,1,0,1,0,0,1
+FAM-02168,New York City,Family/Guardian Survey,1,0,1,0,1,1,0,1
+FAM-02169,Long Island,Family/Guardian Survey,1,0,1,1,1,1,1,1
+FAM-02170,Southern Tier,Adult Family Survey,1,1,1,1,1,0,1,1
+FAM-02171,Hudson Valley,Adult Family Survey,1,1,1,1,1,1,0,1
+FAM-02172,Capital Region,Family/Guardian Survey,0,1,1,0,0,0,0,1
+FAM-02173,New York City,Adult Family Survey,1,0,1,1,1,1,0,1
+FAM-02174,Hudson Valley,Adult Family Survey,1,1,1,1,0,1,1,1
+FAM-02175,Capital Region,Adult Family Survey,1,0,1,1,1,0,1,1
+FAM-02176,New York City,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-02177,Finger Lakes,Family/Guardian Survey,0,1,1,1,0,0,1,1
+FAM-02178,New York City,Family/Guardian Survey,1,1,1,1,1,0,0,0
+FAM-02179,Central New York,Adult Family Survey,1,1,1,1,1,0,1,1
+FAM-02180,Southern Tier,Adult Family Survey,1,0,1,1,1,0,0,1
+FAM-02181,New York City,Child Family Survey,1,1,1,0,1,1,1,1
+FAM-02182,Hudson Valley,Adult Family Survey,0,0,0,1,1,1,1,1
+FAM-02183,Finger Lakes,Family/Guardian Survey,1,1,1,0,1,1,0,1
+FAM-02184,Long Island,Child Family Survey,1,1,0,1,1,1,0,1
+FAM-02185,New York City,Family/Guardian Survey,1,0,1,0,0,1,1,1
+FAM-02186,Hudson Valley,Adult Family Survey,1,1,1,1,1,1,0,1
+FAM-02187,Long Island,Family/Guardian Survey,1,1,1,0,1,1,0,1
+FAM-02188,Long Island,Family/Guardian Survey,1,1,1,0,1,1,1,1
+FAM-02189,Western New York,Adult Family Survey,0,1,1,1,0,0,0,0
+FAM-02190,New York City,Family/Guardian Survey,1,0,1,1,1,1,0,1
+FAM-02191,Finger Lakes,Family/Guardian Survey,1,0,1,1,1,0,1,1
+FAM-02192,Capital Region,Family/Guardian Survey,0,1,1,1,0,0,1,1
+FAM-02193,Western New York,Family/Guardian Survey,1,0,1,1,1,1,1,1
+FAM-02194,Hudson Valley,Child Family Survey,1,0,1,0,1,1,0,1
+FAM-02195,New York City,Child Family Survey,1,1,0,1,1,1,1,1
+FAM-02196,New York City,Family/Guardian Survey,0,1,0,1,1,0,1,0
+FAM-02197,Capital Region,Adult Family Survey,0,1,1,0,1,0,0,1
+FAM-02198,New York City,Family/Guardian Survey,1,1,1,1,1,1,0,1
+FAM-02199,New York City,Family/Guardian Survey,1,0,1,1,1,1,0,1
+FAM-02200,New York City,Adult Family Survey,1,1,0,1,1,0,1,1
+FAM-02201,Central New York,Child Family Survey,1,0,0,1,1,0,0,1
+FAM-02202,Hudson Valley,Family/Guardian Survey,1,1,1,0,0,1,1,1
+FAM-02203,Capital Region,Child Family Survey,1,1,0,1,1,0,0,1
+FAM-02204,Long Island,Adult Family Survey,1,1,1,0,0,0,1,0
+FAM-02205,Mohawk Valley,Family/Guardian Survey,1,1,1,0,1,1,1,1
+FAM-02206,North Country,Adult Family Survey,0,1,1,1,1,0,1,1
+FAM-02207,Central New York,Adult Family Survey,1,1,1,1,1,0,0,1
+FAM-02208,Long Island,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-02209,Central New York,Adult Family Survey,0,1,1,1,1,1,0,1
+FAM-02210,New York City,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-02211,Capital Region,Adult Family Survey,0,1,1,1,1,1,0,1
+FAM-02212,New York City,Adult Family Survey,1,1,1,1,1,1,0,1
+FAM-02213,New York City,Adult Family Survey,1,1,1,1,0,1,0,1
+FAM-02214,Central New York,Adult Family Survey,1,1,1,0,1,1,1,1
+FAM-02215,Capital Region,Child Family Survey,1,1,0,1,0,1,1,1
+FAM-02216,Central New York,Child Family Survey,1,1,1,1,0,0,0,1
+FAM-02217,Long Island,Family/Guardian Survey,1,1,0,1,1,0,1,1
+FAM-02218,Finger Lakes,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-02219,New York City,Child Family Survey,1,1,1,1,1,0,1,1
+FAM-02220,Long Island,Family/Guardian Survey,1,1,1,0,1,0,1,1
+FAM-02221,New York City,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-02222,Hudson Valley,Child Family Survey,0,1,1,1,1,0,1,1
+FAM-02223,New York City,Child Family Survey,0,1,1,1,1,1,0,1
+FAM-02224,Finger Lakes,Family/Guardian Survey,1,1,1,0,1,1,1,1
+FAM-02225,Hudson Valley,Adult Family Survey,1,1,1,0,1,0,1,1
+FAM-02226,New York City,Family/Guardian Survey,1,1,1,1,1,0,1,1
+FAM-02227,Long Island,Family/Guardian Survey,1,1,1,0,1,1,1,1
+FAM-02228,Western New York,Child Family Survey,1,1,1,0,0,1,0,1
+FAM-02229,Hudson Valley,Child Family Survey,0,1,1,1,1,1,1,1
+FAM-02230,Capital Region,Adult Family Survey,1,1,1,1,1,0,0,1
+FAM-02231,Long Island,Family/Guardian Survey,1,1,0,0,1,0,1,1
+FAM-02232,New York City,Adult Family Survey,1,1,1,0,1,0,1,1
+FAM-02233,New York City,Child Family Survey,1,1,1,1,1,0,0,1
+FAM-02234,Hudson Valley,Child Family Survey,1,1,1,0,1,1,1,1
+FAM-02235,New York City,Adult Family Survey,1,1,1,1,0,0,1,1
+FAM-02236,New York City,Child Family Survey,1,1,1,1,1,0,1,1
+FAM-02237,Southern Tier,Family/Guardian Survey,0,1,1,0,1,0,0,1
+FAM-02238,New York City,Child Family Survey,1,1,0,1,1,0,1,1
+FAM-02239,New York City,Adult Family Survey,1,1,1,1,1,1,0,1
+FAM-02240,New York City,Adult Family Survey,1,1,0,0,1,1,1,1
+FAM-02241,Capital Region,Family/Guardian Survey,0,0,0,1,1,1,1,1
+FAM-02242,Capital Region,Child Family Survey,1,0,1,0,0,1,1,0
+FAM-02243,Hudson Valley,Child Family Survey,1,1,1,0,0,1,0,1
+FAM-02244,New York City,Adult Family Survey,1,1,1,0,1,1,1,1
+FAM-02245,Mohawk Valley,Adult Family Survey,1,1,1,0,1,1,1,1
+FAM-02246,Hudson Valley,Child Family Survey,0,1,1,1,1,1,1,1
+FAM-02247,Western New York,Adult Family Survey,0,1,0,1,1,1,0,1
+FAM-02248,Western New York,Family/Guardian Survey,1,1,1,1,0,0,0,1
+FAM-02249,New York City,Adult Family Survey,1,1,0,1,1,0,1,1
+FAM-02250,New York City,Adult Family Survey,1,1,1,1,1,0,0,1
+FAM-02251,New York City,Family/Guardian Survey,1,1,1,0,0,0,1,1
+FAM-02252,New York City,Family/Guardian Survey,0,0,1,1,1,1,1,1
+FAM-02253,Central New York,Family/Guardian Survey,1,1,1,0,1,1,1,1
+FAM-02254,Hudson Valley,Child Family Survey,1,1,1,1,0,0,1,1
+FAM-02255,New York City,Adult Family Survey,0,1,1,0,1,1,1,1
+FAM-02256,Hudson Valley,Child Family Survey,1,1,1,0,1,1,1,1
+FAM-02257,Long Island,Child Family Survey,0,1,1,0,1,0,1,1
+FAM-02258,Western New York,Family/Guardian Survey,1,1,1,0,1,1,0,1
+FAM-02259,Finger Lakes,Adult Family Survey,1,1,1,1,1,0,0,1
+FAM-02260,Capital Region,Family/Guardian Survey,1,1,0,1,0,1,1,1
+FAM-02261,Long Island,Adult Family Survey,1,0,0,1,0,1,1,1
+FAM-02262,Hudson Valley,Adult Family Survey,1,1,1,1,1,1,0,0
+FAM-02263,Long Island,Adult Family Survey,1,1,1,1,0,0,1,1
+FAM-02264,New York City,Family/Guardian Survey,1,1,1,1,0,1,1,1
+FAM-02265,New York City,Child Family Survey,1,1,1,1,0,1,0,1
+FAM-02266,North Country,Family/Guardian Survey,1,0,1,1,1,1,0,1
+FAM-02267,New York City,Child Family Survey,1,1,1,1,1,1,0,1
+FAM-02268,Western New York,Family/Guardian Survey,0,1,1,0,0,1,1,1
+FAM-02269,Long Island,Adult Family Survey,1,0,1,1,1,0,0,1
+FAM-02270,Mohawk Valley,Adult Family Survey,0,1,1,0,0,0,1,1
+FAM-02271,Western New York,Family/Guardian Survey,1,0,1,1,0,0,0,0
+FAM-02272,New York City,Family/Guardian Survey,1,1,1,1,1,1,1,0
+FAM-02273,Finger Lakes,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-02274,Hudson Valley,Adult Family Survey,1,1,1,0,1,1,0,1
+FAM-02275,Western New York,Family/Guardian Survey,0,1,1,1,1,0,1,0
+FAM-02276,Western New York,Child Family Survey,1,1,1,0,1,0,0,1
+FAM-02277,North Country,Family/Guardian Survey,1,1,1,1,1,0,1,1
+FAM-02278,Western New York,Adult Family Survey,1,1,0,0,1,1,0,1
+FAM-02279,Long Island,Adult Family Survey,0,1,1,0,0,0,1,1
+FAM-02280,North Country,Child Family Survey,1,1,1,0,0,1,0,1
+FAM-02281,Central New York,Adult Family Survey,1,1,1,1,1,0,0,1
+FAM-02282,New York City,Child Family Survey,1,1,1,0,1,0,1,1
+FAM-02283,New York City,Adult Family Survey,1,1,1,1,1,0,1,1
+FAM-02284,New York City,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-02285,Long Island,Family/Guardian Survey,1,1,1,1,1,1,1,0
+FAM-02286,Long Island,Adult Family Survey,1,0,1,0,1,0,1,1
+FAM-02287,New York City,Adult Family Survey,1,1,1,1,1,0,0,1
+FAM-02288,Hudson Valley,Family/Guardian Survey,1,1,1,0,1,0,0,1
+FAM-02289,New York City,Child Family Survey,1,1,0,0,1,0,1,1
+FAM-02290,Long Island,Family/Guardian Survey,1,1,1,0,1,1,0,1
+FAM-02291,New York City,Child Family Survey,1,0,1,1,1,1,0,1
+FAM-02292,Western New York,Child Family Survey,1,1,1,0,1,1,1,1
+FAM-02293,Central New York,Adult Family Survey,1,0,1,1,1,0,1,1
+FAM-02294,New York City,Child Family Survey,0,1,1,1,1,0,1,0
+FAM-02295,New York City,Adult Family Survey,1,1,1,1,1,1,1,1
+FAM-02296,Central New York,Family/Guardian Survey,0,0,1,1,1,0,1,1
+FAM-02297,New York City,Family/Guardian Survey,1,1,1,0,1,1,1,1
+FAM-02298,New York City,Adult Family Survey,1,0,1,1,1,0,0,1
+FAM-02299,New York City,Adult Family Survey,1,1,1,1,1,0,0,1
+FAM-02300,Hudson Valley,Family/Guardian Survey,1,0,1,1,0,1,0,1
+FAM-02301,New York City,Adult Family Survey,1,1,1,1,1,1,1,0
+FAM-02302,Hudson Valley,Child Family Survey,1,1,1,1,1,0,0,0
+FAM-02303,Long Island,Family/Guardian Survey,1,1,1,1,0,0,1,1
+FAM-02304,Western New York,Family/Guardian Survey,1,0,1,1,0,0,0,1
+FAM-02305,Long Island,Family/Guardian Survey,1,1,1,1,1,0,0,1
+FAM-02306,Capital Region,Child Family Survey,1,1,1,1,1,0,1,1
+FAM-02307,Mohawk Valley,Family/Guardian Survey,1,1,1,0,1,0,0,1
+FAM-02308,Capital Region,Family/Guardian Survey,0,1,1,0,1,1,1,1
+FAM-02309,Hudson Valley,Adult Family Survey,1,0,1,1,1,0,0,1
+FAM-02310,Finger Lakes,Adult Family Survey,1,0,1,1,0,0,1,1
+FAM-02311,North Country,Family/Guardian Survey,0,1,1,1,0,1,1,1
+FAM-02312,Finger Lakes,Adult Family Survey,1,0,1,1,0,1,1,0
+FAM-02313,Central New York,Adult Family Survey,1,1,1,0,1,0,0,1
+FAM-02314,Hudson Valley,Child Family Survey,1,1,1,1,1,1,0,1
+FAM-02315,New York City,Adult Family Survey,0,1,1,1,1,1,1,1
+FAM-02316,New York City,Child Family Survey,1,1,0,1,1,0,0,1
+FAM-02317,Long Island,Family/Guardian Survey,0,0,1,1,1,1,0,0
+FAM-02318,Hudson Valley,Adult Family Survey,1,1,0,1,1,1,1,0
+FAM-02319,Central New York,Adult Family Survey,1,0,1,1,1,0,1,1
+FAM-02320,Capital Region,Adult Family Survey,1,1,1,0,1,0,1,1
+FAM-02321,Mohawk Valley,Adult Family Survey,1,1,1,1,1,1,1,0
+FAM-02322,New York City,Adult Family Survey,1,1,1,1,0,0,1,1
+FAM-02323,New York City,Child Family Survey,1,1,1,1,1,1,1,0
+FAM-02324,Western New York,Adult Family Survey,1,0,1,0,1,1,1,1
+FAM-02325,Hudson Valley,Family/Guardian Survey,1,1,1,1,1,0,0,1
+FAM-02326,Mohawk Valley,Adult Family Survey,1,0,1,1,1,0,0,0
+FAM-02327,New York City,Adult Family Survey,1,0,1,1,1,0,1,1
+FAM-02328,Mohawk Valley,Adult Family Survey,1,1,1,1,1,0,1,1
+FAM-02329,Capital Region,Adult Family Survey,1,1,1,1,1,1,0,0
+FAM-02330,Capital Region,Family/Guardian Survey,1,1,1,0,1,0,1,1
+FAM-02331,Western New York,Adult Family Survey,1,1,1,1,1,0,0,1
+FAM-02332,Capital Region,Family/Guardian Survey,1,1,0,0,0,1,0,0
+FAM-02333,Capital Region,Adult Family Survey,1,1,0,0,1,0,1,1
+FAM-02334,Western New York,Adult Family Survey,0,1,1,1,0,1,0,1
+FAM-02335,Western New York,Adult Family Survey,1,1,1,1,1,0,1,1
+FAM-02336,Western New York,Family/Guardian Survey,1,1,0,0,1,0,1,1
+FAM-02337,Western New York,Family/Guardian Survey,1,1,0,1,1,0,1,0
+FAM-02338,Hudson Valley,Family/Guardian Survey,1,1,1,0,1,0,1,1
+FAM-02339,Long Island,Child Family Survey,1,1,1,0,1,1,0,0
+FAM-02340,North Country,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-02341,Southern Tier,Child Family Survey,0,1,1,0,1,0,1,0
+FAM-02342,New York City,Adult Family Survey,1,1,1,1,1,1,0,0
+FAM-02343,New York City,Family/Guardian Survey,1,1,1,1,1,0,0,0
+FAM-02344,Western New York,Child Family Survey,1,1,0,0,0,0,1,0
+FAM-02345,Finger Lakes,Child Family Survey,1,1,1,1,1,1,0,1
+FAM-02346,Mohawk Valley,Adult Family Survey,1,1,1,1,1,1,0,1
+FAM-02347,New York City,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-02348,New York City,Family/Guardian Survey,1,1,1,1,1,1,1,1
+FAM-02349,Western New York,Child Family Survey,0,1,1,1,1,0,1,1
+FAM-02350,Hudson Valley,Child Family Survey,1,1,0,0,1,0,1,0
+FAM-02351,Central New York,Family/Guardian Survey,0,1,0,0,1,0,0,1
+FAM-02352,Hudson Valley,Family/Guardian Survey,0,1,1,0,1,0,1,1
+FAM-02353,Hudson Valley,Child Family Survey,1,0,0,1,1,0,1,0
+FAM-02354,North Country,Adult Family Survey,1,0,1,1,0,1,0,1
+FAM-02355,Central New York,Adult Family Survey,0,1,1,1,1,1,1,1
+FAM-02356,New York City,Child Family Survey,1,1,1,1,1,1,0,1
+FAM-02357,Central New York,Adult Family Survey,1,1,1,0,0,1,0,0
+FAM-02358,New York City,Child Family Survey,1,1,1,1,0,1,1,1
+FAM-02359,Finger Lakes,Adult Family Survey,1,1,1,1,1,1,0,1
+FAM-02360,Finger Lakes,Child Family Survey,1,1,1,0,1,1,0,1
+FAM-02361,Hudson Valley,Family/Guardian Survey,1,0,1,1,0,1,1,1
+FAM-02362,New York City,Adult Family Survey,1,1,1,1,0,0,0,1
+FAM-02363,Mohawk Valley,Adult Family Survey,1,0,1,0,1,1,1,1
+FAM-02364,Capital Region,Adult Family Survey,1,1,0,1,0,0,0,1
+FAM-02365,New York City,Family/Guardian Survey,1,1,1,0,1,1,1,1
+FAM-02366,Finger Lakes,Child Family Survey,0,1,0,1,1,0,1,1
+FAM-02367,Central New York,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-02368,Hudson Valley,Child Family Survey,1,1,1,1,0,1,0,1
+FAM-02369,New York City,Family/Guardian Survey,1,1,1,1,1,1,0,1
+FAM-02370,Capital Region,Adult Family Survey,1,1,1,1,0,0,1,1
+FAM-02371,New York City,Family/Guardian Survey,1,0,1,1,0,1,1,0
+FAM-02372,New York City,Child Family Survey,1,1,1,1,1,1,1,1
+FAM-02373,New York City,Child Family Survey,1,1,1,1,0,1,1,1
+FAM-02374,Capital Region,Child Family Survey,0,1,1,0,0,1,0,1
+FAM-02375,Finger Lakes,Child Family Survey,1,1,0,1,1,1,1,1
+FAM-02376,Central New York,Child Family Survey,0,1,1,1,1,1,0,1
+FAM-02377,Long Island,Child Family Survey,1,0,1,1,1,0,0,1
+FAM-02378,New York City,Child Family Survey,1,1,1,1,1,0,0,1
+FAM-02379,North Country,Family/Guardian Survey,1,1,0,1,1,1,1,1
+FAM-02380,New York City,Family/Guardian Survey,1,1,1,1,1,1,0,1
+FAM-02381,North Country,Adult Family Survey,1,1,1,1,1,0,1,1
+FAM-02382,Long Island,Adult Family Survey,1,1,0,1,0,1,1,1
+FAM-02383,New York City,Family/Guardian Survey,1,1,1,1,1,0,0,1
+FAM-02384,New York City,Child Family Survey,1,1,1,1,0,0,1,1
+FAM-02385,New York City,Child Family Survey,1,1,0,1,1,0,1,1
+FAM-02386,Long Island,Adult Family Survey,1,1,1,1,1,0,0,0
+FAM-02387,Hudson Valley,Adult Family Survey,1,1,1,1,1,0,1,1
+FAM-02388,Long Island,Adult Family Survey,1,1,1,1,1,0,0,1
+FAM-02389,Western New York,Adult Family Survey,1,0,0,0,1,0,1,0
+FAM-02390,Hudson Valley,Adult Family Survey,0,1,1,1,1,1,1,1
+FAM-02391,Long Island,Child Family Survey,1,1,1,0,1,0,0,1
+FAM-02392,Capital Region,Family/Guardian Survey,1,1,0,0,1,0,0,0
+FAM-02393,Hudson Valley,Adult Family Survey,0,0,1,0,1,0,0,1
+FAM-02394,Western New York,Adult Family Survey,1,1,1,1,0,0,1,0
+FAM-02395,Hudson Valley,Child Family Survey,1,1,1,0,1,1,1,1
+FAM-02396,Capital Region,Family/Guardian Survey,1,0,1,1,0,1,0,1
+FAM-02397,Hudson Valley,Child Family Survey,1,1,1,0,1,1,0,0
+FAM-02398,Capital Region,Child Family Survey,0,0,1,1,1,1,1,1
+FAM-02399,Capital Region,Child Family Survey,0,0,1,1,1,1,0,1
+FAM-02400,Central New York,Family/Guardian Survey,1,1,1,0,0,1,1,1
