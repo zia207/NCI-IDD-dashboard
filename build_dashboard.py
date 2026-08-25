@@ -3,6 +3,7 @@ build_dashboard.py
 ==================
 Reads the three simulated NCI-IDD CSVs and generates a single, self-contained,
 GitHub-Pages-ready interactive dashboard: nci_idd_dashboard.html
+(also published as index.html by .github/workflows/pages.yml)
 
 Interactivity is client-side (Plotly.js via CDN + vanilla JS): a global region
 selector filters KPIs and outcome charts; regional-comparison charts stay full.

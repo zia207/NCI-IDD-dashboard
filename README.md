@@ -1,5 +1,7 @@
 # NCI-IDD Outcomes & Workforce Dashboards — NYS (Simulated)
 
+**Live dashboard:** [https://zia207.github.io/NCI-IDD-dashboard/](https://zia207.github.io/NCI-IDD-dashboard/)
+
 Two professional dashboards for the National Core Indicators – Intellectual and
 Developmental Disabilities (NCI-IDD) program for New York State (OPWDD), built on
 **simulated** data for all three NCI surveys: the In-Person Survey, the Family
@@ -11,12 +13,12 @@ Surveys, and the State of the Workforce Survey.
 ## What's here
 
 ### 1. Python dashboard 
-- **`nci_idd_dashboard.html`** — open in any browser or drop into a GitHub Pages
-  repo. Interactive: a region selector filters KPIs and outcome charts; tabs for
-  Overview, In-Person Survey, Family Surveys, Workforce, and Methodology. It is
-  **fully self-contained** — Plotly.js is inlined, so it works offline and needs
-  no CDN. (Only the web font loads from the internet and falls back to system
-  fonts if offline.)
+- **`nci_idd_dashboard.html`** — open in any browser. Interactive: a region
+  selector filters KPIs and outcome charts; tabs for Overview, In-Person Survey,
+  Family Surveys, Workforce, and Methodology. It is **fully self-contained** —
+  Plotly.js is inlined, so it works offline and needs no CDN. (Only the web font
+  loads from the internet and falls back to system fonts if offline.) GitHub
+  Pages serves this file as the site homepage via `.github/workflows/pages.yml`.
 - **Interactive workforce map:** the Workforce tab includes a choropleth of the
   10 NYS regions with a metric toggle (DSP turnover / avg wage / vacancy /
   tenure). It is drawn as filled polygons on a cartesian plot (no online map
